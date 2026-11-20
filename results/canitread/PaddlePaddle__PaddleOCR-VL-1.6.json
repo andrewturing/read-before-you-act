@@ -1,0 +1,102 @@
+{
+ "model": "PaddlePaddle/PaddleOCR-VL-1.6",
+ "precision": "bfloat16",
+ "device": "cuda",
+ "chart": "0.1",
+ "pairs": 40,
+ "quick": false,
+ "acuity_px": 4,
+ "seconds": 525,
+ "sizes": [
+  {
+   "px": 24,
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "exact": 1.0
+  },
+  {
+   "px": 16,
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "exact": 1.0
+  },
+  {
+   "px": 12,
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "exact": 1.0
+  },
+  {
+   "px": 10,
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "exact": 0.975
+  },
+  {
+   "px": 8,
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "exact": 1.0
+  },
+  {
+   "px": 6,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.975
+  },
+  {
+   "px": 5,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.875
+  },
+  {
+   "px": 4,
+   "n": 40,
+   "correct": 37,
+   "accuracy": 0.925,
+   "low": 0.8014,
+   "high": 0.9742,
+   "exact": 0.425
+  },
+  {
+   "px": 3,
+   "n": 40,
+   "correct": 27,
+   "accuracy": 0.675,
+   "low": 0.5202,
+   "high": 0.7992,
+   "exact": 0.15
+  },
+  {
+   "px": 2,
+   "n": 40,
+   "correct": 16,
+   "accuracy": 0.4,
+   "low": 0.2635,
+   "high": 0.554,
+   "exact": 0.0
+  }
+ ]
+}

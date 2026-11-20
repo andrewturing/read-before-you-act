@@ -1,0 +1,8562 @@
+[
+ {
+  "size": 24,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydroxyzine 5 mg",
+  "pred": [
+   "Hydrozine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.1789160519838333,
+   -0.048313599079847336
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefuroxime 10 mg",
+  "pred": [
+   "Cefixime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.035337742418050766,
+   -0.039114002138376236
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amlodipine 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.10929310321807861,
+   -0.020824991166591644
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metronidazole 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.01972966082394123,
+   -0.028133796527981758
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisolone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07475897669792175,
+   -0.08519415557384491
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonazepam 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.023754937574267387,
+   -0.037811748683452606
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 6,
+  "kind": "name",
+  "target": "Losartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06629511713981628,
+   -0.06336872279644012
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamivudine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Laminudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.04080699756741524,
+   -0.2221311777830124
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 8,
+  "kind": "name",
+  "target": "Tramadol 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0266866497695446,
+   -0.04824600741267204
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 9,
+  "kind": "name",
+  "target": "Buspirone 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.039911311119794846,
+   -0.0887315571308136
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpromazine 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chloropropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.026577990502119064,
+   -0.11834400147199631
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vincristine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincristine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08778036385774612,
+   -0.08573784679174423
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dopamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07604223489761353,
+   -0.04821714013814926
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 13,
+  "kind": "name",
+  "target": "Epinephrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.029490040615200996,
+   -0.03646019846200943
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glipizide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0872543454170227,
+   -0.053246643394231796
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 15,
+  "kind": "name",
+  "target": "Oxycodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06243826448917389,
+   -0.03861570730805397
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 16,
+  "kind": "name",
+  "target": "Methotrexate 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02776366099715233,
+   -0.13224859535694122
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinidine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinine 50 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.1390426903963089,
+   -0.19175861775875092
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 18,
+  "kind": "name",
+  "target": "Risperidone 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.041471801698207855,
+   -0.10764044523239136
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfadiazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05359902232885361,
+   -0.0309760682284832
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tizanidine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tiagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06548810750246048,
+   -0.0511142835021019
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 21,
+  "kind": "name",
+  "target": "Oxcarbazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.023424582555890083,
+   -0.030770007520914078
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 22,
+  "kind": "name",
+  "target": "Azithromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03140471503138542,
+   -0.07370589673519135
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomipramine 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.033651165664196014,
+   -0.028364818543195724
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 24,
+  "kind": "name",
+  "target": "Daunorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04827464371919632,
+   -0.0373840294778347
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 25,
+  "kind": "name",
+  "target": "Paroxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.030102485790848732,
+   -0.02967800572514534
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guaifenesin 250 mg",
+  "pred": [
+   "Guafenesisin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.22851848602294922,
+   -0.04498402029275894
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nicardipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04651779308915138,
+   -0.042915962636470795
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propranolol 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04849131777882576,
+   -0.022238243371248245
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levetiracetam 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.023413345217704773,
+   -0.08162608742713928
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 30,
+  "kind": "name",
+  "target": "Omeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esoemprazole 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1089382916688919,
+   -0.31913721561431885
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 31,
+  "kind": "name",
+  "target": "Carvedilol 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0448925718665123,
+   -0.03987566754221916
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 5 mg",
+  "pred": [
+   "Amlodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.13647116720676422,
+   -0.11188194900751114
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0770416408777237,
+   -0.07475897669792175
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 25 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08349448442459106,
+   -0.08452031761407852
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 500 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.01972966082394123,
+   -0.028889868408441544
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 0.5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03829480707645416,
+   -0.03278488293290138
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 25 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03190740570425987,
+   -0.01969793252646923
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 15 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02180720493197441,
+   -0.03644925355911255
+  ]
+ },
+ {
+  "size": 24,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 200 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.10714669525623322,
+   -0.10279432684183121
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydralazine 5 mg",
+  "pred": [
+   "Hydrozine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.17556102573871613,
+   -0.05487633869051933
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefixime 10 mg",
+  "pred": [
+   "Cefixime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05369679629802704,
+   -0.05603227764368057
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amiloride 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.127668559551239,
+   -0.026136789470911026
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0324157178401947,
+   -0.0429571308195591
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisolone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisolone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09517768025398254,
+   -0.09841342270374298
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonidine 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0356273353099823,
+   -0.04433894902467728
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 6,
+  "kind": "name",
+  "target": "Valsartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07686308026313782,
+   -0.08034204691648483
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamotrigine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Laminudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05148785561323166,
+   -0.2544454038143158
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 8,
+  "kind": "name",
+  "target": "Trazodone 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04411005601286888,
+   -0.06034119427204132
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 9,
+  "kind": "name",
+  "target": "Bupropion 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06441585719585419,
+   -0.0996389389038086
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpropamide 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chloropropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.03164314851164818,
+   -0.14547327160835266
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vinblastine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincristine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11053813248872757,
+   -0.09909652173519135
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dobutamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09643977880477905,
+   -0.06785009056329727
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 13,
+  "kind": "name",
+  "target": "Ephedrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03930330649018288,
+   -0.0470733642578125
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glyburide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11259054392576218,
+   -0.044804543256759644
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 15,
+  "kind": "name",
+  "target": "Hydrocodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06760074198246002,
+   -0.053206752985715866
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 16,
+  "kind": "name",
+  "target": "Metolazone 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.0387265607714653,
+   -0.16862128674983978
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinine 50 mg"
+  ],
+  "correct": 0,
+  "exact": 1,
+  "mean_lp": [
+   -0.14832092821598053,
+   -0.23927101492881775
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 18,
+  "kind": "name",
+  "target": "Ropinirole 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05655493214726448,
+   -0.14246205985546112
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfasalazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06353487819433212,
+   -0.03777709975838661
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tiagabine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tiagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07607921957969666,
+   -0.07257860153913498
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 21,
+  "kind": "name",
+  "target": "Carbamazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.027116218581795692,
+   -0.035990793257951736
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 22,
+  "kind": "name",
+  "target": "Erythromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05416874960064888,
+   -0.10238156467676163
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomiphene 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.037554774433374405,
+   -0.039778076112270355
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 24,
+  "kind": "name",
+  "target": "Doxorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.062155384570360184,
+   -0.04850253835320473
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 25,
+  "kind": "name",
+  "target": "Fluoxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04531130939722061,
+   -0.03850580006837845
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guanfacine 250 mg",
+  "pred": [
+   "Guafenesisin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.21580728888511658,
+   -0.05385503172874451
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nifedipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05796759948134422,
+   -0.05471639707684517
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propafenone 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05525306239724159,
+   -0.024872872978448868
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levofloxacin 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.033828578889369965,
+   -0.08840878307819366
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 30,
+  "kind": "name",
+  "target": "Esomeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esopermazole 25 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.12836119532585144,
+   -0.28473469614982605
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 31,
+  "kind": "name",
+  "target": "Captopril 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07855868339538574,
+   -0.04588715732097626
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 50 mg",
+  "pred": [
+   "Amlodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.14570337533950806,
+   -0.12174849212169647
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 10 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08293181657791138,
+   -0.09517768025398254
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 250 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08797347545623779,
+   -0.08039668202400208
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0324157178401947,
+   -0.041790224611759186
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.044718559831380844,
+   -0.04186002165079117
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 2.5 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04061473533511162,
+   -0.033430326730012894
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 75 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03430159017443657,
+   -0.04908643290400505
+  ]
+ },
+ {
+  "size": 16,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 20 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.15414202213287354,
+   -0.1479153335094452
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydroxyzine 5 mg",
+  "pred": [
+   "Hydroxyzine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.14825481176376343,
+   -0.04023605212569237
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefuroxime 10 mg",
+  "pred": [
+   "Cefixime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.032462384551763535,
+   -0.03518647328019142
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amlodipine 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09764251112937927,
+   -0.018369529396295547
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metronidazole 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.017671987414360046,
+   -0.02745724655687809
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 0,
+  "exact": 1,
+  "mean_lp": [
+   -0.10475298017263412,
+   -0.14257043600082397
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonazepam 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03153938055038452,
+   -0.0369056798517704
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 6,
+  "kind": "name",
+  "target": "Losartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03636503964662552,
+   -0.05413436144590378
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamivudine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Laminudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.03369906544685364,
+   -0.2116900235414505
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 8,
+  "kind": "name",
+  "target": "Tramadol 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.022073524072766304,
+   -0.03186854347586632
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 9,
+  "kind": "name",
+  "target": "Buspirone 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.039353229105472565,
+   -0.06911922991275787
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpromazine 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chlorpropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02554851397871971,
+   -0.12576793134212494
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vincristine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincristine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08173886686563492,
+   -0.09530366212129593
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dopamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06158045679330826,
+   -0.04614395648241043
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 13,
+  "kind": "name",
+  "target": "Epinephrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02911081165075302,
+   -0.026169244199991226
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glipizide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06443455815315247,
+   -0.03476143628358841
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 15,
+  "kind": "name",
+  "target": "Oxycodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07197856903076172,
+   -0.039802439510822296
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 16,
+  "kind": "name",
+  "target": "Methotrexate 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04772084206342697,
+   -0.15645530819892883
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinidine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinidine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.167525053024292,
+   -0.1832766830921173
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 18,
+  "kind": "name",
+  "target": "Risperidone 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirrole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04612889513373375,
+   -0.14773358404636383
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfadiazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04867792874574661,
+   -0.027235735207796097
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tizanidine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tiagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05129038542509079,
+   -0.059700947254896164
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 21,
+  "kind": "name",
+  "target": "Oxcarbazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.020663069561123848,
+   -0.026776380836963654
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 22,
+  "kind": "name",
+  "target": "Azithromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04174025356769562,
+   -0.0551675483584404
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomipramine 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0361240915954113,
+   -0.02537376619875431
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 24,
+  "kind": "name",
+  "target": "Daunorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.046888116747140884,
+   -0.03902997449040413
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 25,
+  "kind": "name",
+  "target": "Paroxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03374959155917168,
+   -0.02879410982131958
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guaifenesin 250 mg",
+  "pred": [
+   "Guaifenesin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.12793205678462982,
+   -0.03469647094607353
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nicardipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05390993133187294,
+   -0.03877986595034599
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propranolol 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.039973802864551544,
+   -0.016761744394898415
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levetiracetam 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02098803222179413,
+   -0.07436428219079971
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 30,
+  "kind": "name",
+  "target": "Omeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esopermazole 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09085772931575775,
+   -0.24868528544902802
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 31,
+  "kind": "name",
+  "target": "Carvedilol 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.052398573607206345,
+   -0.03224996104836464
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 5 mg",
+  "pred": [
+   "Amlodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.10018370300531387,
+   -0.07617321610450745
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09495451301336288,
+   -0.10475298017263412
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 25 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04596521332859993,
+   -0.04772166162729263
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 500 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.017671987414360046,
+   -0.029757509008049965
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 0.5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03588149696588516,
+   -0.029087228700518608
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 25 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.029590606689453125,
+   -0.02533399686217308
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 15 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.016875410452485085,
+   -0.032450441271066666
+  ]
+ },
+ {
+  "size": 12,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 200 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.13851432502269745,
+   -0.1273607313632965
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydralazine 5 mg",
+  "pred": [
+   "Hydroxyzine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.15312814712524414,
+   -0.04454920440912247
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefixime 10 mg",
+  "pred": [
+   "Cefixime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05094202235341072,
+   -0.04623490199446678
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amiloride 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.12055845558643341,
+   -0.026763278990983963
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02950536645948887,
+   -0.04211689531803131
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisolone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisolone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09842532128095627,
+   -0.08241674304008484
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonidine 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.036570366472005844,
+   -0.0437014177441597
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 6,
+  "kind": "name",
+  "target": "Valsartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05040905252099037,
+   -0.06521588563919067
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamotrigine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Laminudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.044565774500370026,
+   -0.21749906241893768
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 8,
+  "kind": "name",
+  "target": "Trazodone 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04498746618628502,
+   -0.0597245953977108
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 9,
+  "kind": "name",
+  "target": "Bupropion 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05368726700544357,
+   -0.07627107203006744
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpropamide 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chloropropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.0347580760717392,
+   -0.1649591028690338
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vinblastine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincristine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08658289164304733,
+   -0.19596007466316223
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dobutamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08076979219913483,
+   -0.053676754236221313
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 13,
+  "kind": "name",
+  "target": "Ephedrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03536562994122505,
+   -0.03836340457201004
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glyburide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08028122782707214,
+   -0.04265105724334717
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 15,
+  "kind": "name",
+  "target": "Hydrocodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0914219319820404,
+   -0.06099756434559822
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 16,
+  "kind": "name",
+  "target": "Metolazone 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.04886313155293465,
+   -0.1530640870332718
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinidine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1791781485080719,
+   -0.21531088650226593
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 18,
+  "kind": "name",
+  "target": "Ropinirole 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirrole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.0647241622209549,
+   -0.13012437522411346
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfasalazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05521167069673538,
+   -0.03332480043172836
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tiagabine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tiagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.062444496899843216,
+   -0.08596162497997284
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 21,
+  "kind": "name",
+  "target": "Carbamazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.024021323770284653,
+   -0.03237812593579292
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 22,
+  "kind": "name",
+  "target": "Erythromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06536252796649933,
+   -0.08072714507579803
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomiphene 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04117951914668083,
+   -0.03487149626016617
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 24,
+  "kind": "name",
+  "target": "Doxorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05701158195734024,
+   -0.04886918514966965
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 25,
+  "kind": "name",
+  "target": "Fluoxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04225875809788704,
+   -0.0432211272418499
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guanfacine 250 mg",
+  "pred": [
+   "Guafenesisin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.18296226859092712,
+   -0.04512662813067436
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nifedipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.059145938605070114,
+   -0.04440037161111832
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propafenone 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04504125192761421,
+   -0.019988086074590683
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levofloxacin 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.034732215106487274,
+   -0.10141261667013168
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 30,
+  "kind": "name",
+  "target": "Esomeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esopermazole 25 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.11767266690731049,
+   -0.2664269208908081
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 31,
+  "kind": "name",
+  "target": "Captopril 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07746432721614838,
+   -0.037023261189460754
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 50 mg",
+  "pred": [
+   "Amlodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11756328493356705,
+   -0.09578035771846771
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 10 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0869232565164566,
+   -0.09842532128095627
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 250 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06517723202705383,
+   -0.05493742972612381
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02950536645948887,
+   -0.04211189225316048
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04944198578596115,
+   -0.043878018856048584
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 2.5 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04305865988135338,
+   -0.036914266645908356
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 75 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03174630180001259,
+   -0.05038413777947426
+  ]
+ },
+ {
+  "size": 10,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 20 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.3340994119644165,
+   -0.29174286127090454
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydroxyzine 5 mg",
+  "pred": [
+   "Hydroxyzine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1512804925441742,
+   -0.037510912865400314
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefuroxime 10 mg",
+  "pred": [
+   "Cefixime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03485548123717308,
+   -0.04180020093917847
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amlodipine 25 mg",
+  "pred": [
+   "Amodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.1606307327747345,
+   -0.02122439071536064
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metronidazole 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.025773655623197556,
+   -0.03882827237248421
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 0,
+  "exact": 1,
+  "mean_lp": [
+   -0.09703811258077621,
+   -0.1425166130065918
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonazepam 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0398489348590374,
+   -0.04127884656190872
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 6,
+  "kind": "name",
+  "target": "Losartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03421800956130028,
+   -0.0668681412935257
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamivudine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Laminudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.036540016531944275,
+   -0.22368615865707397
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 8,
+  "kind": "name",
+  "target": "Tramadol 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.035739999264478683,
+   -0.044481292366981506
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 9,
+  "kind": "name",
+  "target": "Buspirone 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.030880527570843697,
+   -0.07407757639884949
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpromazine 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chloropropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03217994421720505,
+   -0.16456899046897888
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vincristine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincristine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0894412249326706,
+   -0.19045329093933105
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dopamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06474047899246216,
+   -0.05081672966480255
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 13,
+  "kind": "name",
+  "target": "Epinephrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.027706699445843697,
+   -0.025612320750951767
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glipizide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06965275853872299,
+   -0.054600417613983154
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 15,
+  "kind": "name",
+  "target": "Oxycodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07847660779953003,
+   -0.04691048339009285
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 16,
+  "kind": "name",
+  "target": "Methotrexate 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.059049446135759354,
+   -0.10906489193439484
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinidine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinidine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.15982267260551453,
+   -0.1896924525499344
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 18,
+  "kind": "name",
+  "target": "Risperidone 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirrole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.050869058817625046,
+   -0.12431003898382187
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfadiazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06312723457813263,
+   -0.03632371872663498
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tizanidine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tiagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06513683497905731,
+   -0.09912338852882385
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 21,
+  "kind": "name",
+  "target": "Oxcarbazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.02113453485071659,
+   -0.02711108885705471
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 22,
+  "kind": "name",
+  "target": "Azithromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04978427663445473,
+   -0.11222949624061584
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomipramine 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03484314680099487,
+   -0.03529679775238037
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 24,
+  "kind": "name",
+  "target": "Daunorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04679276794195175,
+   -0.04303128644824028
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 25,
+  "kind": "name",
+  "target": "Paroxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.038279108703136444,
+   -0.03948663920164108
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guaifenesin 250 mg",
+  "pred": [
+   "Guafenesisin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.20600128173828125,
+   -0.03480350226163864
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nicardipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05505640432238579,
+   -0.04398054629564285
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propranolol 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04721429571509361,
+   -0.016380291432142258
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levetiracetam 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.028985988348722458,
+   -0.09424031525850296
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 30,
+  "kind": "name",
+  "target": "Omeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esopermazole 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.10043338686227798,
+   -0.27289167046546936
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 31,
+  "kind": "name",
+  "target": "Carvedilol 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05557204782962799,
+   -0.05936636030673981
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 5 mg",
+  "pred": [
+   "Amodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.13108833134174347,
+   -0.1461346447467804
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08168219029903412,
+   -0.09703811258077621
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 25 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03949998319149017,
+   -0.03828353062272072
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 500 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.025773655623197556,
+   -0.03386186063289642
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 0.5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04626361280679703,
+   -0.04600503668189049
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 25 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.041110411286354065,
+   -0.04790113493800163
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 15 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.023938214406371117,
+   -0.04413612559437752
+  ]
+ },
+ {
+  "size": 8,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 200 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1482326239347458,
+   -0.24516990780830383
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydralazine 5 mg",
+  "pred": [
+   "Hydroxyzine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11378356069326401,
+   -0.031539760529994965
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefixime 10 mg",
+  "pred": [
+   "Cellxime 10 mg",
+   "Cefuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.08541807532310486,
+   -0.12054131925106049
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amiloride 25 mg",
+  "pred": [
+   "Amodipine 25 mg",
+   "Amiloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.16386903822422028,
+   -0.07097722589969635
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.036948464810848236,
+   -0.03983287885785103
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisolone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.08441898226737976,
+   -0.13061027228832245
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonidine 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05508109927177429,
+   -0.05929386243224144
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 6,
+  "kind": "name",
+  "target": "Valsartan 500 mg",
+  "pred": [
+   "Losartan 500 mg",
+   "Valsartan 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04142794758081436,
+   -0.11731759458780289
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamotrigine 5 mg",
+  "pred": [
+   "Lamotrigine 5 mg",
+   "Lamivudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03409450128674507,
+   -0.1241459846496582
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 8,
+  "kind": "name",
+  "target": "Trazodone 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04491093382239342,
+   -0.07325597107410431
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 9,
+  "kind": "name",
+  "target": "Bupropion 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04001970589160919,
+   -0.09254390001296997
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpropamide 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chlorpropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04237743467092514,
+   -0.12640120089054108
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vinblastine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vinclestine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07080551236867905,
+   -0.289831280708313
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dobutamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11201600730419159,
+   -0.09342140704393387
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 13,
+  "kind": "name",
+  "target": "Ephedrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04895241558551788,
+   -0.041949834674596786
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glyburide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09654160588979721,
+   -0.03352471441030502
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 15,
+  "kind": "name",
+  "target": "Hydrocodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0889909639954567,
+   -0.07213155180215836
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 16,
+  "kind": "name",
+  "target": "Metolazone 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Metolazone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06278987228870392,
+   -0.13876239955425262
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinine 50 mg",
+  "pred": [
+   "Quinine 50 mg",
+   "Quinidine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1897086203098297,
+   -0.09105121344327927
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 18,
+  "kind": "name",
+  "target": "Ropinirole 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropinirole 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07268067449331284,
+   -0.14107948541641235
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfasalazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08438311517238617,
+   -0.032659582793712616
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tiagabine 500 mg",
+  "pred": [
+   "Tizanidine 500 mg",
+   "Tagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.10880492627620697,
+   -0.06556055694818497
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 21,
+  "kind": "name",
+  "target": "Carbamazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04118288308382034,
+   -0.03782539814710617
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 22,
+  "kind": "name",
+  "target": "Erythromycin 10 mg",
+  "pred": [
+   "Azithromycin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04931429773569107,
+   -0.09325165301561356
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomiphene 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0577239990234375,
+   -0.037291269749403
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 24,
+  "kind": "name",
+  "target": "Doxorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06331248581409454,
+   -0.04706487059593201
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 25,
+  "kind": "name",
+  "target": "Fluoxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paroxetine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05658993870019913,
+   -0.048916175961494446
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guanfacine 250 mg",
+  "pred": [
+   "Guaflennin 250 mg",
+   "Guanfacine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.42856693267822266,
+   -0.05097135901451111
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nifedipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07905780524015427,
+   -0.05252993106842041
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propafenone 5 mg",
+  "pred": [
+   "Propranolol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05121529847383499,
+   -0.030744608491659164
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levofloxacin 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Leveltiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.039939992129802704,
+   -0.2012544870376587
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 30,
+  "kind": "name",
+  "target": "Esomeprazole 25 mg",
+  "pred": [
+   "Omeprazole 25 mg",
+   "Esomeprazole 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.16542533040046692,
+   -0.09466680139303207
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 31,
+  "kind": "name",
+  "target": "Captopril 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Carvedilol 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.059213265776634216,
+   -0.1255175620317459
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 50 mg",
+  "pred": [
+   "Amodipine 5 mg",
+   "Amodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.17904426157474518,
+   -0.1739024519920349
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 10 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09266754984855652,
+   -0.08441898226737976
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 250 mg",
+  "pred": [
+   "Losartan 25 mg",
+   "Losartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.041526734828948975,
+   -0.051913145929574966
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.036948464810848236,
+   -0.05337585508823395
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.046690404415130615,
+   -0.038369953632354736
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 2.5 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09752611815929413,
+   -0.10004575550556183
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 75 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.03278667852282524,
+   -0.04119357839226723
+  ]
+ },
+ {
+  "size": 6,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 20 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furosemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.17718346416950226,
+   -0.2173200100660324
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydroxyzine 5 mg",
+  "pred": [
+   "Hydrazine 5 mg",
+   "Hydralazine 5 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.17233046889305115,
+   -0.04234745353460312
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefuroxime 10 mg",
+  "pred": [
+   "Cobalme 10 mg",
+   "Cofuroxime 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.3870807886123657,
+   -0.17210347950458527
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amlodipine 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Amilloride 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.2164958268404007,
+   -0.09901441633701324
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metronidazole 50 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metronidazole 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06035498529672623,
+   -0.05005510151386261
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisolone 100 mg",
+   "Propranolol 100 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.10213948786258698,
+   -0.23640665411949158
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonazepam 250 mg",
+  "pred": [
+   "Clonidine 250 mg",
+   "Clonazepam 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.10689055919647217,
+   -0.052192334085702896
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 6,
+  "kind": "name",
+  "target": "Losartan 500 mg",
+  "pred": [
+   "Loartan 500 mg",
+   "Valstaran 500 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.16399326920509338,
+   -0.2297564595937729
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamivudine 5 mg",
+  "pred": [
+   "Lomatrigine 5 mg",
+   "Lamhudine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.38878577947616577,
+   -0.17476707696914673
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 8,
+  "kind": "name",
+  "target": "Tramadol 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trazodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04752923175692558,
+   -0.09407564252614975
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 9,
+  "kind": "name",
+  "target": "Buspirone 25 mg",
+  "pred": [
+   "Bupropion 25 mg",
+   "Buspirone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05126603692770004,
+   -0.1079585999250412
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpromazine 50 mg",
+  "pred": [
+   "Chlorpromazine 50 mg",
+   "Chlorpropamide 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05409712344408035,
+   -0.1376890391111374
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vincristine 100 mg",
+  "pred": [
+   "Vinblastine 100 mg",
+   "Vincentine 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.08380833268165588,
+   -0.25605452060699463
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dopamine 250 mg",
+  "pred": [
+   "Dopamine 250 mg",
+   "Dobutamine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09006310999393463,
+   -0.0670752301812172
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 13,
+  "kind": "name",
+  "target": "Epinephrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.037330176681280136,
+   -0.034237973392009735
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glipizide 5 mg",
+  "pred": [
+   "Glipizide 5 mg",
+   "Glyburide 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.19262835383415222,
+   -0.01857730746269226
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 15,
+  "kind": "name",
+  "target": "Oxycodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Oxycodone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06456101685762405,
+   -0.09420202672481537
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 16,
+  "kind": "name",
+  "target": "Methotrexate 25 mg",
+  "pred": [
+   "Methotrexate 25 mg",
+   "Methylazone 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.09727396816015244,
+   -0.2899480164051056
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinidine 50 mg",
+  "pred": [
+   "Quinoline 50 mg",
+   "Quinine 50 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.11162348091602325,
+   -0.1502591073513031
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 18,
+  "kind": "name",
+  "target": "Risperidone 100 mg",
+  "pred": [
+   "Risperidone 100 mg",
+   "Ropirrolo 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08007782697677612,
+   -0.26412490010261536
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfadiazine 250 mg",
+  "pred": [
+   "Sulfasalazine 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.059070151299238205,
+   -0.10442955791950226
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tizanidine 500 mg",
+  "pred": [
+   "Tiazidine 500 mg",
+   "Tagabine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.4019506871700287,
+   -0.1078159511089325
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 21,
+  "kind": "name",
+  "target": "Oxcarbazepine 5 mg",
+  "pred": [
+   "Carbamazepine 5 mg",
+   "Oxcarbazepine 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.0494813434779644,
+   -0.06850013881921768
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 22,
+  "kind": "name",
+  "target": "Azithromycin 10 mg",
+  "pred": [
+   "Arthromycin 10 mg",
+   "Etherythromin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.2660106420516968,
+   -0.6794770359992981
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomipramine 25 mg",
+  "pred": [
+   "Clomiphene 25 mg",
+   "Clomipramine 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11410507559776306,
+   -0.0819733738899231
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 24,
+  "kind": "name",
+  "target": "Daunorubicin 50 mg",
+  "pred": [
+   "Daunorubicin 50 mg",
+   "Doxorubicin 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.20155315101146698,
+   -0.058995265513658524
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 25,
+  "kind": "name",
+  "target": "Paroxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paracetamol 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.07494405657052994,
+   -0.212629035115242
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guaifenesin 250 mg",
+  "pred": [
+   "Qualenesisin 250 mg",
+   "Quantaflacino 250 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.48022469878196716,
+   -0.19304795563220978
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nicardipine 500 mg",
+  "pred": [
+   "Nifedipine 500 mg",
+   "Nicardipine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.14351585507392883,
+   -0.06647361814975739
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propranolol 5 mg",
+  "pred": [
+   "Propanol 5 mg",
+   "Propafenone 5 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.36165952682495117,
+   -0.06727513670921326
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levetiracetam 10 mg",
+  "pred": [
+   "Levofloxacin 10 mg",
+   "Lovetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.10208728164434433,
+   -0.10443367809057236
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 30,
+  "kind": "name",
+  "target": "Omeprazole 25 mg",
+  "pred": [
+   "Oreprazole 25 mg",
+   "Esomeprazole 25 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.2069224715232849,
+   -0.16299310326576233
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 31,
+  "kind": "name",
+  "target": "Carvedilol 50 mg",
+  "pred": [
+   "Captopril 50 mg",
+   "Canned"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.09856685250997543,
+   -0.5133606195449829
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 5 mg",
+  "pred": [
+   "Amlodipine 5 mg",
+   "Amlodipine 50 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.1468104124069214,
+   -0.17970304191112518
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Prednisolone 10 mg",
+   "Prednisolone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.11962339282035828,
+   -0.10213948786258698
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 25 mg",
+  "pred": [
+   "Loartan 25 mg",
+   "Loartan 250 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.16847698390483856,
+   -0.16437068581581116
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 500 mg",
+  "pred": [
+   "Metformin 50 mg",
+   "Metformin 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.06035498529672623,
+   -0.09318090975284576
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 0.5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 5 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04079744964838028,
+   -0.03459646925330162
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 25 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05943058803677559,
+   -0.06922341883182526
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 15 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 75 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.04201068356633186,
+   -0.05056251958012581
+  ]
+ },
+ {
+  "size": 5,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 200 mg",
+  "pred": [
+   "Furosemide 20 mg",
+   "Furanamide 200 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.308688759803772,
+   -0.361512154340744
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydralazine 5 mg",
+  "pred": [
+   "Hydroxyzine 6 mg",
+   "Hydralate 6 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.19317319989204407,
+   -0.4552542269229889
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefixime 10 mg",
+  "pred": [
+   "Calcium 10 mg",
+   "Caffeine 10 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.12825554609298706,
+   -0.2832699716091156
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amiloride 25 mg",
+  "pred": [
+   "Amlodipine 25 mg",
+   "Armicolene 26 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.16887032985687256,
+   -0.5177314281463623
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Methylmalonyl-5-methyl-5-formate-5-methyl-5-pyruvate-5-methyl-5-ket",
+   "Metronidazole 60 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.8587520122528076,
+   -0.043159082531929016
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisolone 100 mg",
+  "pred": [
+   "Prednisone 100 mg",
+   "Prednisolone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.17480012774467468,
+   -0.1404220014810562
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonidine 250 mg",
+  "pred": [
+   "Cloning 280 mg",
+   "Clonazepam 280 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.19995714724063873,
+   -0.23162560164928436
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 6,
+  "kind": "name",
+  "target": "Valsartan 500 mg",
+  "pred": [
+   "Lowartan 500 mg",
+   "Valerian 500 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.4377383291721344,
+   -0.45431947708129883
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamotrigine 5 mg",
+  "pred": [
+   "Lanthronic 6 mg",
+   "Laminin 6 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.5505907535552979,
+   -0.6314328908920288
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 8,
+  "kind": "name",
+  "target": "Trazodone 10 mg",
+  "pred": [
+   "Tramadol 10 mg",
+   "Trabecone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.07305509597063065,
+   -0.40978139638900757
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 9,
+  "kind": "name",
+  "target": "Bupropion 25 mg",
+  "pred": [
+   "Orupion 25 mg",
+   "Bupropion 25 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.5354642271995544,
+   -0.32083097100257874
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpropamide 50 mg",
+  "pred": [
+   "Chlorpromazine 60 mg",
+   "Chloropropamide 60 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.07904018461704254,
+   -0.2668718099594116
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vinblastine 100 mg",
+  "pred": [
+   "Vantamaste 100 mg",
+   "Vinylene 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.6875201463699341,
+   -0.2791593074798584
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dobutamine 250 mg",
+  "pred": [
+   "O-pramine 280 mg",
+   "Decubamine 280 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.8314682245254517,
+   -0.23858363926410675
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 13,
+  "kind": "name",
+  "target": "Ephedrine 500 mg",
+  "pred": [
+   "Ephedrine 500 mg",
+   "Epinephrine 500 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.05276559293270111,
+   -0.05939759686589241
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glyburide 5 mg",
+  "pred": [
+   "Calcium 6 mg",
+   "Cylindro 6 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.3237796127796173,
+   -0.3911016583442688
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 15,
+  "kind": "name",
+  "target": "Hydrocodone 10 mg",
+  "pred": [
+   "Hydrocodone 10 mg",
+   "Onodrone 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.059264376759529114,
+   -0.3829819858074188
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 16,
+  "kind": "name",
+  "target": "Metolazone 25 mg",
+  "pred": [
+   "Methoxetate 25 mg",
+   "Metallurone 26 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.48721471428871155,
+   -0.5158281922340393
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinine 50 mg",
+  "pred": [
+   "Quinine 60 mg",
+   "Ounce 60 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.14533770084381104,
+   -0.38622716069221497
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 18,
+  "kind": "name",
+  "target": "Ropinirole 100 mg",
+  "pred": [
+   "Riparibone 100 mg",
+   "Roginalde 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.4876079857349396,
+   -0.34381234645843506
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfasalazine 250 mg",
+  "pred": [
+   "Sulfate 250 mg",
+   "Sulfadiazine 250 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.37417569756507874,
+   -0.22114770114421844
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tiagabine 500 mg",
+  "pred": [
+   "Tauridine 500 mg",
+   "Tagatite 500 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.23655502498149872,
+   -0.3943643569946289
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 21,
+  "kind": "name",
+  "target": "Carbamazepine 5 mg",
+  "pred": [
+   "Carbamazepine 6 mg",
+   "Oxcarbazepine 6 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.06669174879789352,
+   -0.21930421888828278
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 22,
+  "kind": "name",
+  "target": "Erythromycin 10 mg",
+  "pred": [
+   "Artecholymin 10 mg",
+   "Erythromycin 10 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.6388224363327026,
+   -0.12425470352172852
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomiphene 25 mg",
+  "pred": [
+   "Clophemel 26 mg",
+   "Clomipramine 26 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.3242148160934448,
+   -0.1321188509464264
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 24,
+  "kind": "name",
+  "target": "Doxorubicin 50 mg",
+  "pred": [
+   "Dauronubicin 60 mg",
+   "Dexamethasone 60 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.7503877878189087,
+   -0.3307713568210602
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 25,
+  "kind": "name",
+  "target": "Fluoxetine 100 mg",
+  "pred": [
+   "Fluoxetine 100 mg",
+   "Paracetamol 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.07395361363887787,
+   -0.07900585234165192
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guanfacine 250 mg",
+  "pred": [
+   "Quafenin 250 mg",
+   "Coumarin 280 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.3565860390663147,
+   -0.39333561062812805
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nifedipine 500 mg",
+  "pred": [
+   "N-Nitrosodiethylamine 500 mg",
+   "Nandipine 500 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.556309700012207,
+   -0.5444642305374146
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propafenone 5 mg",
+  "pred": [
+   "Programmed 6 mg",
+   "Profloquene 6 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.1803300827741623,
+   -0.5892549157142639
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levofloxacin 10 mg",
+  "pred": [
+   "Levodoxacin 10 mg",
+   "Levetiracetam 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.3142722547054291,
+   -0.06072714179754257
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 30,
+  "kind": "name",
+  "target": "Esomeprazole 25 mg",
+  "pred": [
+   "Oromegazo 26 mg",
+   "Espromaque 26 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.7980235815048218,
+   -0.6688219904899597
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 31,
+  "kind": "name",
+  "target": "Captopril 50 mg",
+  "pred": [
+   "Captagon 60 mg",
+   "Carved 60 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.4181836247444153,
+   -0.2709594666957855
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 50 mg",
+  "pred": [
+   "Amlodipine 6 mg",
+   "Amlodipine 60 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.35376521944999695,
+   -0.13219404220581055
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 10 mg",
+  "pred": [
+   "Prednisone 10 mg",
+   "Prednisone 100 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.11943542957305908,
+   -0.17480012774467468
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 250 mg",
+  "pred": [
+   "L-Arginine 26 mg",
+   "Lowartan 280 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.7653294801712036,
+   -0.42123693227767944
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "Methylmalonyl-5-methyl-5-formate-5-methyl-5-pyruvate-5-methyl-5-ket",
+   "Methylmalonyl-5-methyl-5-formate-5-methyl-5-pyruvate-5-methyl-5-ket"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.8587520122528076,
+   -0.8175491690635681
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 5 mg",
+  "pred": [
+   "Warfarin 0.5 mg",
+   "Warfarin 6 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.056657806038856506,
+   -0.04617432877421379
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 2.5 mg",
+  "pred": [
+   "Digoxin 2.5 mg",
+   "Digoxin 25 mg"
+  ],
+  "correct": 1,
+  "exact": 1,
+  "mean_lp": [
+   -0.08786255121231079,
+   -0.14243723452091217
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 75 mg",
+  "pred": [
+   "Morphine 15 mg",
+   "Morphine 76 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.14051121473312378,
+   -0.1323395073413849
+  ]
+ },
+ {
+  "size": 4,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 20 mg",
+  "pred": [
+   "Europemide 20 mg",
+   "Europemide 200 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.3512119948863983,
+   -0.340412437915802
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydroxyzine 5 mg",
+  "pred": [
+   "Hyperfine singing",
+   "Hydrate Sng"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.2373148202896118,
+   -0.948706328868866
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefuroxime 10 mg",
+  "pred": [
+   "Caffeine Ning",
+   "Célèbaine Ning"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.640245258808136,
+   -1.0336637496948242
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amlodipine 25 mg",
+  "pred": [
+   "Andriy Meng",
+   "Andriy Meng"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.773702621459961,
+   -1.1508322954177856
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metronidazole 50 mg",
+  "pred": [
+   "Methylated",
+   "Megaproject"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.5459437370300293,
+   -1.7043415307998657
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Pre-medication 10 mg",
+   "Production 10 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.9764202833175659,
+   -0.6444448232650757
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonazepam 250 mg",
+  "pred": [
+   "Quarry 3000",
+   "Orderliness is not a thing"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.3254280090332031,
+   -1.6946704387664795
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 6,
+  "kind": "name",
+  "target": "Losartan 500 mg",
+  "pred": [
+   "Listerin 100mg",
+   "Vatertod 0000"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.6047519445419312,
+   -1.8352081775665283
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamivudine 5 mg",
+  "pred": [
+   "L'antique s'eng",
+   "Luminescence"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4061436653137207,
+   -1.273266077041626
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 8,
+  "kind": "name",
+  "target": "Tramadol 10 mg",
+  "pred": [
+   "Thumb Ning",
+   "Turture Ning"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.067604899406433,
+   -1.0287762880325317
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 9,
+  "kind": "name",
+  "target": "Buspirone 25 mg",
+  "pred": [
+   "Aptonomy",
+   "Requirement"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.8321388959884644,
+   -0.9434081315994263
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpromazine 50 mg",
+  "pred": [
+   "Oligopneumatic Xing",
+   "Overnight xing"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.175494909286499,
+   -1.108349084854126
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vincristine 100 mg",
+  "pred": [
+   "Wednesday 100 mg",
+   "Valentine 100 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.4405863285064697,
+   -0.7069454789161682
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dopamine 250 mg",
+  "pred": [
+   "Caffeine 200 mg",
+   "Citalopram 700 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.7150091528892517,
+   -0.5908094644546509
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 13,
+  "kind": "name",
+  "target": "Epinephrine 500 mg",
+  "pred": [
+   "I believe I can do this.",
+   "Forget too much"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.3121980428695679,
+   -0.9473133087158203
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glipizide 5 mg",
+  "pred": [
+   "A little something",
+   "Opaque Sng"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.6943912506103516,
+   -1.600009799003601
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 15,
+  "kind": "name",
+  "target": "Oxycodone 10 mg",
+  "pred": [
+   "Hydrochloride Ning",
+   "Overestimation Ning"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.9290516972541809,
+   -0.8985942602157593
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 16,
+  "kind": "name",
+  "target": "Methotrexate 25 mg",
+  "pred": [
+   "Unforgettable Memory",
+   "Murale Mng"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.2367857694625854,
+   -1.777035117149353
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinidine 50 mg",
+  "pred": [
+   "Quine xing",
+   "Question King"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.705184817314148,
+   -0.7215260863304138
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 18,
+  "kind": "name",
+  "target": "Risperidone 100 mg",
+  "pred": [
+   "Regret 100 mg",
+   "Regenerates 100 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.4799632132053375,
+   -0.8399872183799744
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfadiazine 250 mg",
+  "pred": [
+   "Adverse 200 mg",
+   "Adverse 20 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.6435436010360718,
+   -1.2377489805221558
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tizanidine 500 mg",
+  "pred": [
+   "Tiffany 300mg",
+   "Tagline too much"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.522813320159912,
+   -0.8063837289810181
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 21,
+  "kind": "name",
+  "target": "Oxcarbazepine 5 mg",
+  "pred": [
+   "Cetanampristone sng",
+   "Ochtelegen Sie sagen"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4689546823501587,
+   -1.8700335025787354
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 22,
+  "kind": "name",
+  "target": "Azithromycin 10 mg",
+  "pred": [
+   "Autumn Ning",
+   "Irregularity in"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.0873514413833618,
+   -1.5264363288879395
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomipramine 25 mg",
+  "pred": [
+   "Cannot find",
+   "Angle"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.8024077415466309,
+   -2.1475014686584473
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 24,
+  "kind": "name",
+  "target": "Daunorubicin 50 mg",
+  "pred": [
+   "Cederton King",
+   "Commanding King"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.3393861055374146,
+   -1.1323955059051514
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 25,
+  "kind": "name",
+  "target": "Paroxetine 100 mg",
+  "pred": [
+   "Fluoride 100 mg",
+   "Pre-meditate no mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.4632934033870697,
+   -1.5964267253875732
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guaifenesin 250 mg",
+  "pred": [
+   "Quaternary 200 mg",
+   "Quarantine 3000m"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -0.6674430966377258,
+   -0.7777584791183472
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nicardipine 500 mg",
+  "pred": [
+   "Autofire too much",
+   "Nowhere too much"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4708209037780762,
+   -1.1025640964508057
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propranolol 5 mg",
+  "pred": [
+   "Perpetual sin",
+   "Precious sng"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.2313827276229858,
+   -1.3901773691177368
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levetiracetam 10 mg",
+  "pred": [
+   "Lillian King",
+   "Leveling Ning"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.0686609745025635,
+   -0.5883663892745972
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 30,
+  "kind": "name",
+  "target": "Omeprazole 25 mg",
+  "pred": [
+   "One-time",
+   "Cannot"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -2.3155198097229004,
+   -2.408796787261963
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 31,
+  "kind": "name",
+  "target": "Carvedilol 50 mg",
+  "pred": [
+   "Capital Xing",
+   "Caramel Xing"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.0590333938598633,
+   -1.0771750211715698
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 5 mg",
+  "pred": [
+   "Andriod Sng",
+   "Andrey Xing"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.3291932344436646,
+   -1.1620162725448608
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 100 mg",
+  "pred": [
+   "Previewing Ning",
+   "Pre-medication 10 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.0445852279663086,
+   -0.9764202833175659
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 25 mg",
+  "pred": [
+   "Lioran Ming",
+   "Listerin 200 mg"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.1637747287750244,
+   -0.6775729656219482
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 500 mg",
+  "pred": [
+   "Methylated",
+   "Methylated 100 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.5459437370300293,
+   -1.025956630706787
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 0.5 mg",
+  "pred": [
+   "Werther esm",
+   "Werther singing"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.1033374071121216,
+   -1.2231661081314087
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 25 mg",
+  "pred": [
+   "Oxygen 25 mg",
+   "Oaken Ting"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.6154947876930237,
+   -1.5801609754562378
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 15 mg",
+  "pred": [
+   "Maybe I'm just being a bit...unusual.",
+   "Maybe Ning"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.423172950744629,
+   -0.9763280749320984
+  ]
+ },
+ {
+  "size": 3,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 200 mg",
+  "pred": [
+   "Frequenze",
+   "Fructose 200 mg"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -2.094984531402588,
+   -0.6709550619125366
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 0,
+  "kind": "name",
+  "target": "Hydralazine 5 mg",
+  "pred": [
+   "A.",
+   "Please in"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -3.3905858993530273,
+   -0.6400410532951355
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 1,
+  "kind": "name",
+  "target": "Cefixime 10 mg",
+  "pred": [
+   "The word \"dog\" is in the middle of the image.",
+   "Don't"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.3130675554275513,
+   -1.3126230239868164
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 2,
+  "kind": "name",
+  "target": "Amiloride 25 mg",
+  "pred": [
+   "Aiden's",
+   "The word \"un\" is misspelled."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.7893471717834473,
+   -1.7599462270736694
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 3,
+  "kind": "name",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "When",
+   "The word \"un\" is misspelled."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.5756205320358276,
+   -1.576621413230896
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 4,
+  "kind": "name",
+  "target": "Prednisolone 100 mg",
+  "pred": [
+   "Follow up",
+   "Please remove"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.5510798692703247,
+   -1.998365879058838
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 5,
+  "kind": "name",
+  "target": "Clonidine 250 mg",
+  "pred": [
+   "The answer is 1000000000000000000000000000",
+   "The word \"ign\" is misspelled."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -0.6703681945800781,
+   -1.7854865789413452
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 6,
+  "kind": "name",
+  "target": "Valsartan 500 mg",
+  "pred": [
+   "The word is not in the correct position.",
+   "3."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.6501480340957642,
+   -2.202479362487793
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 7,
+  "kind": "name",
+  "target": "Lamotrigine 5 mg",
+  "pred": [
+   "L'angein",
+   "I'm sorry"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.1669847965240479,
+   -1.4458394050598145
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 8,
+  "kind": "name",
+  "target": "Trazodone 10 mg",
+  "pred": [
+   "The word \"trying\" is misspelled.",
+   "Tessy is not in the room."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.4993022680282593,
+   -1.8821500539779663
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 9,
+  "kind": "name",
+  "target": "Bupropion 25 mg",
+  "pred": [
+   "Buggin' On",
+   "The word \"un\" is misspelled."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.415750503540039,
+   -1.7844536304473877
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 10,
+  "kind": "name",
+  "target": "Chlorpropamide 50 mg",
+  "pred": [
+   "The next day.",
+   "(Hugo)"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.261671543121338,
+   -1.8682340383529663
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 11,
+  "kind": "name",
+  "target": "Vinblastine 100 mg",
+  "pred": [
+   "3.",
+   "3000000000"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.0922529697418213,
+   -1.0564590692520142
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 12,
+  "kind": "name",
+  "target": "Dobutamine 250 mg",
+  "pred": [
+   "3.",
+   "Please remove"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -2.4935271739959717,
+   -2.4950428009033203
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 13,
+  "kind": "name",
+  "target": "Ephedrine 500 mg",
+  "pred": [
+   "you're wrong",
+   "Unused."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.5444272756576538,
+   -1.9902104139328003
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 14,
+  "kind": "name",
+  "target": "Glyburide 5 mg",
+  "pred": [
+   "5000000000",
+   "2018"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.0761045217514038,
+   -1.6149441003799438
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 15,
+  "kind": "name",
+  "target": "Hydrocodone 10 mg",
+  "pred": [
+   "Appears in",
+   "Questioning"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4473274946212769,
+   -1.3129726648330688
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 16,
+  "kind": "name",
+  "target": "Metolazone 25 mg",
+  "pred": [
+   "Welcome to the world of",
+   "Welcome to"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.3026319742202759,
+   -0.7868084907531738
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 17,
+  "kind": "name",
+  "target": "Quinine 50 mg",
+  "pred": [
+   "Unicorn",
+   "The answer is un"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.8034355640411377,
+   -2.5193047523498535
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 18,
+  "kind": "name",
+  "target": "Ropinirole 100 mg",
+  "pred": [
+   "Repeating.",
+   "The word \"un\" is in the middle of the image."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.8493239879608154,
+   -1.389485478401184
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 19,
+  "kind": "name",
+  "target": "Sulfasalazine 250 mg",
+  "pred": [
+   "Mega-Ning",
+   "When I'm not"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -2.243572473526001,
+   -1.457585096359253
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 20,
+  "kind": "name",
+  "target": "Tiagabine 500 mg",
+  "pred": [
+   "The word \"wining\"",
+   "70"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.148690700531006,
+   -2.0536394119262695
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 21,
+  "kind": "name",
+  "target": "Carbamazepine 5 mg",
+  "pred": [
+   "The answer is in",
+   "Change"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.9062187671661377,
+   -0.9953221678733826
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 22,
+  "kind": "name",
+  "target": "Erythromycin 10 mg",
+  "pred": [
+   "Avery in",
+   "The word \"praying\" is misspelled."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.2980074882507324,
+   -1.514104962348938
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 23,
+  "kind": "name",
+  "target": "Clomiphene 25 mg",
+  "pred": [
+   "(Trying to) get in.",
+   "30%"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.5288156270980835,
+   -2.1359364986419678
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 24,
+  "kind": "name",
+  "target": "Doxorubicin 50 mg",
+  "pred": [
+   "The word \"running\" is not present.",
+   "Feedback is needed."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.751582384109497,
+   -1.252313256263733
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 25,
+  "kind": "name",
+  "target": "Fluoxetine 100 mg",
+  "pred": [
+   "Pause",
+   "Proudly using"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.3064401149749756,
+   -2.0612266063690186
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 26,
+  "kind": "name",
+  "target": "Guanfacine 250 mg",
+  "pred": [
+   "The only thing that can be done is to be a little more careful.",
+   "Dude"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.8398208618164062,
+   -2.454247236251831
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 27,
+  "kind": "name",
+  "target": "Nifedipine 500 mg",
+  "pred": [
+   "Wipeing",
+   "The word \"trying\" is misspelled."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.7562757730484009,
+   -1.4797680377960205
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 28,
+  "kind": "name",
+  "target": "Propafenone 5 mg",
+  "pred": [
+   "Received in",
+   "Apexin"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.5727425813674927,
+   -1.8858921527862549
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 29,
+  "kind": "name",
+  "target": "Levofloxacin 10 mg",
+  "pred": [
+   "Aussie in.",
+   "The answer is not possible"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.7684226036071777,
+   -2.241014003753662
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 30,
+  "kind": "name",
+  "target": "Esomeprazole 25 mg",
+  "pred": [
+   "The word \"ign\" is misspelled.",
+   "L'engagement n'est pas une."
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -1.6622016429901123,
+   -1.6702605485916138
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 31,
+  "kind": "name",
+  "target": "Captopril 50 mg",
+  "pred": [
+   "I'm sorry",
+   "Cannot"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.5599814653396606,
+   -1.9733314514160156
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 32,
+  "kind": "dose",
+  "target": "Amlodipine 50 mg",
+  "pred": [
+   "Ads.",
+   "Auteur un"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -2.336352825164795,
+   -2.1538448333740234
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 33,
+  "kind": "dose",
+  "target": "Prednisone 10 mg",
+  "pred": [
+   "Follow up.",
+   "Follow up"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4784514904022217,
+   -1.5510798692703247
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 34,
+  "kind": "dose",
+  "target": "Losartan 250 mg",
+  "pred": [
+   "The word \"man\" is misspelled.",
+   "The word is not in the correct place."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.388318657875061,
+   -1.6224889755249023
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 35,
+  "kind": "dose",
+  "target": "Metformin 50 mg",
+  "pred": [
+   "When",
+   "When I'm in the middle of a conversation"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.5756205320358276,
+   -1.356951117515564
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 36,
+  "kind": "dose",
+  "target": "Warfarin 5 mg",
+  "pred": [
+   "The",
+   "in"
+  ],
+  "correct": 1,
+  "exact": 0,
+  "mean_lp": [
+   -3.0501675605773926,
+   -1.7050559520721436
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 37,
+  "kind": "dose",
+  "target": "Digoxin 2.5 mg",
+  "pred": [
+   "The",
+   "The"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.649232864379883,
+   -3.104696035385132
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 38,
+  "kind": "dose",
+  "target": "Morphine 75 mg",
+  "pred": [
+   "yes",
+   "yes"
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -2.2868494987487793,
+   -2.348134994506836
+  ]
+ },
+ {
+  "size": 2,
+  "pair": 39,
+  "kind": "dose",
+  "target": "Furosemide 20 mg",
+  "pred": [
+   "I'm sorry.",
+   "Foresight is a state of being aware of the future."
+  ],
+  "correct": 0,
+  "exact": 0,
+  "mean_lp": [
+   -1.4027730226516724,
+   -1.6339055299758911
+  ]
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 0,
+  "target": "Hydroxyzine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 1,
+  "target": "Cefuroxime 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 2,
+  "target": "Amlodipine 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 3,
+  "target": "Metronidazole 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 4,
+  "target": "Prednisone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 5,
+  "target": "Clonazepam 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 6,
+  "target": "Losartan 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 7,
+  "target": "Lamivudine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 8,
+  "target": "Tramadol 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 9,
+  "target": "Buspirone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 10,
+  "target": "Chlorpromazine 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 11,
+  "target": "Vincristine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 12,
+  "target": "Dopamine 250 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 13,
+  "target": "Epinephrine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 14,
+  "target": "Glipizide 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 15,
+  "target": "Oxycodone 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 16,
+  "target": "Methotrexate 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 17,
+  "target": "Quinidine 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 18,
+  "target": "Risperidone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 19,
+  "target": "Sulfadiazine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 20,
+  "target": "Tizanidine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 21,
+  "target": "Oxcarbazepine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 22,
+  "target": "Azithromycin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 23,
+  "target": "Clomipramine 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 24,
+  "target": "Daunorubicin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 25,
+  "target": "Paroxetine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 26,
+  "target": "Guaifenesin 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 27,
+  "target": "Nicardipine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 28,
+  "target": "Propranolol 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 29,
+  "target": "Levetiracetam 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 30,
+  "target": "Omeprazole 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 31,
+  "target": "Carvedilol 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 32,
+  "target": "Amlodipine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 33,
+  "target": "Prednisone 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 34,
+  "target": "Losartan 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 35,
+  "target": "Metformin 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 36,
+  "target": "Warfarin 0.5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 37,
+  "target": "Digoxin 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 38,
+  "target": "Morphine 15 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "camera",
+  "pair": 39,
+  "target": "Furosemide 200 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 0,
+  "target": "Hydroxyzine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 1,
+  "target": "Cefuroxime 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 2,
+  "target": "Amlodipine 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 3,
+  "target": "Metronidazole 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 4,
+  "target": "Prednisone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 5,
+  "target": "Clonazepam 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 6,
+  "target": "Losartan 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 7,
+  "target": "Lamivudine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 8,
+  "target": "Tramadol 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 9,
+  "target": "Buspirone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 10,
+  "target": "Chlorpromazine 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 11,
+  "target": "Vincristine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 12,
+  "target": "Dopamine 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 13,
+  "target": "Epinephrine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 14,
+  "target": "Glipizide 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 15,
+  "target": "Oxycodone 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 16,
+  "target": "Methotrexate 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 17,
+  "target": "Quinidine 50 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 18,
+  "target": "Risperidone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 19,
+  "target": "Sulfadiazine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 20,
+  "target": "Tizanidine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 21,
+  "target": "Oxcarbazepine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 22,
+  "target": "Azithromycin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 23,
+  "target": "Clomipramine 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 24,
+  "target": "Daunorubicin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 25,
+  "target": "Paroxetine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 26,
+  "target": "Guaifenesin 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 27,
+  "target": "Nicardipine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 28,
+  "target": "Propranolol 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 29,
+  "target": "Levetiracetam 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 30,
+  "target": "Omeprazole 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 31,
+  "target": "Carvedilol 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 32,
+  "target": "Amlodipine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 33,
+  "target": "Prednisone 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 34,
+  "target": "Losartan 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 35,
+  "target": "Metformin 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 36,
+  "target": "Warfarin 0.5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 37,
+  "target": "Digoxin 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 38,
+  "target": "Morphine 15 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "512",
+  "pair": 39,
+  "target": "Furosemide 200 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 0,
+  "target": "Hydroxyzine 5 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 1,
+  "target": "Cefuroxime 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 2,
+  "target": "Amlodipine 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 3,
+  "target": "Metronidazole 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 4,
+  "target": "Prednisone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 5,
+  "target": "Clonazepam 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 6,
+  "target": "Losartan 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 7,
+  "target": "Lamivudine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 8,
+  "target": "Tramadol 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 9,
+  "target": "Buspirone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 10,
+  "target": "Chlorpromazine 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 11,
+  "target": "Vincristine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 12,
+  "target": "Dopamine 250 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 13,
+  "target": "Epinephrine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 14,
+  "target": "Glipizide 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 15,
+  "target": "Oxycodone 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 16,
+  "target": "Methotrexate 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 17,
+  "target": "Quinidine 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 18,
+  "target": "Risperidone 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 19,
+  "target": "Sulfadiazine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 20,
+  "target": "Tizanidine 500 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 21,
+  "target": "Oxcarbazepine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 22,
+  "target": "Azithromycin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 23,
+  "target": "Clomipramine 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 24,
+  "target": "Daunorubicin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 25,
+  "target": "Paroxetine 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 26,
+  "target": "Guaifenesin 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 27,
+  "target": "Nicardipine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 28,
+  "target": "Propranolol 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 29,
+  "target": "Levetiracetam 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 30,
+  "target": "Omeprazole 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 31,
+  "target": "Carvedilol 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 32,
+  "target": "Amlodipine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 33,
+  "target": "Prednisone 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 34,
+  "target": "Losartan 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 35,
+  "target": "Metformin 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 36,
+  "target": "Warfarin 0.5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 37,
+  "target": "Digoxin 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 38,
+  "target": "Morphine 15 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 24,
+  "input": "224",
+  "pair": 39,
+  "target": "Furosemide 200 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 0,
+  "target": "Hydralazine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 1,
+  "target": "Cefixime 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 2,
+  "target": "Amiloride 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 3,
+  "target": "Metformin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 4,
+  "target": "Prednisolone 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 5,
+  "target": "Clonidine 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 6,
+  "target": "Valsartan 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 7,
+  "target": "Lamotrigine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 8,
+  "target": "Trazodone 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 9,
+  "target": "Bupropion 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 10,
+  "target": "Chlorpropamide 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 11,
+  "target": "Vinblastine 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 12,
+  "target": "Dobutamine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 13,
+  "target": "Ephedrine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 14,
+  "target": "Glyburide 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 15,
+  "target": "Hydrocodone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 16,
+  "target": "Metolazone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 17,
+  "target": "Quinine 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 18,
+  "target": "Ropinirole 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 19,
+  "target": "Sulfasalazine 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 20,
+  "target": "Tiagabine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 21,
+  "target": "Carbamazepine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 22,
+  "target": "Erythromycin 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 23,
+  "target": "Clomiphene 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 24,
+  "target": "Doxorubicin 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 25,
+  "target": "Fluoxetine 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 26,
+  "target": "Guanfacine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 27,
+  "target": "Nifedipine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 28,
+  "target": "Propafenone 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 29,
+  "target": "Levofloxacin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 30,
+  "target": "Esomeprazole 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 31,
+  "target": "Captopril 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 32,
+  "target": "Amlodipine 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 33,
+  "target": "Prednisone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 34,
+  "target": "Losartan 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 35,
+  "target": "Metformin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 36,
+  "target": "Warfarin 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 37,
+  "target": "Digoxin 2.5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 38,
+  "target": "Morphine 75 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "camera",
+  "pair": 39,
+  "target": "Furosemide 20 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 0,
+  "target": "Hydralazine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 1,
+  "target": "Cefixime 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 2,
+  "target": "Amiloride 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 3,
+  "target": "Metformin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 4,
+  "target": "Prednisolone 100 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 5,
+  "target": "Clonidine 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 6,
+  "target": "Valsartan 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 7,
+  "target": "Lamotrigine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 8,
+  "target": "Trazodone 10 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 9,
+  "target": "Bupropion 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 10,
+  "target": "Chlorpropamide 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 11,
+  "target": "Vinblastine 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 12,
+  "target": "Dobutamine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 13,
+  "target": "Ephedrine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 14,
+  "target": "Glyburide 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 15,
+  "target": "Hydrocodone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 16,
+  "target": "Metolazone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 17,
+  "target": "Quinine 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 18,
+  "target": "Ropinirole 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 19,
+  "target": "Sulfasalazine 250 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 20,
+  "target": "Tiagabine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 21,
+  "target": "Carbamazepine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 22,
+  "target": "Erythromycin 10 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 23,
+  "target": "Clomiphene 25 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 24,
+  "target": "Doxorubicin 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 25,
+  "target": "Fluoxetine 100 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 26,
+  "target": "Guanfacine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 27,
+  "target": "Nifedipine 500 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 28,
+  "target": "Propafenone 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 29,
+  "target": "Levofloxacin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 30,
+  "target": "Esomeprazole 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 31,
+  "target": "Captopril 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 32,
+  "target": "Amlodipine 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 33,
+  "target": "Prednisone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 34,
+  "target": "Losartan 250 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 35,
+  "target": "Metformin 50 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 36,
+  "target": "Warfarin 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 37,
+  "target": "Digoxin 2.5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 38,
+  "target": "Morphine 75 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "512",
+  "pair": 39,
+  "target": "Furosemide 20 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 0,
+  "target": "Hydralazine 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 1,
+  "target": "Cefixime 10 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 2,
+  "target": "Amiloride 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 3,
+  "target": "Metformin 50 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 4,
+  "target": "Prednisolone 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 5,
+  "target": "Clonidine 250 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 6,
+  "target": "Valsartan 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 7,
+  "target": "Lamotrigine 5 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 8,
+  "target": "Trazodone 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 9,
+  "target": "Bupropion 25 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 10,
+  "target": "Chlorpropamide 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 11,
+  "target": "Vinblastine 100 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 12,
+  "target": "Dobutamine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 13,
+  "target": "Ephedrine 500 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 14,
+  "target": "Glyburide 5 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 15,
+  "target": "Hydrocodone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 16,
+  "target": "Metolazone 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 17,
+  "target": "Quinine 50 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 18,
+  "target": "Ropinirole 100 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 19,
+  "target": "Sulfasalazine 250 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 20,
+  "target": "Tiagabine 500 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 21,
+  "target": "Carbamazepine 5 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 22,
+  "target": "Erythromycin 10 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 23,
+  "target": "Clomiphene 25 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 24,
+  "target": "Doxorubicin 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 25,
+  "target": "Fluoxetine 100 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 26,
+  "target": "Guanfacine 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 27,
+  "target": "Nifedipine 500 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 28,
+  "target": "Propafenone 5 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 29,
+  "target": "Levofloxacin 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 30,
+  "target": "Esomeprazole 25 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 31,
+  "target": "Captopril 50 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 32,
+  "target": "Amlodipine 50 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 33,
+  "target": "Prednisone 10 mg",
+  "pred": "Left.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 34,
+  "target": "Losartan 250 mg",
+  "pred": "Right.",
+  "correct": 1
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 35,
+  "target": "Metformin 50 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 36,
+  "target": "Warfarin 5 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 37,
+  "target": "Digoxin 2.5 mg",
+  "pred": "Right.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 38,
+  "target": "Morphine 75 mg",
+  "pred": "Left.",
+  "correct": 0
+ },
+ {
+  "test": "frame",
+  "sensor_px": 12,
+  "input": "224",
+  "pair": 39,
+  "target": "Furosemide 20 mg",
+  "pred": "Right.",
+  "correct": 0
+ }
+]

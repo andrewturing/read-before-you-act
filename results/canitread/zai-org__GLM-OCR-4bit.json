@@ -1,0 +1,103 @@
+{
+ "model": "zai-org/GLM-OCR",
+ "precision": "4bit",
+ "device": "cuda",
+ "chart": "0.1",
+ "pairs": 40,
+ "quick": false,
+ "acuity_px": 4,
+ "seconds": 307,
+ "sizes": [
+  {
+   "px": 24,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.6
+  },
+  {
+   "px": 16,
+   "n": 40,
+   "correct": 37,
+   "accuracy": 0.925,
+   "low": 0.8014,
+   "high": 0.9742,
+   "exact": 0.125
+  },
+  {
+   "px": 12,
+   "n": 40,
+   "correct": 38,
+   "accuracy": 0.95,
+   "low": 0.835,
+   "high": 0.9862,
+   "exact": 0.675
+  },
+  {
+   "px": 10,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.6
+  },
+  {
+   "px": 8,
+   "n": 40,
+   "correct": 36,
+   "accuracy": 0.9,
+   "low": 0.7695,
+   "high": 0.9604,
+   "exact": 0.225
+  },
+  {
+   "px": 6,
+   "n": 40,
+   "correct": 37,
+   "accuracy": 0.925,
+   "low": 0.8014,
+   "high": 0.9742,
+   "exact": 0.2
+  },
+  {
+   "px": 5,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.15
+  },
+  {
+   "px": 4,
+   "n": 40,
+   "correct": 36,
+   "accuracy": 0.9,
+   "low": 0.7695,
+   "high": 0.9604,
+   "exact": 0.075
+  },
+  {
+   "px": 3,
+   "n": 40,
+   "correct": 33,
+   "accuracy": 0.825,
+   "low": 0.6805,
+   "high": 0.9125,
+   "exact": 0.3
+  },
+  {
+   "px": 2,
+   "n": 40,
+   "correct": 27,
+   "accuracy": 0.675,
+   "low": 0.5202,
+   "high": 0.7992,
+   "exact": 0.05
+  }
+ ],
+ "frame": []
+}

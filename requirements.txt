@@ -1,0 +1,8 @@
+# Enough for the reading test (canitread.py). PyTorch is expected to be installed already (tested with torch 2.9, CUDA 12).
+transformers>=5.0.0
+accelerate
+pillow>=10.1
+rapidfuzz
+numpy
+num2words
+jinja2>=3.1

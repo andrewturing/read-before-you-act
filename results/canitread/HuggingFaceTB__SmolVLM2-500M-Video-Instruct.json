@@ -1,0 +1,164 @@
+{
+ "model": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+ "precision": "bfloat16",
+ "device": "cuda",
+ "chart": "0.1",
+ "pairs": 40,
+ "quick": false,
+ "acuity_px": 6,
+ "seconds": 505,
+ "sizes": [
+  {
+   "px": 24,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.9
+  },
+  {
+   "px": 16,
+   "n": 40,
+   "correct": 38,
+   "accuracy": 0.95,
+   "low": 0.835,
+   "high": 0.9862,
+   "exact": 0.925
+  },
+  {
+   "px": 12,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.975
+  },
+  {
+   "px": 10,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.9
+  },
+  {
+   "px": 8,
+   "n": 40,
+   "correct": 38,
+   "accuracy": 0.95,
+   "low": 0.835,
+   "high": 0.9862,
+   "exact": 0.9
+  },
+  {
+   "px": 6,
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "exact": 0.9
+  },
+  {
+   "px": 5,
+   "n": 40,
+   "correct": 34,
+   "accuracy": 0.85,
+   "low": 0.7093,
+   "high": 0.9294,
+   "exact": 0.55
+  },
+  {
+   "px": 4,
+   "n": 40,
+   "correct": 23,
+   "accuracy": 0.575,
+   "low": 0.4219,
+   "high": 0.7149,
+   "exact": 0.175
+  },
+  {
+   "px": 3,
+   "n": 40,
+   "correct": 16,
+   "accuracy": 0.4,
+   "low": 0.2635,
+   "high": 0.554,
+   "exact": 0.0
+  },
+  {
+   "px": 2,
+   "n": 40,
+   "correct": 16,
+   "accuracy": 0.4,
+   "low": 0.2635,
+   "high": 0.554,
+   "exact": 0.0
+  }
+ ],
+ "frame": [
+  {
+   "sensor_px": 24,
+   "input": "camera",
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "says_left": 0.475
+  },
+  {
+   "sensor_px": 24,
+   "input": "512",
+   "n": 40,
+   "correct": 39,
+   "accuracy": 0.975,
+   "low": 0.8712,
+   "high": 0.9956,
+   "says_left": 0.525
+  },
+  {
+   "sensor_px": 24,
+   "input": "224",
+   "n": 40,
+   "correct": 37,
+   "accuracy": 0.925,
+   "low": 0.8014,
+   "high": 0.9742,
+   "says_left": 0.425
+  },
+  {
+   "sensor_px": 12,
+   "input": "camera",
+   "n": 40,
+   "correct": 40,
+   "accuracy": 1.0,
+   "low": 0.9124,
+   "high": 1.0,
+   "says_left": 0.5
+  },
+  {
+   "sensor_px": 12,
+   "input": "512",
+   "n": 40,
+   "correct": 35,
+   "accuracy": 0.875,
+   "low": 0.7389,
+   "high": 0.9454,
+   "says_left": 0.575
+  },
+  {
+   "sensor_px": 12,
+   "input": "224",
+   "n": 40,
+   "correct": 22,
+   "accuracy": 0.55,
+   "low": 0.3983,
+   "high": 0.6929,
+   "says_left": 0.2
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# Extra packages for the simulated scenes, the handwriting probe and 4-bit runs.
+-r requirements.txt
+bitsandbytes
+datasets
+mujoco
+pandas
+tabulate
