@@ -113,6 +113,20 @@ The test above is a best case: flat, front-on labels in clean print. In 540 simu
 
 The camera image contains what the downsized input loses, and moving closer fixes what cropping cannot.
 
+## A robot policy in closed loop
+
+Does a trained robot policy read? We fine-tuned [SmolVLA](https://arxiv.org/abs/2506.01844) to move onto the carton named in its instruction, with two identical cartons carrying look-alike labels, and ran it for 200 episodes per setting in simulation.
+
+| The policy is told | Right carton |
+|---|---|
+| The label text, camera at 0.60 m | 54.5% |
+| The label text, camera at 0.25 m | 50% |
+| The label text, with its vision-language backbone also trained | 47% |
+| A green outline on the right carton | **100%** |
+| An outline placed by a 2B reader that moves the camera closer until it is sure (2 mm print) | **96.5%**, with 2.5% wrong among the picks it made against a certified 5% |
+
+Told the text, the policy goes left or right about equally often: it acts without reading. Told by a pointer, with the same data and training, it never misses. A small reader that looks at the full-resolution camera image, moves closer when unsure, and hands its choice to the policy closes the gap. Details, limits and the commands to reproduce it are in [closed_loop/README.md](closed_loop/README.md).
+
 ## Also in this repository
 
 | Question | Script | What the first run found |
@@ -127,18 +141,19 @@ Full tables are in [results/summary.md](results/summary.md) and [results/look_cl
 ## Limits
 
 - The reading test is a best case, as described above. Treat its numbers as an upper bound on what a model reads in the world.
-- No robot policy has been run in closed loop yet, and nothing has been tested on a real camera or robot. The whole-frame test measures vision-language models at the input sizes policies use.
+- Nothing has been tested on a real camera or robot. The closed-loop study uses one policy, a kinematic end-effector with no contact, and 600 demonstrations per setting, and it cannot yet separate "the policy cannot see the text" from "it does not learn to use it".
 - A model's own image processor matters. Some models enlarge or tile a small input before encoding it, which is counted as part of the model here.
 - 4-bit results use bitsandbytes NF4 on every linear layer, a stand-in for on-device formats.
 - Forty pairs give intervals of roughly ±10 points near 90%.
 
 ## Roadmap
 
-1. Run an open compact robot policy in closed loop on the pick-by-label scenes.
-2. Give the stop-when-confident rule a finite-sample bound on wrong picks.
-3. Harder charts: rotation, glare, handwriting, and Vietnamese and Chinese labels.
-4. A screen-reading test, where zooming plays the role of moving closer.
-5. A small reader fine-tuned for Vietnamese handwriting that says when it cannot read.
+1. ~~Run an open compact robot policy in closed loop on the pick-by-label scenes.~~ Done, see above.
+2. ~~Give the stop-when-confident rule a finite-sample bound on wrong picks.~~ Done for one reader, see above.
+3. More policies (π0, a higher-resolution policy) and ten times the demonstrations, to tell "cannot see" from "does not learn".
+4. Harder charts: rotation, glare, handwriting, and Vietnamese and Chinese labels.
+5. A screen-reading test, where zooming plays the role of moving closer.
+6. A small reader fine-tuned for Vietnamese handwriting that says when it cannot read.
 
 ## Data and models
 

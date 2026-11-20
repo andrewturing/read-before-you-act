@@ -1,0 +1,29 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+libEGL warning: failed to open /dev/dri/renderD131: Permission denied
+
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: failed to open /dev/dri/renderD130: Permission denied
+
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: failed to open /dev/dri/renderD129: Permission denied
+
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: failed to open /dev/dri/renderD128: Permission denied
+
+libEGL warning: egl: failed to create dri2 screen
+~/.local/lib/python3.10/site-packages/lerobot/policies/utils.py:128: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:206.)
+  observation[name] = torch.from_numpy(observation[name])
+Loading  HuggingFaceTB/SmolVLM2-500M-Video-Instruct weights ...
+Reducing the number of VLM layers to 16 ...
+Loading weights from local directory
+  25/200  correct 25  wrong 0  none 0  declined 0
+  50/200  correct 50  wrong 0  none 0  declined 0
+  75/200  correct 75  wrong 0  none 0  declined 0
+  100/200  correct 100  wrong 0  none 0  declined 0
+  125/200  correct 125  wrong 0  none 0  declined 0
+  150/200  correct 150  wrong 0  none 0  declined 0
+  175/200  correct 175  wrong 0  none 0  declined 0
+  200/200  correct 200  wrong 0  none 0  declined 0
+pointer_small_oracle [all] n=200: correct 100% [98–100], wrong 0, none 0, declined 0
+pointer_small_oracle [seen] n=100: correct 100% [96–100], wrong 0, none 0, declined 0
+pointer_small_oracle [held_out] n=100: correct 100% [96–100], wrong 0, none 0, declined 0

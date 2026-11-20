@@ -14,3 +14,6 @@ nohup.out
 __pycache__/
 *.pyc
 .DS_Store
+
+# Closed-loop training and evaluation logs are kept: they hold the loss curves behind the results.
+!closed_loop/results/logs/

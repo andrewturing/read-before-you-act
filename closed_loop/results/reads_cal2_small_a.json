@@ -1,0 +1,9611 @@
+{
+"model": "Qwen/Qwen3.5-2B",
+"ladder": [
+1.0,
+0.75,
+0.55,
+0.42
+],
+"episodes": [
+{
+"i": 0,
+"split": "",
+"target_side": 1,
+"target": "Clomiphene 25 mg",
+"looks": [
+{
+"cam_dist": 0.6264,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.6759,
+"pred": [
+"130/10044/10018\n78 x mg",
+"Clanphere\n28kg"
+]
+},
+{
+"cam_dist": 0.4698,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.352,
+"pred": [
+"Cloniptamine\n25mg",
+"Clamiphene\n28 mg"
+]
+},
+{
+"cam_dist": 0.3445,
+"text_px": 5.4,
+"side": 1,
+"conf": -0.2374,
+"pred": [
+"Clonipramine\n25 mg",
+"Clomiphene\n25 mg"
+]
+},
+{
+"cam_dist": 0.2631,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.0977,
+"pred": [
+"Clomipramine\n25 mg",
+"Clomiphene\n25 mg"
+]
+}
+]
+},
+{
+"i": 1,
+"split": "",
+"target_side": 0,
+"target": "Risperidone 100 mg",
+"looks": [
+{
+"cam_dist": 0.6107,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9675,
+"pred": [
+"Kaperdare\n130 mg",
+"Варипрали 180 мг"
+]
+},
+{
+"cam_dist": 0.458,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.6243,
+"pred": [
+"Risperidone\n100 mg",
+"Boprine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3359,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1315,
+"pred": [
+"Risperidone\n100 mg",
+"Repinirole\n100 mg"
+]
+},
+{
+"cam_dist": 0.2565,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0578,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+}
+]
+},
+{
+"i": 2,
+"split": "",
+"target_side": 0,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5737,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.3686,
+"pred": [
+"Gurubron\nMing",
+"Двадцать\nМир"
+]
+},
+{
+"cam_dist": 0.4303,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.3143,
+"pred": [
+"Daunorubicin\n60 mg",
+"Doxubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.3155,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0907,
+"pred": [
+"Daunorubicin\n60 mg",
+"Doxorubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.241,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0738,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n60 mg"
+]
+}
+]
+},
+{
+"i": 3,
+"split": "",
+"target_side": 1,
+"target": "Cefuroxime 10 mg",
+"looks": [
+{
+"cam_dist": 0.5941,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.8117,
+"pred": [
+"Leisure\n!Error",
+"cellophone\n18mp"
+]
+},
+{
+"cam_dist": 0.4456,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.5472,
+"pred": [
+"Celixine\n10mg",
+"Cefuroxime\n10mg"
+]
+},
+{
+"cam_dist": 0.3268,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0475,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2495,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0332,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+}
+]
+},
+{
+"i": 4,
+"split": "",
+"target_side": 0,
+"target": "Metolazone 25 mg",
+"looks": [
+{
+"cam_dist": 0.5815,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.0934,
+"pred": [
+"19920014\n29mp",
+"Midweight\n78mg"
+]
+},
+{
+"cam_dist": 0.4361,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.5571,
+"pred": [
+"Metolozone\n25 mg",
+"Mefenoxate\n28 mg"
+]
+},
+{
+"cam_dist": 0.3198,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.076,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+},
+{
+"cam_dist": 0.2442,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0439,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+}
+]
+},
+{
+"i": 5,
+"split": "",
+"target_side": 0,
+"target": "Losartan 250 mg",
+"looks": [
+{
+"cam_dist": 0.5894,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.7931,
+"pred": [
+"LOGAN1871\n380mg",
+"Loxartan\n20mg"
+]
+},
+{
+"cam_dist": 0.4421,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.1776,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n28 mg"
+]
+},
+{
+"cam_dist": 0.3242,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0712,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n25 mg"
+]
+},
+{
+"cam_dist": 0.2475,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0402,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n25 mg"
+]
+}
+]
+},
+{
+"i": 6,
+"split": "",
+"target_side": 1,
+"target": "Quinine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6027,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.4707,
+"pred": [
+"Quibbling\nRE:q",
+"Glitter\nREVO"
+]
+},
+{
+"cam_dist": 0.452,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2363,
+"pred": [
+"Quinidine\n60mg",
+"Quinine\n60mg"
+]
+},
+{
+"cam_dist": 0.3315,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0583,
+"pred": [
+"Quinidine\n50 mg",
+"Quinine\n50 mg"
+]
+},
+{
+"cam_dist": 0.2531,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0393,
+"pred": [
+"Quinidine\n50 mg",
+"Quinine\n50 mg"
+]
+}
+]
+},
+{
+"i": 7,
+"split": "",
+"target_side": 0,
+"target": "Levetiracetam 10 mg",
+"looks": [
+{
+"cam_dist": 0.5863,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.5655,
+"pred": [
+"100%",
+"Levofloxacin\n10mg"
+]
+},
+{
+"cam_dist": 0.4397,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.3973,
+"pred": [
+"Levalacetam\n10mg",
+"Levofloxacin\n10mg"
+]
+},
+{
+"cam_dist": 0.3225,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.1017,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2462,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0897,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+}
+]
+},
+{
+"i": 8,
+"split": "",
+"target_side": 0,
+"target": "Sulfadiazine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6287,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.217,
+"pred": [
+"BUTAN\n280 mg",
+"3.7(7.7)7.7(7.7)"
+]
+},
+{
+"cam_dist": 0.4715,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.6969,
+"pred": [
+"subdiazine\n350 mg",
+"subsaline\n250mg"
+]
+},
+{
+"cam_dist": 0.3458,
+"text_px": 5.4,
+"side": 0,
+"conf": -0.1046,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2641,
+"text_px": 7.1,
+"side": 0,
+"conf": -0.0304,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+}
+]
+},
+{
+"i": 9,
+"split": "",
+"target_side": 0,
+"target": "Lamotrigine 5 mg",
+"looks": [
+{
+"cam_dist": 0.587,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.8367,
+"pred": [
+"Lactobacillus\nB. ing",
+"Lactatedrine\n5 mg"
+]
+},
+{
+"cam_dist": 0.4402,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1321,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3229,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0501,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2465,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0534,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+}
+]
+},
+{
+"i": 10,
+"split": "",
+"target_side": 0,
+"target": "Morphine 15 mg",
+"looks": [
+{
+"cam_dist": 0.6052,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0538,
+"pred": [
+"morphing\nfilling",
+"sophie\nTing"
+]
+},
+{
+"cam_dist": 0.4539,
+"text_px": 4.1,
+"side": -1,
+"conf": -0.2486,
+"pred": [
+"Morphine\n1.8mg",
+"Morphine\n78 mg"
+]
+},
+{
+"cam_dist": 0.3329,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1549,
+"pred": [
+"Morphine\n16 mg",
+"Morphine\n76 mg"
+]
+},
+{
+"cam_dist": 0.2542,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0949,
+"pred": [
+"Morphine\n15 mg",
+"Morphine\n75 mg"
+]
+}
+]
+},
+{
+"i": 11,
+"split": "",
+"target_side": 1,
+"target": "Ephedrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6013,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.2711,
+"pred": [
+"бронировщик 10178 1037 мд",
+"Epited&the\nPST=mg)"
+]
+},
+{
+"cam_dist": 0.451,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.1558,
+"pred": [
+"Epinephrine\n500 ng",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3307,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1039,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2525,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0852,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 12,
+"split": "",
+"target_side": 1,
+"target": "Propranolol 5 mg",
+"looks": [
+{
+"cam_dist": 0.6131,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.0324,
+"pred": [
+"mosaferora\n5+g",
+"Propranolol\nN=1g"
+]
+},
+{
+"cam_dist": 0.4598,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2951,
+"pred": [
+"Propafenone\n5 mg",
+"Proprenolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.3372,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1162,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.2575,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.1053,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+}
+]
+},
+{
+"i": 13,
+"split": "",
+"target_side": 1,
+"target": "Valsartan 500 mg",
+"looks": [
+{
+"cam_dist": 0.5771,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.2954,
+"pred": [
+"Lactan\n100 mg",
+"VOLUME\n1000mL"
+]
+},
+{
+"cam_dist": 0.4328,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.5038,
+"pred": [
+"Lokartan\n500 mg",
+"Valisitan\n500 mg"
+]
+},
+{
+"cam_dist": 0.3174,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0499,
+"pred": [
+"Losartan\n500 mg",
+"Valsartan\n500 mg"
+]
+},
+{
+"cam_dist": 0.2424,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.0487,
+"pred": [
+"Losartan\n500 mg",
+"Valsartan\n500 mg"
+]
+}
+]
+},
+{
+"i": 14,
+"split": "",
+"target_side": 1,
+"target": "Vincristine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6082,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.253,
+"pred": [
+"VIGABAZIN\n130mg",
+"WELCOME TO\nTHE HALL"
+]
+},
+{
+"cam_dist": 0.4561,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3066,
+"pred": [
+"virblastina\n150 mg",
+"Vincristine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3345,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.2859,
+"pred": [
+"Vinblstine\n100 mg",
+"Vincristine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2554,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0438,
+"pred": [
+"Vinblastine\n100 mg",
+"Vincristine\n100 mg"
+]
+}
+]
+},
+{
+"i": 15,
+"split": "",
+"target_side": 1,
+"target": "Lamivudine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5753,
+"text_px": 3.3,
+"side": 1,
+"conf": -1.0412,
+"pred": [
+"Lanacrine\n5 mg",
+"Lactvedine\n5mg"
+]
+},
+{
+"cam_dist": 0.4315,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.1342,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3164,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.053,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2416,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0515,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+}
+]
+},
+{
+"i": 16,
+"split": "",
+"target_side": 0,
+"target": "Amiloride 25 mg",
+"looks": [
+{
+"cam_dist": 0.6109,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.1714,
+"pred": [
+"Atalanta\n78+10",
+"Алгоритм 71"
+]
+},
+{
+"cam_dist": 0.4582,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2837,
+"pred": [
+"Amiloride\n25mg",
+"Amiodipine\n28 mg"
+]
+},
+{
+"cam_dist": 0.336,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1437,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2566,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0575,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+}
+]
+},
+{
+"i": 17,
+"split": "",
+"target_side": 0,
+"target": "Carbamazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6092,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9195,
+"pred": [
+"G. G. G. G. G. G. G. G. G. G. G. G. G. G. G. G.",
+"Gluconobacter\nN = kg"
+]
+},
+{
+"cam_dist": 0.4569,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.3835,
+"pred": [
+"Carbamazepine\n5 mg",
+"Ocarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3351,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1339,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2559,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.1198,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 18,
+"split": "",
+"target_side": 0,
+"target": "Glyburide 5 mg",
+"looks": [
+{
+"cam_dist": 0.6074,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.837,
+"pred": [
+"WayGuide\n8.0",
+"glucose\nF-18"
+]
+},
+{
+"cam_dist": 0.4556,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2262,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.3341,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.0614,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.2551,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0356,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 19,
+"split": "",
+"target_side": 1,
+"target": "Metformin 500 mg",
+"looks": [
+{
+"cam_dist": 0.5918,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.2034,
+"pred": [
+"168canon\nFE+reg",
+"Medication\nPBT mg"
+]
+},
+{
+"cam_dist": 0.4438,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2164,
+"pred": [
+"Metformin\n60 mg",
+"Metformin\n800 mg"
+]
+},
+{
+"cam_dist": 0.3255,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.121,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2486,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0419,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 20,
+"split": "",
+"target_side": 0,
+"target": "Sulfasalazine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6024,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2287,
+"pred": [
+"Duloxetine\n280mg",
+"Забрать 380 грн"
+]
+},
+{
+"cam_dist": 0.4518,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.5461,
+"pred": [
+"Sublucina\n250 mg",
+"Sulfadiazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3313,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0414,
+"pred": [
+"Sulfasalazine\n250 mg",
+"Sulfadiazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.253,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0313,
+"pred": [
+"Sulfasalazine\n250 mg",
+"Sulfadiazine\n250 mg"
+]
+}
+]
+},
+{
+"i": 21,
+"split": "",
+"target_side": 1,
+"target": "Morphine 15 mg",
+"looks": [
+{
+"cam_dist": 0.6061,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2626,
+"pred": [
+"morphine\nT10",
+"stomphone\n18 rps"
+]
+},
+{
+"cam_dist": 0.4546,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4344,
+"pred": [
+"Moprine\n75mg",
+"Morphine\n18 mg"
+]
+},
+{
+"cam_dist": 0.3334,
+"text_px": 5.6,
+"side": -1,
+"conf": -0.1567,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n16 mg"
+]
+},
+{
+"cam_dist": 0.2546,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.1059,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n15 mg"
+]
+}
+]
+},
+{
+"i": 22,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.6164,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.8918,
+"pred": [
+"Μυθολογία\nΤέχνη",
+"#2017/07/08\n18x12"
+]
+},
+{
+"cam_dist": 0.4623,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.153,
+"pred": [
+"Erythromycin\n10mg",
+"Azithromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.339,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0355,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2589,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0322,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 23,
+"split": "",
+"target_side": 1,
+"target": "Fluoxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5999,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.2301,
+"pred": [
+"PwQaet014\n1301-101",
+"Pharmacology\n1200 mg"
+]
+},
+{
+"cam_dist": 0.4499,
+"text_px": 4.2,
+"side": -1,
+"conf": -0.351,
+"pred": [
+"Paroxetine\n100 mg",
+"Flucortine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3299,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1213,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.252,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0975,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 24,
+"split": "",
+"target_side": 1,
+"target": "Esomeprazole 25 mg",
+"looks": [
+{
+"cam_dist": 0.5938,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.4455,
+"pred": [
+"Urisprazole\n25mg",
+"маслоперга"
+]
+},
+{
+"cam_dist": 0.4454,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.4191,
+"pred": [
+"Cineprazola\n25 mg",
+"Esomeprazole\n28 mg"
+]
+},
+{
+"cam_dist": 0.3266,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1082,
+"pred": [
+"Omeprazole\n25 mg",
+"Esomeprazole\n25 mg"
+]
+},
+{
+"cam_dist": 0.2494,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0511,
+"pred": [
+"Omeprazole\n25 mg",
+"Esomeprazole\n25 mg"
+]
+}
+]
+},
+{
+"i": 25,
+"split": "",
+"target_side": 1,
+"target": "Hydroxyzine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5955,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.7756,
+"pred": [
+"Hydroxide\nBrg",
+"my@123456789\n8-rg"
+]
+},
+{
+"cam_dist": 0.4466,
+"text_px": 4.2,
+"side": -1,
+"conf": -0.6044,
+"pred": [
+"Hydrazine\n5 mg",
+"Hydroxydase\n5 mg"
+]
+},
+{
+"cam_dist": 0.3275,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1764,
+"pred": [
+"Hydralazine\n5 mg",
+"Hydroxyzine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2501,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.2651,
+"pred": [
+"Hydralazine\n5 mg",
+"Hydroxyzine\n5 mg"
+]
+}
+]
+},
+{
+"i": 26,
+"split": "",
+"target_side": 0,
+"target": "Amlodipine 25 mg",
+"looks": [
+{
+"cam_dist": 0.6074,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.186,
+"pred": [
+"Antibody\n78+ng",
+"Artifacts\n281102"
+]
+},
+{
+"cam_dist": 0.4556,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2264,
+"pred": [
+"Amiodipine\n28 mg",
+"Amiloride\n28 mg"
+]
+},
+{
+"cam_dist": 0.3341,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1358,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n25 mg"
+]
+},
+{
+"cam_dist": 0.2551,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.055,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n25 mg"
+]
+}
+]
+},
+{
+"i": 27,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 25 mg",
+"looks": [
+{
+"cam_dist": 0.6147,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0822,
+"pred": [
+"Artificial\n2000",
+"AT8000000\n78+kg"
+]
+},
+{
+"cam_dist": 0.461,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.4509,
+"pred": [
+"Amiloride\n26 mg",
+"Antidiopase\n28mg"
+]
+},
+{
+"cam_dist": 0.3381,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1402,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2582,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0671,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+}
+]
+},
+{
+"i": 28,
+"split": "",
+"target_side": 1,
+"target": "Prednisone 100 mg",
+"looks": [
+{
+"cam_dist": 0.6211,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.0452,
+"pred": [
+"PRACTICALITY\n100kg",
+"Prednisone\n130 mg"
+]
+},
+{
+"cam_dist": 0.4658,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.1022,
+"pred": [
+"Prednisone\n10mg",
+"Prednisone\n150 mg"
+]
+},
+{
+"cam_dist": 0.3416,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.0313,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2609,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.025,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+}
+]
+},
+{
+"i": 29,
+"split": "",
+"target_side": 1,
+"target": "Prednisolone 100 mg",
+"looks": [
+{
+"cam_dist": 0.6249,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.0921,
+"pred": [
+"PHASE100200\n1301101",
+"PRINCIPAL'S OFFICE\nFEB 11"
+]
+},
+{
+"cam_dist": 0.4687,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.1109,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolona\n100 mg"
+]
+},
+{
+"cam_dist": 0.3437,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.0277,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2625,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.0216,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+}
+]
+},
+{
+"i": 30,
+"split": "",
+"target_side": 1,
+"target": "Levetiracetam 10 mg",
+"looks": [
+{
+"cam_dist": 0.609,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.9794,
+"pred": [
+"LevelBoxing",
+"Levetiracetam\n10mg"
+]
+},
+{
+"cam_dist": 0.4567,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.6802,
+"pred": [
+"Levofloxacin\n10 mg",
+"Levitraclate 10 mg"
+]
+},
+{
+"cam_dist": 0.335,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1073,
+"pred": [
+"Levofloxacin\n10 mg",
+"Levetiracetam\n10 mg"
+]
+},
+{
+"cam_dist": 0.2558,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.076,
+"pred": [
+"Levofloxacin\n10 mg",
+"Levetiracetam\n10 mg"
+]
+}
+]
+},
+{
+"i": 31,
+"split": "",
+"target_side": 1,
+"target": "Propafenone 5 mg",
+"looks": [
+{
+"cam_dist": 0.6022,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.885,
+"pred": [
+"Proparalol\n5+10",
+"Pigalarenore\n5+1g"
+]
+},
+{
+"cam_dist": 0.4516,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.495,
+"pred": [
+"Propranolol\n5 mg",
+"Properenone\n5 rig"
+]
+},
+{
+"cam_dist": 0.3312,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.2193,
+"pred": [
+"Proprenolol\n5 mg",
+"Propafenone\n5 mg"
+]
+},
+{
+"cam_dist": 0.2529,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.1315,
+"pred": [
+"Propranolol\n5 mg",
+"Propafenone\n5 mg"
+]
+}
+]
+},
+{
+"i": 32,
+"split": "",
+"target_side": 1,
+"target": "Doxorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5759,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.2978,
+"pred": [
+"generation\nring",
+"Discotheque\nREng"
+]
+},
+{
+"cam_dist": 0.4319,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2595,
+"pred": [
+"Osunrubicin\n60mg",
+"Daxorubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.3167,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.1037,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.2419,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0864,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 33,
+"split": "",
+"target_side": 0,
+"target": "Metformin 500 mg",
+"looks": [
+{
+"cam_dist": 0.5853,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.2665,
+"pred": [
+"Medication\n100 mg",
+"medicines\nfile+up"
+]
+},
+{
+"cam_dist": 0.439,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.6159,
+"pred": [
+"Metformin\n500 mg",
+"Medifolin\n60mg"
+]
+},
+{
+"cam_dist": 0.3219,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0551,
+"pred": [
+"Metformin\n500 mg",
+"Metformin\n50 mg"
+]
+},
+{
+"cam_dist": 0.2458,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.041,
+"pred": [
+"Metformin\n500 mg",
+"Metformin\n50 mg"
+]
+}
+]
+},
+{
+"i": 34,
+"split": "",
+"target_side": 1,
+"target": "Epinephrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.602,
+"text_px": 3.1,
+"side": 1,
+"conf": -2.429,
+"pred": [
+"kloka",
+"красный\n180 мг"
+]
+},
+{
+"cam_dist": 0.4515,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.4729,
+"pred": [
+"Lipidrine\n500 mg",
+"Epinephrind\n100 ng"
+]
+},
+{
+"cam_dist": 0.3311,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0749,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2528,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0505,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 35,
+"split": "",
+"target_side": 1,
+"target": "Morphine 75 mg",
+"looks": [
+{
+"cam_dist": 0.5709,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.8111,
+"pred": [
+"Staphyloce\n18mg",
+"Morphine\n78 mg"
+]
+},
+{
+"cam_dist": 0.4282,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.5885,
+"pred": [
+"Moprine\n18mg",
+"Morphine\n78 mg"
+]
+},
+{
+"cam_dist": 0.314,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.1199,
+"pred": [
+"Morphine\n16 mg",
+"Morphine\n76 mg"
+]
+},
+{
+"cam_dist": 0.2398,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.1193,
+"pred": [
+"Morphine\n15 mg",
+"Morphine\n75 mg"
+]
+}
+]
+},
+{
+"i": 36,
+"split": "",
+"target_side": 1,
+"target": "Paroxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6096,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9707,
+"pred": [
+"Phosphate 130 mg",
+"Paroxetine\n180 mg"
+]
+},
+{
+"cam_dist": 0.4572,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4635,
+"pred": [
+"Flucloxerine\n150 mg",
+"Peroxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3353,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1398,
+"pred": [
+"Fluoxetine\n100 mg",
+"Paroxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.256,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0874,
+"pred": [
+"Fluoxetine\n100 mg",
+"Paroxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 37,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.5713,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.0963,
+"pred": [
+"Mycotoxin 10mg",
+"Алгоритм\n101"
+]
+},
+{
+"cam_dist": 0.4285,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.1219,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.3142,
+"text_px": 6.0,
+"side": 0,
+"conf": -0.0358,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2399,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0423,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 38,
+"split": "",
+"target_side": 1,
+"target": "Buspirone 25 mg",
+"looks": [
+{
+"cam_dist": 0.5927,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.1305,
+"pred": [
+"Ukrainian\n2019",
+"вырпал 79 кг"
+]
+},
+{
+"cam_dist": 0.4445,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2616,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n28 mg"
+]
+},
+{
+"cam_dist": 0.326,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0642,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n25 mg"
+]
+},
+{
+"cam_dist": 0.2489,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0644,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n25 mg"
+]
+}
+]
+},
+{
+"i": 39,
+"split": "",
+"target_side": 0,
+"target": "Morphine 75 mg",
+"looks": [
+{
+"cam_dist": 0.5808,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.8072,
+"pred": [
+"staphylo\n78 rps",
+"Morphine\n18mg"
+]
+},
+{
+"cam_dist": 0.4356,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.425,
+"pred": [
+"Morphine\n78 mg",
+"Morphine\n18mg"
+]
+},
+{
+"cam_dist": 0.3194,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1258,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n16 mg"
+]
+},
+{
+"cam_dist": 0.2439,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.1007,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n15 mg"
+]
+}
+]
+},
+{
+"i": 40,
+"split": "",
+"target_side": 1,
+"target": "Quinidine 50 mg",
+"looks": [
+{
+"cam_dist": 0.575,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.2911,
+"pred": [
+"Glucine\n50mg",
+"Quadrare\nà reg"
+]
+},
+{
+"cam_dist": 0.4312,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2205,
+"pred": [
+"Quinine\n50 mg",
+"Quinidine\n60 mg"
+]
+},
+{
+"cam_dist": 0.3162,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0763,
+"pred": [
+"Quinine\n50 mg",
+"Quinidine\n50 mg"
+]
+},
+{
+"cam_dist": 0.2415,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0493,
+"pred": [
+"Quinine\n50 mg",
+"Quinidine\n50 mg"
+]
+}
+]
+},
+{
+"i": 41,
+"split": "",
+"target_side": 0,
+"target": "Metronidazole 50 mg",
+"looks": [
+{
+"cam_dist": 0.6219,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.4841,
+"pred": [
+"Motor duction\nfibreg",
+"Macaron\nAll rings"
+]
+},
+{
+"cam_dist": 0.4664,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.2821,
+"pred": [
+"Mebendazole\n60mg",
+"Metformin\n60mg"
+]
+},
+{
+"cam_dist": 0.342,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0912,
+"pred": [
+"Metronidazole\n60 mg",
+"Metformin\n60 mg"
+]
+},
+{
+"cam_dist": 0.2612,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0589,
+"pred": [
+"Metronidazole\n60 mg",
+"Metformin\n60 mg"
+]
+}
+]
+},
+{
+"i": 42,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6055,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9973,
+"pred": [
+"Medication\nFill 1 kg",
+"mechanism\nmechanism"
+]
+},
+{
+"cam_dist": 0.4541,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.325,
+"pred": [
+"Metformin\n50mg",
+"Medomin\n500 mg"
+]
+},
+{
+"cam_dist": 0.333,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1124,
+"pred": [
+"Metformin\n60 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2543,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0355,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 43,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 5 mg",
+"looks": [
+{
+"cam_dist": 0.572,
+"text_px": 3.3,
+"side": 1,
+"conf": -1.2722,
+"pred": [
+"Arachidiae\nMyc",
+"Antibiotic\n5 mg"
+]
+},
+{
+"cam_dist": 0.429,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.1164,
+"pred": [
+"Amiodipine\n50 mg",
+"Amiodipine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3146,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0832,
+"pred": [
+"Amlodipine\n50 mg",
+"Amlodipine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2402,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0561,
+"pred": [
+"Amlodipine\n50 mg",
+"Amlodipine\n5 mg"
+]
+}
+]
+},
+{
+"i": 44,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.6109,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.4023,
+"pred": [
+"муфтобучиш\nТБЕ",
+"АКТИВНОСТЬ\n18 кг"
+]
+},
+{
+"cam_dist": 0.4582,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.1248,
+"pred": [
+"Erythromycin\n10mg",
+"Azithromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.336,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.0341,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2566,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0342,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 45,
+"split": "",
+"target_side": 1,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5976,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.8678,
+"pred": [
+"UNION OF CH",
+"Operation\nAE reg"
+]
+},
+{
+"cam_dist": 0.4482,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.3767,
+"pred": [
+"Disacubcin\n60mg",
+"Daunorubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.3287,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1316,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.251,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0704,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 46,
+"split": "",
+"target_side": 1,
+"target": "Digoxin 2.5 mg",
+"looks": [
+{
+"cam_dist": 0.5948,
+"text_px": 3.2,
+"side": -1,
+"conf": -0.7478,
+"pred": [
+"Ugandan\n28 mg",
+"Urgent\n7.8 mg"
+]
+},
+{
+"cam_dist": 0.4461,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.407,
+"pred": [
+"Digoxin\n26 mg",
+"Digoxin\n2.5 mg"
+]
+},
+{
+"cam_dist": 0.3271,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0992,
+"pred": [
+"Digaxin\n25 mg",
+"Digoxin\n2.6 mg"
+]
+},
+{
+"cam_dist": 0.2498,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0484,
+"pred": [
+"Digoxin\n25 mg",
+"Digoxin\n2.5 mg"
+]
+}
+]
+},
+{
+"i": 47,
+"split": "",
+"target_side": 1,
+"target": "Ephedrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6111,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2189,
+"pred": [
+"принтер 1001",
+"проблемы\nАИП на"
+]
+},
+{
+"cam_dist": 0.4583,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2148,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3361,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0738,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2567,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0642,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 48,
+"split": "",
+"target_side": 1,
+"target": "Vinblastine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5868,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.7291,
+"pred": [
+"YINGSHEN 150 mg",
+"Mibradine\n180mg"
+]
+},
+{
+"cam_dist": 0.4401,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2002,
+"pred": [
+"Vinceline\n100 ng",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3227,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0582,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2465,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0418,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+}
+]
+},
+{
+"i": 49,
+"split": "",
+"target_side": 1,
+"target": "Cefixime 10 mg",
+"looks": [
+{
+"cam_dist": 0.5705,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.5946,
+"pred": [
+"celoxine\n16mg",
+"Genuine\n10mg"
+]
+},
+{
+"cam_dist": 0.4279,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.377,
+"pred": [
+"Cefuroxime\n10mg",
+"Celusine\n10mg"
+]
+},
+{
+"cam_dist": 0.3138,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0298,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2396,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0262,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+}
+]
+},
+{
+"i": 50,
+"split": "",
+"target_side": 1,
+"target": "Propranolol 5 mg",
+"looks": [
+{
+"cam_dist": 0.6201,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.842,
+"pred": [
+"moar'ware\n5+g",
+"Mipranalol\n8 mg"
+]
+},
+{
+"cam_dist": 0.4651,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.4888,
+"pred": [
+"propafenone\n5 mg",
+"Psopranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.3411,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.0953,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.2604,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0916,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+}
+]
+},
+{
+"i": 51,
+"split": "",
+"target_side": 1,
+"target": "Carvedilol 50 mg",
+"looks": [
+{
+"cam_dist": 0.6243,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.3315,
+"pred": [
+"Справа.",
+"CIVICISM\nALL"
+]
+},
+{
+"cam_dist": 0.4682,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.3011,
+"pred": [
+"Capopril\n60 mg",
+"Cervedial\n80mg"
+]
+},
+{
+"cam_dist": 0.3434,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1171,
+"pred": [
+"Captopril\n60 mg",
+"Carvedilol\n60 mg"
+]
+},
+{
+"cam_dist": 0.2622,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0607,
+"pred": [
+"Captopril\n50 mg",
+"Carvedilol\n50 mg"
+]
+}
+]
+},
+{
+"i": 52,
+"split": "",
+"target_side": 1,
+"target": "Furosemide 200 mg",
+"looks": [
+{
+"cam_dist": 0.6295,
+"text_px": 3.0,
+"side": 0,
+"conf": -0.9509,
+"pred": [
+"PURGATION\n76 mg",
+"PUGMAN169\n250kg"
+]
+},
+{
+"cam_dist": 0.4721,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.1565,
+"pred": [
+"Furosenide\n20mg",
+"Furosemide\n200 mg"
+]
+},
+{
+"cam_dist": 0.3462,
+"text_px": 5.4,
+"side": 1,
+"conf": -0.1798,
+"pred": [
+"Furcsemide\n20 mg",
+"Furosemide\n200 mg"
+]
+},
+{
+"cam_dist": 0.2644,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.049,
+"pred": [
+"Furosemide\n20 mg",
+"Furosemide\n200 mg"
+]
+}
+]
+},
+{
+"i": 53,
+"split": "",
+"target_side": 0,
+"target": "Guanfacine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5789,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.5371,
+"pred": [
+"Quarantine\n280mg",
+"Quinine\n280 mg"
+]
+},
+{
+"cam_dist": 0.4342,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.3947,
+"pred": [
+"Quarantine\n250 mg",
+"Guatifenesin\n250 mg"
+]
+},
+{
+"cam_dist": 0.3184,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1356,
+"pred": [
+"Guanfacine\n250 mg",
+"Guaifenesin\n250 mg"
+]
+},
+{
+"cam_dist": 0.2431,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.1166,
+"pred": [
+"Guanfacine\n250 mg",
+"Gualfenesin\n250 mg"
+]
+}
+]
+},
+{
+"i": 54,
+"split": "",
+"target_side": 1,
+"target": "Ephedrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.5715,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.6083,
+"pred": [
+"бромфенирамин\n100 мг",
+"Ephedrine\n100 mg"
+]
+},
+{
+"cam_dist": 0.4286,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.1916,
+"pred": [
+"Epinephrine\n500 mg",
+"Iphedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3143,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.084,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.24,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0729,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 55,
+"split": "",
+"target_side": 0,
+"target": "Dobutamine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5796,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.6913,
+"pred": [
+"500mg/1000mg\n280mg",
+"dopamine\n280 mg"
+]
+},
+{
+"cam_dist": 0.4347,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1031,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3188,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0532,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2434,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0352,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+}
+]
+},
+{
+"i": 56,
+"split": "",
+"target_side": 0,
+"target": "Tizanidine 500 mg",
+"looks": [
+{
+"cam_dist": 0.5927,
+"text_px": 3.2,
+"side": -1,
+"conf": -1.3021,
+"pred": [
+"1200mg",
+"Tagada'w\nPAST-meg"
+]
+},
+{
+"cam_dist": 0.4445,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.1583,
+"pred": [
+"Tizanidine\n500 mg",
+"Tagabrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.326,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0447,
+"pred": [
+"Tizanidine\n500 mg",
+"Tiagabine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2489,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0327,
+"pred": [
+"Tizanidine\n500 mg",
+"Tiagabine\n500 mg"
+]
+}
+]
+},
+{
+"i": 57,
+"split": "",
+"target_side": 0,
+"target": "Losartan 500 mg",
+"looks": [
+{
+"cam_dist": 0.586,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.1959,
+"pred": [
+"LOGARITHM\n930 mg",
+"THE AMONG\nAND HUG"
+]
+},
+{
+"cam_dist": 0.4395,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.5471,
+"pred": [
+"Losartan\n500 ng",
+"Valcavan\n500 mg"
+]
+},
+{
+"cam_dist": 0.3223,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0435,
+"pred": [
+"Losartan\n500 mg",
+"Valsartan\n500 mg"
+]
+},
+{
+"cam_dist": 0.2461,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0357,
+"pred": [
+"Losartan\n500 mg",
+"Valsartan\n500 mg"
+]
+}
+]
+},
+{
+"i": 58,
+"split": "",
+"target_side": 1,
+"target": "Clonidine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6108,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.8024,
+"pred": [
+"Glycogen\n280 mg",
+"COOKING\n787-mg"
+]
+},
+{
+"cam_dist": 0.4581,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.1754,
+"pred": [
+"Clorazepan\n250 mg",
+"Clonidine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3359,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0732,
+"pred": [
+"Clonazepam\n250 mg",
+"Clonidine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2565,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0766,
+"pred": [
+"Clonazepam\n250 mg",
+"Clonidine\n250 mg"
+]
+}
+]
+},
+{
+"i": 59,
+"split": "",
+"target_side": 0,
+"target": "Warfarin 5 mg",
+"looks": [
+{
+"cam_dist": 0.6154,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.0604,
+"pred": [
+"Wafien\n8=1g",
+"Yadgar\nE.A kg"
+]
+},
+{
+"cam_dist": 0.4615,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.7011,
+"pred": [
+"Viagrain\n5 mg",
+"Warfarin\n0.6mg"
+]
+},
+{
+"cam_dist": 0.3385,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0312,
+"pred": [
+"Warfarin\n5 mg",
+"Warfarin\n0.6 mg"
+]
+},
+{
+"cam_dist": 0.2585,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0479,
+"pred": [
+"Warfarin\n5 mg",
+"Warfarin\n0.5 mg"
+]
+}
+]
+},
+{
+"i": 60,
+"split": "",
+"target_side": 1,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5958,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.3251,
+"pred": [
+"40000000000000000000000000000000",
+"Generation\nA1reg"
+]
+},
+{
+"cam_dist": 0.4468,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.3652,
+"pred": [
+"Doxorubicin\n60 mg",
+"Osunrubion\n60mg"
+]
+},
+{
+"cam_dist": 0.3277,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1352,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.2502,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0779,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 61,
+"split": "",
+"target_side": 1,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5988,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.4187,
+"pred": [
+"Mirror-damage\nRE 110",
+"Medication\nAllergy"
+]
+},
+{
+"cam_dist": 0.4491,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2757,
+"pred": [
+"Metronidazole\n50mg",
+"Metformin\n50 mg"
+]
+},
+{
+"cam_dist": 0.3293,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1715,
+"pred": [
+"Metronidazole\n60 mg",
+"Metformin\n60 mg"
+]
+},
+{
+"cam_dist": 0.2515,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.1082,
+"pred": [
+"Metronidazole\n50 mg",
+"Metformin\n50 mg"
+]
+}
+]
+},
+{
+"i": 62,
+"split": "",
+"target_side": 1,
+"target": "Furosemide 20 mg",
+"looks": [
+{
+"cam_dist": 0.6167,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.1,
+"pred": [
+"PUGMELIN 380 mg",
+"PURAMETI09\n38kg"
+]
+},
+{
+"cam_dist": 0.4625,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.5529,
+"pred": [
+"Furcismida\n200 mg",
+"Furosemide\n20mg"
+]
+},
+{
+"cam_dist": 0.3392,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.0853,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemide\n20 mg"
+]
+},
+{
+"cam_dist": 0.259,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0323,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemide\n20 mg"
+]
+}
+]
+},
+{
+"i": 63,
+"split": "",
+"target_side": 1,
+"target": "Carbamazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6118,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9949,
+"pred": [
+"Ulcobemprine\n1mg",
+"Cedar Acepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.4588,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.5444,
+"pred": [
+"Gecabepene\n5 mg",
+"Carbamazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3365,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1288,
+"pred": [
+"Oxcarbazepine\n5 mg",
+"Carbamazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.257,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.2031,
+"pred": [
+"Oxcarbazepine\n5 mg",
+"Carbamazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 64,
+"split": "",
+"target_side": 0,
+"target": "Losartan 25 mg",
+"looks": [
+{
+"cam_dist": 0.6056,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0488,
+"pred": [
+"Lagaran\n79 mg",
+"(0.0001)\n(0.0002)\n(0.0003)\n(0.00"
+]
+},
+{
+"cam_dist": 0.4542,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.1747,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+},
+{
+"cam_dist": 0.3331,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1112,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+},
+{
+"cam_dist": 0.2544,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.058,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+}
+]
+},
+{
+"i": 65,
+"split": "",
+"target_side": 1,
+"target": "Oxcarbazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5877,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.8443,
+"pred": [
+"Gastric Acetone\n5+kg",
+"Decalage"
+]
+},
+{
+"cam_dist": 0.4408,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.5846,
+"pred": [
+"Calbremazepina\n5 mg",
+"Oscarbazepina\n5 mg"
+]
+},
+{
+"cam_dist": 0.3232,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.1108,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2468,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.2125,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 66,
+"split": "",
+"target_side": 0,
+"target": "Chlorpromazine 50 mg",
+"looks": [
+{
+"cam_dist": 0.5991,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2704,
+"pred": [
+"Characterize\nRENU",
+"стеклянный"
+]
+},
+{
+"cam_dist": 0.4493,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2874,
+"pred": [
+"Chlorpromazine\n50 mg",
+"Chlorpropamide 50 mg"
+]
+},
+{
+"cam_dist": 0.3295,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.1532,
+"pred": [
+"Chlorpromazine\n60 mg",
+"Chlorpropamide\n60 mg"
+]
+},
+{
+"cam_dist": 0.2516,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.2125,
+"pred": [
+"Chlorpromazine\n50 mg",
+"Chloropamide\n60 mg"
+]
+}
+]
+},
+{
+"i": 67,
+"split": "",
+"target_side": 0,
+"target": "Trazodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.604,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.7326,
+"pred": [
+"1100000000\n10 x 100",
+"ТЯЖКОЙ"
+]
+},
+{
+"cam_dist": 0.453,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2235,
+"pred": [
+"Tiazodone\n10mg",
+"Tramadol\n10mg"
+]
+},
+{
+"cam_dist": 0.3322,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1156,
+"pred": [
+"Trazodone\n10 mg",
+"Tramedol\n10 mg"
+]
+},
+{
+"cam_dist": 0.2537,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0596,
+"pred": [
+"Trazodone\n10 mg",
+"Tramadol\n10 mg"
+]
+}
+]
+},
+{
+"i": 68,
+"split": "",
+"target_side": 0,
+"target": "Glyburide 5 mg",
+"looks": [
+{
+"cam_dist": 0.5753,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.4497,
+"pred": [
+"glbundle\nBrg",
+"ubiquitous\n5+kg"
+]
+},
+{
+"cam_dist": 0.4315,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1905,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.3164,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0535,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.2416,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0346,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 69,
+"split": "",
+"target_side": 0,
+"target": "Cefuroxime 10 mg",
+"looks": [
+{
+"cam_dist": 0.6299,
+"text_px": 3.0,
+"side": 0,
+"conf": -0.7696,
+"pred": [
+"Cellulose\n18kg",
+"leisure\n18kg"
+]
+},
+{
+"cam_dist": 0.4724,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3093,
+"pred": [
+"Cefuroxime\n16 mg",
+"Cerivine\n16mg"
+]
+},
+{
+"cam_dist": 0.3464,
+"text_px": 5.4,
+"side": 0,
+"conf": -0.0339,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2646,
+"text_px": 7.1,
+"side": 0,
+"conf": -0.0247,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+}
+]
+},
+{
+"i": 70,
+"split": "",
+"target_side": 0,
+"target": "Digoxin 25 mg",
+"looks": [
+{
+"cam_dist": 0.5911,
+"text_px": 3.2,
+"side": -1,
+"conf": -1.01,
+"pred": [
+"Ulguen\n2019",
+"Urgent\n7.6 mg"
+]
+},
+{
+"cam_dist": 0.4433,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2207,
+"pred": [
+"Digain\n28 mg",
+"Digoxin\n2.6 mg"
+]
+},
+{
+"cam_dist": 0.3251,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0853,
+"pred": [
+"Digoxin\n25 mg",
+"Digoxin\n2.6 mg"
+]
+},
+{
+"cam_dist": 0.2483,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0779,
+"pred": [
+"Digoxin\n25 mg",
+"Digoxin\n2.6 mg"
+]
+}
+]
+},
+{
+"i": 71,
+"split": "",
+"target_side": 0,
+"target": "Cefixime 10 mg",
+"looks": [
+{
+"cam_dist": 0.6136,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0013,
+"pred": [
+"Cefazolin\n10mg",
+"Cellulose\n?Error"
+]
+},
+{
+"cam_dist": 0.4602,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2614,
+"pred": [
+"Cefixime\n10mg",
+"Cefuroxime\n10mg"
+]
+},
+{
+"cam_dist": 0.3375,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.041,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2577,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0268,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+}
+]
+},
+{
+"i": 72,
+"split": "",
+"target_side": 0,
+"target": "Doxorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5911,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.4725,
+"pred": [
+"Дискуссия\nМетод",
+"Generation\nAE"
+]
+},
+{
+"cam_dist": 0.4433,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.5042,
+"pred": [
+"Doxubicin\n60mg",
+"Olanarabin 60 mg"
+]
+},
+{
+"cam_dist": 0.3251,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.1418,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.2483,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0873,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 73,
+"split": "",
+"target_side": 1,
+"target": "Levofloxacin 10 mg",
+"looks": [
+{
+"cam_dist": 0.5831,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.0144,
+"pred": [
+"Levetiracetam\n10mg",
+"Landeshauptung\n18mp"
+]
+},
+{
+"cam_dist": 0.4373,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2021,
+"pred": [
+"Leveliracetam\n10mg",
+"Levofloxacin\n10mg"
+]
+},
+{
+"cam_dist": 0.3207,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0841,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2449,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.065,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+}
+]
+},
+{
+"i": 74,
+"split": "",
+"target_side": 1,
+"target": "Guanfacine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6038,
+"text_px": 3.1,
+"side": -1,
+"conf": -0.7533,
+"pred": [
+"glutamine\n750 mg",
+"Quarantine\n280 mg"
+]
+},
+{
+"cam_dist": 0.4528,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4891,
+"pred": [
+"Guafenatin\n250 mg",
+"Guanaxine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3321,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.2644,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfscine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2536,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0908,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+}
+]
+},
+{
+"i": 75,
+"split": "",
+"target_side": 1,
+"target": "Tramadol 10 mg",
+"looks": [
+{
+"cam_dist": 0.6152,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.1672,
+"pred": [
+"траводаря\n18+",
+"ТЯЖКОСТЬ\n1011"
+]
+},
+{
+"cam_dist": 0.4614,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2284,
+"pred": [
+"Triazodone\n10mg",
+"Tiamedol\n10mg"
+]
+},
+{
+"cam_dist": 0.3384,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.238,
+"pred": [
+"Trazodone\n10 mg",
+"Tremadol\n10 mg"
+]
+},
+{
+"cam_dist": 0.2584,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0764,
+"pred": [
+"Trazodone\n10 mg",
+"Tramedol\n10 mg"
+]
+}
+]
+},
+{
+"i": 76,
+"split": "",
+"target_side": 1,
+"target": "Cefixime 10 mg",
+"looks": [
+{
+"cam_dist": 0.6252,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.0685,
+"pred": [
+"Gebäude\n16m",
+"Leisure\n18kg"
+]
+},
+{
+"cam_dist": 0.4689,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.304,
+"pred": [
+"Cefuroxime\n10mg",
+"Cefixine\n10mg"
+]
+},
+{
+"cam_dist": 0.3439,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1489,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2626,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.0281,
+"pred": [
+"Cefuroxime\n10 mg",
+"Cefixime\n10 mg"
+]
+}
+]
+},
+{
+"i": 77,
+"split": "",
+"target_side": 0,
+"target": "Nicardipine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6148,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.8048,
+"pred": [
+"Пескарьев\nПескарьев",
+"1000000\n1000000"
+]
+},
+{
+"cam_dist": 0.4611,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.244,
+"pred": [
+"necardipine\n500 mg",
+"Nifedipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3381,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0671,
+"pred": [
+"Nicardipine\n500 mg",
+"Nifedipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2582,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0407,
+"pred": [
+"Nicardipine\n500 mg",
+"Nifedipine\n500 mg"
+]
+}
+]
+},
+{
+"i": 78,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6249,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.0114,
+"pred": [
+"Medicare\nH.R. 100",
+"Medication\n100 mg"
+]
+},
+{
+"cam_dist": 0.4687,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3332,
+"pred": [
+"Metforman\n60mg",
+"Medocamin\n500 mg"
+]
+},
+{
+"cam_dist": 0.3437,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.055,
+"pred": [
+"Metformin\n60 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2625,
+"text_px": 7.1,
+"side": 0,
+"conf": -0.0776,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 79,
+"split": "",
+"target_side": 1,
+"target": "Quinine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6026,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.5562,
+"pred": [
+"Quattro\nREng",
+"Glue\nGlue"
+]
+},
+{
+"cam_dist": 0.452,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3194,
+"pred": [
+"Quindine\n80mg",
+"Quinine\n50 mg"
+]
+},
+{
+"cam_dist": 0.3314,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1037,
+"pred": [
+"Quinidine\n60 mg",
+"Quinine\n60 mg"
+]
+},
+{
+"cam_dist": 0.2531,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0525,
+"pred": [
+"Quinidine\n50 mg",
+"Quinine\n50 mg"
+]
+}
+]
+},
+{
+"i": 80,
+"split": "",
+"target_side": 1,
+"target": "Epinephrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6259,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.7462,
+"pred": [
+"привет!\nПНД",
+"красивый\n180-мг"
+]
+},
+{
+"cam_dist": 0.4694,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.2595,
+"pred": [
+"Ephedrine\n500 mg",
+"epinephrine\n800 mg"
+]
+},
+{
+"cam_dist": 0.3442,
+"text_px": 5.4,
+"side": 1,
+"conf": -0.1004,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2629,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.0793,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 81,
+"split": "",
+"target_side": 0,
+"target": "Prednisone 100 mg",
+"looks": [
+{
+"cam_dist": 0.575,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.5266,
+"pred": [
+"Prednisolab\n100mg",
+"Prednisolone\n100mg"
+]
+},
+{
+"cam_dist": 0.4312,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.0677,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3162,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0326,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2415,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0232,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+}
+]
+},
+{
+"i": 82,
+"split": "",
+"target_side": 1,
+"target": "Prednisolone 100 mg",
+"looks": [
+{
+"cam_dist": 0.5729,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.7646,
+"pred": [
+"Predrazol\n100 mg",
+"Predicolor®\n100 mg"
+]
+},
+{
+"cam_dist": 0.4297,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.074,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3151,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0299,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2406,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0264,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+}
+]
+},
+{
+"i": 83,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6002,
+"text_px": 3.1,
+"side": -1,
+"conf": -0.9004,
+"pred": [
+"Антипепс",
+"Андрей"
+]
+},
+{
+"cam_dist": 0.4501,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2294,
+"pred": [
+"Amiodipine 5 mg",
+"Amiodipine\n50 mg"
+]
+},
+{
+"cam_dist": 0.3301,
+"text_px": 5.7,
+"side": -1,
+"conf": -0.0701,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n60 mg"
+]
+},
+{
+"cam_dist": 0.2521,
+"text_px": 7.4,
+"side": -1,
+"conf": -0.0566,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n60 mg"
+]
+}
+]
+},
+{
+"i": 84,
+"split": "",
+"target_side": 1,
+"target": "Amiloride 25 mg",
+"looks": [
+{
+"cam_dist": 0.5965,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9544,
+"pred": [
+"Arachidate\n78 mg",
+"Affordable\n79+"
+]
+},
+{
+"cam_dist": 0.4474,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2934,
+"pred": [
+"Anlodipine\n25 mg",
+"Amiloride\n28 mg"
+]
+},
+{
+"cam_dist": 0.3281,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1731,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n26 mg"
+]
+},
+{
+"cam_dist": 0.2505,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0633,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n25 mg"
+]
+}
+]
+},
+{
+"i": 85,
+"split": "",
+"target_side": 1,
+"target": "Warfarin 0.5 mg",
+"looks": [
+{
+"cam_dist": 0.5715,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.1665,
+"pred": [
+"Vialban\n5+rg",
+"Walden\nEiff"
+]
+},
+{
+"cam_dist": 0.4286,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.1969,
+"pred": [
+"Warfarin\n5 mg",
+"Warfain\n0.5 mg"
+]
+},
+{
+"cam_dist": 0.3143,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0329,
+"pred": [
+"Warfarin\n5 mg",
+"Warfarin\n0.6 mg"
+]
+},
+{
+"cam_dist": 0.24,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0309,
+"pred": [
+"Warfarin\n5 mg",
+"Warfarin\n0.5 mg"
+]
+}
+]
+},
+{
+"i": 86,
+"split": "",
+"target_side": 1,
+"target": "Dobutamine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5759,
+"text_px": 3.3,
+"side": -1,
+"conf": -0.5869,
+"pred": [
+"Disperite\n250 mg",
+"Doxacrine\n780 mg"
+]
+},
+{
+"cam_dist": 0.4319,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.0836,
+"pred": [
+"Dopamine\n250 ng",
+"Dobutamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3167,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0404,
+"pred": [
+"Dopamine\n250 mg",
+"Dobutamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2419,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0366,
+"pred": [
+"Dopamine\n250 mg",
+"Dobutamine\n250 mg"
+]
+}
+]
+},
+{
+"i": 87,
+"split": "",
+"target_side": 0,
+"target": "Nifedipine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6086,
+"text_px": 3.1,
+"side": 1,
+"conf": -2.1333,
+"pred": [
+"Selecting\nPASTI",
+"Nicardipine\nNDC:1001"
+]
+},
+{
+"cam_dist": 0.4565,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.1274,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3347,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.111,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2556,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0419,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+}
+]
+},
+{
+"i": 88,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.5924,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.4162,
+"pred": [
+"kryphomycet\nfilings",
+"Astralycos\nTEnpy"
+]
+},
+{
+"cam_dist": 0.4443,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2003,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.3258,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0435,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2488,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0378,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 89,
+"split": "",
+"target_side": 0,
+"target": "Tiagabine 500 mg",
+"looks": [
+{
+"cam_dist": 0.5853,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.7336,
+"pred": [
+"Tagabine\n100 mg",
+"728110894\n500 mg"
+]
+},
+{
+"cam_dist": 0.439,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.108,
+"pred": [
+"Tagabine\n500 mg",
+"Tiazidine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3219,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0662,
+"pred": [
+"Tiagabine\n500 mg",
+"Tizanidine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2458,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0286,
+"pred": [
+"Tiagabine\n500 mg",
+"Tizanidine\n500 mg"
+]
+}
+]
+},
+{
+"i": 90,
+"split": "",
+"target_side": 0,
+"target": "Losartan 250 mg",
+"looks": [
+{
+"cam_dist": 0.5981,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.1322,
+"pred": [
+"LIGANDAN\n280mg",
+"LOGIN\n78.1kg"
+]
+},
+{
+"cam_dist": 0.4486,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.3292,
+"pred": [
+"Loxartan\n250 mg",
+"Losartan\n28 mg"
+]
+},
+{
+"cam_dist": 0.329,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0714,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n25 mg"
+]
+},
+{
+"cam_dist": 0.2512,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0547,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n25 mg"
+]
+}
+]
+},
+{
+"i": 91,
+"split": "",
+"target_side": 1,
+"target": "Propafenone 5 mg",
+"looks": [
+{
+"cam_dist": 0.5759,
+"text_px": 3.3,
+"side": -1,
+"conf": -0.6158,
+"pred": [
+"mopranolol\n5 mg",
+"modafinil\n5mg"
+]
+},
+{
+"cam_dist": 0.4319,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.6176,
+"pred": [
+"Proprenolol\n5 mg",
+"Proparone\n5 mg"
+]
+},
+{
+"cam_dist": 0.3167,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0963,
+"pred": [
+"Propranolol\n5 mg",
+"Propafenone\n5 mg"
+]
+},
+{
+"cam_dist": 0.2419,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0941,
+"pred": [
+"Propranolol\n5 mg",
+"Propafenone\n5 mg"
+]
+}
+]
+},
+{
+"i": 92,
+"split": "",
+"target_side": 0,
+"target": "Risperidone 100 mg",
+"looks": [
+{
+"cam_dist": 0.5778,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.8927,
+"pred": [
+"капердол 150 мг",
+"Bupivacaine\n180 mg"
+]
+},
+{
+"cam_dist": 0.4334,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1965,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+},
+{
+"cam_dist": 0.3178,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0667,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+},
+{
+"cam_dist": 0.2427,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0667,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+}
+]
+},
+{
+"i": 93,
+"split": "",
+"target_side": 0,
+"target": "Omeprazole 25 mg",
+"looks": [
+{
+"cam_dist": 0.5898,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.997,
+"pred": [
+"correspondence\n28 rps",
+"basinoprate\n78 mg"
+]
+},
+{
+"cam_dist": 0.4424,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2908,
+"pred": [
+"Omeprazole\n25 mg",
+"Easomeprazole\n28 mg"
+]
+},
+{
+"cam_dist": 0.3244,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.1666,
+"pred": [
+"Omeprazole\n26 mg",
+"Esomeprazole\n25 mg"
+]
+},
+{
+"cam_dist": 0.2477,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0652,
+"pred": [
+"Omeprazole\n25 mg",
+"Esomeprazole\n25 mg"
+]
+}
+]
+},
+{
+"i": 94,
+"split": "",
+"target_side": 1,
+"target": "Morphine 15 mg",
+"looks": [
+{
+"cam_dist": 0.5805,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.0111,
+"pred": [
+"sapphire\n7919",
+"staple\nfilling"
+]
+},
+{
+"cam_dist": 0.4354,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.4707,
+"pred": [
+"Morphine\n78 mg",
+"Moprine\n18 mg"
+]
+},
+{
+"cam_dist": 0.3193,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.1593,
+"pred": [
+"Morphine\n76 mg",
+"Morphine\n15 mg"
+]
+},
+{
+"cam_dist": 0.2438,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.0967,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n15 mg"
+]
+}
+]
+},
+{
+"i": 95,
+"split": "",
+"target_side": 0,
+"target": "Buspirone 25 mg",
+"looks": [
+{
+"cam_dist": 0.6234,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.9663,
+"pred": [
+"Вартога\n28кг",
+"European\n28kg"
+]
+},
+{
+"cam_dist": 0.4675,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3003,
+"pred": [
+"Busprone\n28 mg",
+"Bupropion\n26mg"
+]
+},
+{
+"cam_dist": 0.3429,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0684,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n25 mg"
+]
+},
+{
+"cam_dist": 0.2618,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0617,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n25 mg"
+]
+}
+]
+},
+{
+"i": 96,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5912,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.98,
+"pred": [
+"Medicare\nM111",
+"Methadone\n500 mg"
+]
+},
+{
+"cam_dist": 0.4434,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.283,
+"pred": [
+"Metocinin\n50 mg",
+"Metformin\n800 mg"
+]
+},
+{
+"cam_dist": 0.3252,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0942,
+"pred": [
+"Metformin\n60 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2483,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0382,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 97,
+"split": "",
+"target_side": 0,
+"target": "Prednisone 10 mg",
+"looks": [
+{
+"cam_dist": 0.5739,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.332,
+"pred": [
+"Prednisolone\n10mg",
+"Prednisolone\n100mg"
+]
+},
+{
+"cam_dist": 0.4304,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.1398,
+"pred": [
+"Prednisone\n10mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3156,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0319,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.241,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0276,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+}
+]
+},
+{
+"i": 98,
+"split": "",
+"target_side": 1,
+"target": "Prednisone 100 mg",
+"looks": [
+{
+"cam_dist": 0.6067,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.184,
+"pred": [
+"medicinal",
+"Представление\n137 мс"
+]
+},
+{
+"cam_dist": 0.455,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.0667,
+"pred": [
+"Prednisolone\n100 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3337,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0227,
+"pred": [
+"Prednisolone\n100 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2548,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0233,
+"pred": [
+"Prednisolone\n100 mg",
+"Prednisone\n100 mg"
+]
+}
+]
+},
+{
+"i": 99,
+"split": "",
+"target_side": 1,
+"target": "Sulfasalazine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5979,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.6083,
+"pred": [
+"substance\n780 mg",
+"2.5.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+]
+},
+{
+"cam_dist": 0.4484,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.2037,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3288,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0605,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2511,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0353,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+}
+]
+},
+{
+"i": 100,
+"split": "",
+"target_side": 0,
+"target": "Metformin 500 mg",
+"looks": [
+{
+"cam_dist": 0.598,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9467,
+"pred": [
+"Methanol\n100 mg",
+"Medicare\nRE"
+]
+},
+{
+"cam_dist": 0.4485,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.4156,
+"pred": [
+"Melatonin\n500 ng",
+"Metformin\n50 mg"
+]
+},
+{
+"cam_dist": 0.3289,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0696,
+"pred": [
+"Metformin\n500 mg",
+"Metformin\n60 mg"
+]
+},
+{
+"cam_dist": 0.2512,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0486,
+"pred": [
+"Metformin\n500 mg",
+"Metformin\n50 mg"
+]
+}
+]
+},
+{
+"i": 101,
+"split": "",
+"target_side": 1,
+"target": "Bupropion 25 mg",
+"looks": [
+{
+"cam_dist": 0.6103,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.7728,
+"pred": [
+"840x1074\n781px",
+"Marqahin\n78+kg"
+]
+},
+{
+"cam_dist": 0.4577,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3867,
+"pred": [
+"Buspirona\n28 mg",
+"Buproplan\n28 mg"
+]
+},
+{
+"cam_dist": 0.3357,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1217,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n26 mg"
+]
+},
+{
+"cam_dist": 0.2563,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0512,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n25 mg"
+]
+}
+]
+},
+{
+"i": 102,
+"split": "",
+"target_side": 0,
+"target": "Guaifenesin 250 mg",
+"looks": [
+{
+"cam_dist": 0.6198,
+"text_px": 3.0,
+"side": 1,
+"conf": -2.103,
+"pred": [
+"Mildred",
+"Quartacine\n380 mg"
+]
+},
+{
+"cam_dist": 0.4648,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3961,
+"pred": [
+"guafenian\n250 ng",
+"Quanfacine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3409,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.1612,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2603,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0875,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+}
+]
+},
+{
+"i": 103,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5785,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.884,
+"pred": [
+"Mediator\nREng",
+"Medication\n100mg"
+]
+},
+{
+"cam_dist": 0.4339,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.4561,
+"pred": [
+"Malomin\n50mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.3182,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0711,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.243,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0429,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 104,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6226,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.1139,
+"pred": [
+"Антипаразит\n5+1г",
+"1760000000\n1760000000"
+]
+},
+{
+"cam_dist": 0.467,
+"text_px": 4.0,
+"side": -1,
+"conf": -0.3687,
+"pred": [
+"Amiodipine\n5 mg",
+"Amiodipine\n50mg"
+]
+},
+{
+"cam_dist": 0.3424,
+"text_px": 5.5,
+"side": -1,
+"conf": -0.1508,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n60 mg"
+]
+},
+{
+"cam_dist": 0.2615,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0754,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n50 mg"
+]
+}
+]
+},
+{
+"i": 105,
+"split": "",
+"target_side": 1,
+"target": "Oxycodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.6289,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.7828,
+"pred": [
+"Hydrogen\n100%",
+"Glycodine\n10mg"
+]
+},
+{
+"cam_dist": 0.4717,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.2982,
+"pred": [
+"Hydrocodone 10mg",
+"Oxycodaa\n10mg"
+]
+},
+{
+"cam_dist": 0.3459,
+"text_px": 5.4,
+"side": 1,
+"conf": -0.0744,
+"pred": [
+"Hydrocodone\n10 mg",
+"Oxycodone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2641,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.0649,
+"pred": [
+"Hydrocodone\n10 mg",
+"Oxycodone\n10 mg"
+]
+}
+]
+},
+{
+"i": 106,
+"split": "",
+"target_side": 1,
+"target": "Trazodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.6093,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.8454,
+"pred": [
+"ТМЛАКЕШ\n18кг/г",
+"Технология\nТех"
+]
+},
+{
+"cam_dist": 0.457,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3268,
+"pred": [
+"Tisamedol\n10mg",
+"Tiazodone\n10mg"
+]
+},
+{
+"cam_dist": 0.3351,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0732,
+"pred": [
+"Tramedol\n10 mg",
+"Trazodone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2559,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0792,
+"pred": [
+"Tramadol\n10 mg",
+"Trazodone\n10 mg"
+]
+}
+]
+},
+{
+"i": 107,
+"split": "",
+"target_side": 0,
+"target": "Sulfasalazine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5885,
+"text_px": 3.2,
+"side": -1,
+"conf": -1.3034,
+"pred": [
+"2.5mg",
+"завод/4\n380 мд"
+]
+},
+{
+"cam_dist": 0.4414,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2006,
+"pred": [
+"Sulfasalazine\n250 ng",
+"Sulfadiazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3237,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0703,
+"pred": [
+"Sulfasalazine\n250 mg",
+"Sulfadiazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2472,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0377,
+"pred": [
+"Sulfasalazine\n250 mg",
+"Sulfadiazine\n250 mg"
+]
+}
+]
+},
+{
+"i": 108,
+"split": "",
+"target_side": 0,
+"target": "Methotrexate 25 mg",
+"looks": [
+{
+"cam_dist": 0.621,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.2,
+"pred": [
+"MILITÄR\n2kg",
+"11111111111111111111111111111111"
+]
+},
+{
+"cam_dist": 0.4657,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3389,
+"pred": [
+"Methotrexate\n25 mg",
+"Metolazona\n26mg"
+]
+},
+{
+"cam_dist": 0.3416,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.073,
+"pred": [
+"Methotrexate\n25 mg",
+"Metolazone\n25 mg"
+]
+},
+{
+"cam_dist": 0.2608,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0435,
+"pred": [
+"Methotrexate\n25 mg",
+"Metolazone\n25 mg"
+]
+}
+]
+},
+{
+"i": 109,
+"split": "",
+"target_side": 0,
+"target": "Chlorpropamide 50 mg",
+"looks": [
+{
+"cam_dist": 0.5995,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.0262,
+"pred": [
+"стартовый",
+"chaperone"
+]
+},
+{
+"cam_dist": 0.4496,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2783,
+"pred": [
+"Chlopropamide\n50 mg",
+"Chlorpromazine\n60 mg"
+]
+},
+{
+"cam_dist": 0.3297,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.2136,
+"pred": [
+"Chlorpropamide\n60 mg",
+"Chlorpromazine\n60 mg"
+]
+},
+{
+"cam_dist": 0.2518,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.1558,
+"pred": [
+"Chlorpropamide\n50 mg",
+"Chlorpromazine\n50 mg"
+]
+}
+]
+},
+{
+"i": 110,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6107,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.1366,
+"pred": [
+"Medication\nPRE 11/11",
+"Medicare\nMedicare"
+]
+},
+{
+"cam_dist": 0.458,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4975,
+"pred": [
+"Medicarin\n60mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.3359,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.066,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2565,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0455,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 111,
+"split": "",
+"target_side": 0,
+"target": "Carvedilol 50 mg",
+"looks": [
+{
+"cam_dist": 0.6208,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.0176,
+"pred": [
+"17/10/2018\n10/10/2018",
+"Справил."
+]
+},
+{
+"cam_dist": 0.4656,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.4707,
+"pred": [
+"cervedial\n60mg",
+"Capopril\n60mg"
+]
+},
+{
+"cam_dist": 0.3414,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0886,
+"pred": [
+"Carvedilol\n60 mg",
+"Captopril\n50 mg"
+]
+},
+{
+"cam_dist": 0.2607,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0678,
+"pred": [
+"Carvedilol\n50 mg",
+"Captopril\n50 mg"
+]
+}
+]
+},
+{
+"i": 112,
+"split": "",
+"target_side": 1,
+"target": "Morphine 75 mg",
+"looks": [
+{
+"cam_dist": 0.6147,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.7228,
+"pred": [
+"staphylo\n18mg",
+"10000000000000000000000000000000"
+]
+},
+{
+"cam_dist": 0.461,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2313,
+"pred": [
+"Morphine\n16 mg",
+"Morphine\n78 mg"
+]
+},
+{
+"cam_dist": 0.3381,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1437,
+"pred": [
+"Morphine\n16 mg",
+"Morphine\n76 mg"
+]
+},
+{
+"cam_dist": 0.2582,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.1064,
+"pred": [
+"Morphine\n15 mg",
+"Morphine\n75 mg"
+]
+}
+]
+},
+{
+"i": 113,
+"split": "",
+"target_side": 0,
+"target": "Propranolol 5 mg",
+"looks": [
+{
+"cam_dist": 0.6164,
+"text_px": 3.0,
+"side": 0,
+"conf": -0.85,
+"pred": [
+"Mopranalci\nRing",
+"Propafenone\n5+10"
+]
+},
+{
+"cam_dist": 0.4623,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.552,
+"pred": [
+"Propranolol\n5 mg",
+"Properone\n5 mg"
+]
+},
+{
+"cam_dist": 0.339,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.1562,
+"pred": [
+"Proprenolol\n5 mg",
+"Propafenone\n5 mg"
+]
+},
+{
+"cam_dist": 0.2589,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.1531,
+"pred": [
+"Propranolol\n5 mg",
+"Propafenone\n5 mg"
+]
+}
+]
+},
+{
+"i": 114,
+"split": "",
+"target_side": 1,
+"target": "Losartan 25 mg",
+"looks": [
+{
+"cam_dist": 0.5755,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.2088,
+"pred": [
+"LIBERATOR\n280 mg",
+"Lassar's\n7Feng"
+]
+},
+{
+"cam_dist": 0.4316,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.3137,
+"pred": [
+"Loxartan\n250 mg",
+"Losarten\n28 mg"
+]
+},
+{
+"cam_dist": 0.3165,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0703,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n26 mg"
+]
+},
+{
+"cam_dist": 0.2417,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0455,
+"pred": [
+"Losartan\n250 mg",
+"Losartan\n25 mg"
+]
+}
+]
+},
+{
+"i": 115,
+"split": "",
+"target_side": 1,
+"target": "Lamivudine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6122,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.1343,
+"pred": [
+"Lactose Ring\nR+1g",
+"Lastvedring\nRing"
+]
+},
+{
+"cam_dist": 0.4591,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.1713,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3367,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0794,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2571,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.049,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+}
+]
+},
+{
+"i": 116,
+"split": "",
+"target_side": 1,
+"target": "Furosemide 200 mg",
+"looks": [
+{
+"cam_dist": 0.6134,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.2064,
+"pred": [
+"Huguenids\nXing",
+"Purineamide\n350 mg"
+]
+},
+{
+"cam_dist": 0.46,
+"text_px": 4.1,
+"side": -1,
+"conf": -0.2497,
+"pred": [
+"Furosemida\n20 mg",
+"Furosenide\n200 ng"
+]
+},
+{
+"cam_dist": 0.3374,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0762,
+"pred": [
+"Furceemide\n20 mg",
+"Furcsemide\n200 mg"
+]
+},
+{
+"cam_dist": 0.2576,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0236,
+"pred": [
+"Furosemide\n20 mg",
+"Furosemide\n200 mg"
+]
+}
+]
+},
+{
+"i": 117,
+"split": "",
+"target_side": 0,
+"target": "Amlodipine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6283,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.9711,
+"pred": [
+"АЛКОГОЛЬ\nМг/л",
+"ANTIBOOTH\nB-ring"
+]
+},
+{
+"cam_dist": 0.4712,
+"text_px": 4.0,
+"side": -1,
+"conf": -0.4418,
+"pred": [
+"Anodipine\n50 mg",
+"Anlodipine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3456,
+"text_px": 5.4,
+"side": 0,
+"conf": -0.1423,
+"pred": [
+"Amlodipine\n60 mg",
+"Amlodipine\n5 ng"
+]
+},
+{
+"cam_dist": 0.2639,
+"text_px": 7.1,
+"side": 0,
+"conf": -0.0437,
+"pred": [
+"Amlodipine\n50 mg",
+"Amlodipine\n5 mg"
+]
+}
+]
+},
+{
+"i": 118,
+"split": "",
+"target_side": 0,
+"target": "Furosemide 20 mg",
+"looks": [
+{
+"cam_dist": 0.5961,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.4114,
+"pred": [
+"Purification\n净化",
+"PULMONITIS\n280 mg"
+]
+},
+{
+"cam_dist": 0.4471,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.1725,
+"pred": [
+"Furosemide\n20mg",
+"Furosemide\n200 ng"
+]
+},
+{
+"cam_dist": 0.3279,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.1139,
+"pred": [
+"Furosemide\n20 mg",
+"Furcsemide\n200 mg"
+]
+},
+{
+"cam_dist": 0.2504,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0273,
+"pred": [
+"Furosemide\n20 mg",
+"Furosemide\n200 mg"
+]
+}
+]
+},
+{
+"i": 119,
+"split": "",
+"target_side": 0,
+"target": "Carvedilol 50 mg",
+"looks": [
+{
+"cam_dist": 0.614,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.4576,
+"pred": [
+"CHIVARD\nPILLING",
+"сварить\n100кг"
+]
+},
+{
+"cam_dist": 0.4605,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.3041,
+"pred": [
+"Cervedial\n60mg",
+"Capopril\n60mg"
+]
+},
+{
+"cam_dist": 0.3377,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1662,
+"pred": [
+"Carvedilol\n50 mg",
+"Captopril\n50 mg"
+]
+},
+{
+"cam_dist": 0.2579,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.1396,
+"pred": [
+"Carvedilol\n50 mg",
+"Captopril\n50 mg"
+]
+}
+]
+},
+{
+"i": 120,
+"split": "",
+"target_side": 0,
+"target": "Morphine 75 mg",
+"looks": [
+{
+"cam_dist": 0.5997,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.2756,
+"pred": [
+"Maghree\nTirup",
+"morphine\n18 rps"
+]
+},
+{
+"cam_dist": 0.4498,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.3946,
+"pred": [
+"Morphine\n78 mg",
+"Morphine\n18mg"
+]
+},
+{
+"cam_dist": 0.3298,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.136,
+"pred": [
+"Morphine\n76 mg",
+"Morphine\n16 mg"
+]
+},
+{
+"cam_dist": 0.2519,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.1337,
+"pred": [
+"Morphine\n75 mg",
+"Morphine\n15 mg"
+]
+}
+]
+},
+{
+"i": 121,
+"split": "",
+"target_side": 1,
+"target": "Levetiracetam 10 mg",
+"looks": [
+{
+"cam_dist": 0.5994,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9567,
+"pred": [
+"Landboxan\n?Eng",
+"Levetiracetam\nTfngs"
+]
+},
+{
+"cam_dist": 0.4496,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.6301,
+"pred": [
+"Lavoloxacin\n10mg",
+"Levetiracetam\n10mg"
+]
+},
+{
+"cam_dist": 0.3297,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1077,
+"pred": [
+"Levofloxacin\n10 mg",
+"Levetiracetam\n10 mg"
+]
+},
+{
+"cam_dist": 0.2517,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0675,
+"pred": [
+"Levofloxacin\n10 mg",
+"Levetiracetam\n10 mg"
+]
+}
+]
+},
+{
+"i": 122,
+"split": "",
+"target_side": 1,
+"target": "Clomipramine 25 mg",
+"looks": [
+{
+"cam_dist": 0.6083,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.8179,
+"pred": [
+"Chlorophyll\n78 mg",
+"Липосакция\n70 000"
+]
+},
+{
+"cam_dist": 0.4562,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3213,
+"pred": [
+"clomiphene\n28 mg",
+"Clonipamine\n28mg"
+]
+},
+{
+"cam_dist": 0.3346,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1834,
+"pred": [
+"Clamiphene\n25 mg",
+"Clomipremine\n26 mg"
+]
+},
+{
+"cam_dist": 0.2555,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.1201,
+"pred": [
+"Clomiphene\n25 mg",
+"Clomipramine\n25 mg"
+]
+}
+]
+},
+{
+"i": 123,
+"split": "",
+"target_side": 0,
+"target": "Chlorpropamide 50 mg",
+"looks": [
+{
+"cam_dist": 0.6231,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.4738,
+"pred": [
+"СНПоросаиМ\nНБ+кг",
+"Utharpanare\nAE110"
+]
+},
+{
+"cam_dist": 0.4673,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.5246,
+"pred": [
+"Chlpropamida\n60 mg",
+"Chlorpromazine\n60mg"
+]
+},
+{
+"cam_dist": 0.3427,
+"text_px": 5.5,
+"side": -1,
+"conf": -0.201,
+"pred": [
+"Chloropamide\n60 mg",
+"Chlorpromazine\n50 mg"
+]
+},
+{
+"cam_dist": 0.2617,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.1915,
+"pred": [
+"Chloropamide\n50 mg",
+"Chlorpromazine\n50 mg"
+]
+}
+]
+},
+{
+"i": 124,
+"split": "",
+"target_side": 1,
+"target": "Methotrexate 25 mg",
+"looks": [
+{
+"cam_dist": 0.5749,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.983,
+"pred": [
+"metabolone\n2mg",
+"Mifutwaah\n7mp"
+]
+},
+{
+"cam_dist": 0.4312,
+"text_px": 4.3,
+"side": -1,
+"conf": -0.6734,
+"pred": [
+"Metolazone\n25 mg",
+"Mod'atexate\n28mg"
+]
+},
+{
+"cam_dist": 0.3162,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.118,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+},
+{
+"cam_dist": 0.2415,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0476,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+}
+]
+},
+{
+"i": 125,
+"split": "",
+"target_side": 1,
+"target": "Clomipramine 25 mg",
+"looks": [
+{
+"cam_dist": 0.5713,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.542,
+"pred": [
+"Clanphere\nRing",
+"clonazepam\n20mg"
+]
+},
+{
+"cam_dist": 0.4285,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.3581,
+"pred": [
+"Clamiphene\n25 mg",
+"Clompramine\n28 mg"
+]
+},
+{
+"cam_dist": 0.3142,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0821,
+"pred": [
+"Clomiphene\n25 mg",
+"Clomipramine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2399,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0928,
+"pred": [
+"Clomiphene\n25 mg",
+"Clomipramine\n25 mg"
+]
+}
+]
+},
+{
+"i": 126,
+"split": "",
+"target_side": 0,
+"target": "Losartan 25 mg",
+"looks": [
+{
+"cam_dist": 0.5789,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.1288,
+"pred": [
+"LOGIC/1\n26-11",
+"Locartan\n280 mg"
+]
+},
+{
+"cam_dist": 0.4342,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1273,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+},
+{
+"cam_dist": 0.3184,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0642,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+},
+{
+"cam_dist": 0.2431,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0518,
+"pred": [
+"Losartan\n25 mg",
+"Losartan\n250 mg"
+]
+}
+]
+},
+{
+"i": 127,
+"split": "",
+"target_side": 1,
+"target": "Cefuroxime 10 mg",
+"looks": [
+{
+"cam_dist": 0.593,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.1464,
+"pred": [
+"Culture\n?Eng",
+"Cellulose\n18mg"
+]
+},
+{
+"cam_dist": 0.4447,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.6059,
+"pred": [
+"Celebre\n10mg",
+"Cefuroxime\n10mg"
+]
+},
+{
+"cam_dist": 0.3261,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0313,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2491,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0299,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+}
+]
+},
+{
+"i": 128,
+"split": "",
+"target_side": 0,
+"target": "Methotrexate 25 mg",
+"looks": [
+{
+"cam_dist": 0.5783,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.7398,
+"pred": [
+"Medicinal\n24mg",
+"Metoprolol\n75mg"
+]
+},
+{
+"cam_dist": 0.4337,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.2548,
+"pred": [
+"Methotrexate\n25 mg",
+"Metolazone\n28 mg"
+]
+},
+{
+"cam_dist": 0.3181,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1274,
+"pred": [
+"Methotrexate\n26 mg",
+"Metolazone\n25 mg"
+]
+},
+{
+"cam_dist": 0.2429,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0455,
+"pred": [
+"Methotrexate\n25 mg",
+"Metolazone\n25 mg"
+]
+}
+]
+},
+{
+"i": 129,
+"split": "",
+"target_side": 1,
+"target": "Hydroxyzine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6146,
+"text_px": 3.1,
+"side": -1,
+"conf": -0.7974,
+"pred": [
+"Hydromore\nN=rg",
+"Hydrogen\nH=1g"
+]
+},
+{
+"cam_dist": 0.461,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4327,
+"pred": [
+"Hydrazine\n8 mg",
+"Hydroxyzine 5 rig"
+]
+},
+{
+"cam_dist": 0.338,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.2154,
+"pred": [
+"Hydralazine\n5 mg",
+"Hydroxyzine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2581,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.1493,
+"pred": [
+"Hydralazine\n5 mg",
+"Hydroxyzine\n5 mg"
+]
+}
+]
+},
+{
+"i": 130,
+"split": "",
+"target_side": 1,
+"target": "Methotrexate 25 mg",
+"looks": [
+{
+"cam_dist": 0.6222,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.2268,
+"pred": [
+"1M230G/9\n78kg",
+"MÄHGEKÜH\n28110"
+]
+},
+{
+"cam_dist": 0.4667,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.5682,
+"pred": [
+"Metolazona\n26mg",
+"Methotrexate\n25mg"
+]
+},
+{
+"cam_dist": 0.3422,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1242,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+},
+{
+"cam_dist": 0.2613,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0463,
+"pred": [
+"Metolazone\n25 mg",
+"Methotrexate\n25 mg"
+]
+}
+]
+},
+{
+"i": 131,
+"split": "",
+"target_side": 1,
+"target": "Propafenone 5 mg",
+"looks": [
+{
+"cam_dist": 0.5992,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.5721,
+"pred": [
+"Propranolol\n5mg",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.4494,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.3466,
+"pred": [
+"Proprenolol\n5 mg",
+"Propafenone\n5 mg"
+]
+},
+{
+"cam_dist": 0.3296,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.143,
+"pred": [
+"Proprenolol\n5 mg",
+"Propafenone\n5 mg"
+]
+},
+{
+"cam_dist": 0.2517,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.1156,
+"pred": [
+"Propranolol\n5 mg",
+"Propafenone\n5 mg"
+]
+}
+]
+},
+{
+"i": 132,
+"split": "",
+"target_side": 0,
+"target": "Ephedrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.583,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.855,
+"pred": [
+"спрей 100мл",
+"апрель 2017\n180 мг"
+]
+},
+{
+"cam_dist": 0.4372,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1586,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3206,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0609,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2449,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0576,
+"pred": [
+"Ephedrine\n500 mg",
+"Epinephrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 133,
+"split": "",
+"target_side": 0,
+"target": "Azithromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.6186,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.4281,
+"pred": [
+"NUTRITION",
+"муфатония"
+]
+},
+{
+"cam_dist": 0.464,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.191,
+"pred": [
+"Azithromycin\n16mg",
+"Erythromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.3402,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.058,
+"pred": [
+"Azithromycin\n10 mg",
+"Erythromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2598,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0368,
+"pred": [
+"Azithromycin\n10 mg",
+"Erythromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 134,
+"split": "",
+"target_side": 1,
+"target": "Fluoxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6097,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9714,
+"pred": [
+"Parquetine\n130 mg)",
+"> P-hydroxycinnamic\n137 mg"
+]
+},
+{
+"cam_dist": 0.4573,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.8093,
+"pred": [
+"Paxereta\n150 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3353,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1482,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2561,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0933,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 135,
+"split": "",
+"target_side": 0,
+"target": "Buspirone 25 mg",
+"looks": [
+{
+"cam_dist": 0.5758,
+"text_px": 3.3,
+"side": 1,
+"conf": -1.4101,
+"pred": [
+"выархив",
+"marathon 20mp"
+]
+},
+{
+"cam_dist": 0.4318,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.2456,
+"pred": [
+"Busprone\n25mg",
+"Bupropian\n28 mg"
+]
+},
+{
+"cam_dist": 0.3167,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0735,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n25 mg"
+]
+},
+{
+"cam_dist": 0.2418,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0488,
+"pred": [
+"Buspirone\n25 mg",
+"Bupropion\n25 mg"
+]
+}
+]
+},
+{
+"i": 136,
+"split": "",
+"target_side": 0,
+"target": "Prednisone 10 mg",
+"looks": [
+{
+"cam_dist": 0.5789,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.0672,
+"pred": [
+"PVD160206\n10mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.4342,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.0925,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3184,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0301,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2431,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0265,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+}
+]
+},
+{
+"i": 137,
+"split": "",
+"target_side": 1,
+"target": "Levofloxacin 10 mg",
+"looks": [
+{
+"cam_dist": 0.622,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.3843,
+"pred": [
+"LiveCatalan\n18kg",
+"LandBoxaan\n18kg"
+]
+},
+{
+"cam_dist": 0.4665,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.1849,
+"pred": [
+"Levetiracetam\n10mg",
+"Levofloxacin\n10mg"
+]
+},
+{
+"cam_dist": 0.3421,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1563,
+"pred": [
+"Leveliracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2612,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0939,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+}
+]
+},
+{
+"i": 138,
+"split": "",
+"target_side": 1,
+"target": "Ephedrine 500 mg",
+"looks": [
+{
+"cam_dist": 0.5868,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.0785,
+"pred": [
+"бронирование\nPBT-нг",
+"Ephedrine\n180 mg"
+]
+},
+{
+"cam_dist": 0.4401,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.1959,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 ng"
+]
+},
+{
+"cam_dist": 0.3227,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0766,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2465,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0699,
+"pred": [
+"Epinephrine\n500 mg",
+"Ephedrine\n500 mg"
+]
+}
+]
+},
+{
+"i": 139,
+"split": "",
+"target_side": 0,
+"target": "Azithromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.5716,
+"text_px": 3.3,
+"side": 0,
+"conf": -1.2555,
+"pred": [
+"ADE/0101/0101/0101\n10mg",
+"вкусный\n!Воп"
+]
+},
+{
+"cam_dist": 0.4287,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.1179,
+"pred": [
+"Azithromycin\n10mg",
+"Erythromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.3144,
+"text_px": 6.0,
+"side": 0,
+"conf": -0.0443,
+"pred": [
+"Azithromycin\n10 mg",
+"Erythromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2401,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0485,
+"pred": [
+"Azithromycin\n10 mg",
+"Erythromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 140,
+"split": "",
+"target_side": 1,
+"target": "Furosemide 20 mg",
+"looks": [
+{
+"cam_dist": 0.5813,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.6107,
+"pred": [
+"Purification\n280 mg",
+"Furosemide\n20mg"
+]
+},
+{
+"cam_dist": 0.436,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.0894,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemida\n20 mg"
+]
+},
+{
+"cam_dist": 0.3197,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0517,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemide\n20 mg"
+]
+},
+{
+"cam_dist": 0.2441,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.0263,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemide\n20 mg"
+]
+}
+]
+},
+{
+"i": 141,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.6002,
+"text_px": 3.1,
+"side": -1,
+"conf": -2.3156,
+"pred": [
+"mycologyall\nfibers",
+"AllEcheyC\nTE"
+]
+},
+{
+"cam_dist": 0.4501,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.1097,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.3301,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0393,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2521,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0408,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 142,
+"split": "",
+"target_side": 0,
+"target": "Metformin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6132,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0903,
+"pred": [
+"MidCanon\nAll specs",
+"Mediandual\nMediandual"
+]
+},
+{
+"cam_dist": 0.4599,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.3576,
+"pred": [
+"Metocamin\n60mg",
+"Metronidazole\n60 mg"
+]
+},
+{
+"cam_dist": 0.3373,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1492,
+"pred": [
+"Metformin\n50 mg",
+"Metronidazole\n50 mg"
+]
+},
+{
+"cam_dist": 0.2575,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0632,
+"pred": [
+"Metformin\n50 mg",
+"Metronidazole\n50 mg"
+]
+}
+]
+},
+{
+"i": 143,
+"split": "",
+"target_side": 0,
+"target": "Amlodipine 50 mg",
+"looks": [
+{
+"cam_dist": 0.5838,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.1128,
+"pred": [
+"Английский\nPE и mg",
+"Arndtspete\n8 mg"
+]
+},
+{
+"cam_dist": 0.4378,
+"text_px": 4.3,
+"side": -1,
+"conf": -0.3438,
+"pred": [
+"Amiodipine\n60 mg",
+"Anlodipine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3211,
+"text_px": 5.8,
+"side": -1,
+"conf": -0.1071,
+"pred": [
+"Amlodipine\n60 mg",
+"Amlodipine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2452,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0407,
+"pred": [
+"Amlodipine\n50 mg",
+"Amlodipine\n5 mg"
+]
+}
+]
+},
+{
+"i": 144,
+"split": "",
+"target_side": 0,
+"target": "Risperidone 100 mg",
+"looks": [
+{
+"cam_dist": 0.5718,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.7189,
+"pred": [
+"Piperidine\n180 mg",
+"Naphthodine\n130 mg"
+]
+},
+{
+"cam_dist": 0.4288,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.2287,
+"pred": [
+"Risperidone\n100 mg",
+"Ropnirole\n100 mg"
+]
+},
+{
+"cam_dist": 0.3145,
+"text_px": 6.0,
+"side": 0,
+"conf": -0.0691,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+},
+{
+"cam_dist": 0.2402,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0982,
+"pred": [
+"Risperidone\n100 mg",
+"Ropinirole\n100 mg"
+]
+}
+]
+},
+{
+"i": 145,
+"split": "",
+"target_side": 0,
+"target": "Nifedipine 500 mg",
+"looks": [
+{
+"cam_dist": 0.5887,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.9583,
+"pred": [
+"tidalipine\n100 mg",
+"Пескарь\n180 мг"
+]
+},
+{
+"cam_dist": 0.4415,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2048,
+"pred": [
+"Nifedpine\n500 mg",
+"Nicardipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.3238,
+"text_px": 5.8,
+"side": 0,
+"conf": -0.0618,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2473,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0369,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+}
+]
+},
+{
+"i": 146,
+"split": "",
+"target_side": 1,
+"target": "Oxcarbazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5876,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.9047,
+"pred": [
+"Cataractone\n5-rg",
+"Gliclazipone\n5 mg"
+]
+},
+{
+"cam_dist": 0.4407,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.1621,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3232,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.1345,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2468,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.1387,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 147,
+"split": "",
+"target_side": 1,
+"target": "Buspirone 25 mg",
+"looks": [
+{
+"cam_dist": 0.5742,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.7691,
+"pred": [
+"Bupropion\n75 mg",
+"вареная\n28гр"
+]
+},
+{
+"cam_dist": 0.4307,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.3029,
+"pred": [
+"Bupropion\n25 mg",
+"Busprone\n28 mg"
+]
+},
+{
+"cam_dist": 0.3158,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.103,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n25 mg"
+]
+},
+{
+"cam_dist": 0.2412,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0749,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n25 mg"
+]
+}
+]
+},
+{
+"i": 148,
+"split": "",
+"target_side": 0,
+"target": "Paroxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5936,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.3477,
+"pred": [
+"Paracetone\n180 mg",
+"> Hydroxycarb"
+]
+},
+{
+"cam_dist": 0.4452,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.369,
+"pred": [
+"Pirocetine\n120 mg",
+"Fluoxecine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3265,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.1568,
+"pred": [
+"Piroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2493,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.1114,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 149,
+"split": "",
+"target_side": 1,
+"target": "Clonidine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5875,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.7026,
+"pred": [
+"Gloradegan\n780 mg",
+"clodrine\n280 mg"
+]
+},
+{
+"cam_dist": 0.4406,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.1113,
+"pred": [
+"Clonazepam\n250 mg",
+"Clonidine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3231,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.061,
+"pred": [
+"Clonazepam\n250 mg",
+"Clonidine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2467,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0823,
+"pred": [
+"Clonazepam\n250 mg",
+"Clonidine\n250 mg"
+]
+}
+]
+},
+{
+"i": 150,
+"split": "",
+"target_side": 0,
+"target": "Digoxin 2.5 mg",
+"looks": [
+{
+"cam_dist": 0.5947,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.902,
+"pred": [
+"Urgent\n7.5 mg",
+"digested\n28 rps"
+]
+},
+{
+"cam_dist": 0.446,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.317,
+"pred": [
+"Digoxin\n2.5 mg",
+"Digoxin\n28 mg"
+]
+},
+{
+"cam_dist": 0.3271,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0871,
+"pred": [
+"Digoxin\n2.6 mg",
+"Digoxin\n26 mg"
+]
+},
+{
+"cam_dist": 0.2498,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0356,
+"pred": [
+"Digoxin\n2.5 mg",
+"Digoxin\n25 mg"
+]
+}
+]
+},
+{
+"i": 151,
+"split": "",
+"target_side": 1,
+"target": "Warfarin 5 mg",
+"looks": [
+{
+"cam_dist": 0.6044,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2653,
+"pred": [
+"Yuanlan\nE.A.",
+"voodoo\n8-ring"
+]
+},
+{
+"cam_dist": 0.4533,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2322,
+"pred": [
+"Warfarin\n0.5 mg",
+"Warfarin\n5 mg"
+]
+},
+{
+"cam_dist": 0.3324,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0981,
+"pred": [
+"Warfarin\n0.5 mg",
+"Warfarin\n5 mg"
+]
+},
+{
+"cam_dist": 0.2538,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0307,
+"pred": [
+"Warfarin\n0.5 mg",
+"Warfarin\n5 mg"
+]
+}
+]
+},
+{
+"i": 152,
+"split": "",
+"target_side": 1,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6028,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.8574,
+"pred": [
+"ENGLISH\nFR",
+"curatorship\nfilling"
+]
+},
+{
+"cam_dist": 0.4521,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.4932,
+"pred": [
+"Doxorubicin\n50mg",
+"Deaconubion\n60mg"
+]
+},
+{
+"cam_dist": 0.3315,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0893,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.2532,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0726,
+"pred": [
+"Doxorubicin\n50 mg",
+"Daunorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 153,
+"split": "",
+"target_side": 0,
+"target": "Oxycodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.595,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.7259,
+"pred": [
+"Oxybutynin\n10mg",
+"hydrocarbon 18 kg"
+]
+},
+{
+"cam_dist": 0.4462,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2143,
+"pred": [
+"Oxycodone\n10 mg",
+"Hydrocodone\n10mg"
+]
+},
+{
+"cam_dist": 0.3272,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.08,
+"pred": [
+"Oxycodone\n10 mg",
+"Hydrocodone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2499,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.1014,
+"pred": [
+"Oxycodone\n10 mg",
+"Hydrocodone\n10 mg"
+]
+}
+]
+},
+{
+"i": 154,
+"split": "",
+"target_side": 1,
+"target": "Prednisone 10 mg",
+"looks": [
+{
+"cam_dist": 0.599,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.9363,
+"pred": [
+"Prednisolab\n100 mg",
+"Представление\n18 в"
+]
+},
+{
+"cam_dist": 0.4492,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.0928,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisone\n10mg"
+]
+},
+{
+"cam_dist": 0.3295,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.0466,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2516,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0315,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisone\n10 mg"
+]
+}
+]
+},
+{
+"i": 155,
+"split": "",
+"target_side": 0,
+"target": "Glyburide 5 mg",
+"looks": [
+{
+"cam_dist": 0.6144,
+"text_px": 3.1,
+"side": -1,
+"conf": -1.0853,
+"pred": [
+"UyGuide\n8-10",
+"ubiquide\n8+kg"
+]
+},
+{
+"cam_dist": 0.4608,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.1827,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.3379,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.0491,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.258,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0369,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 156,
+"split": "",
+"target_side": 1,
+"target": "Buspirone 25 mg",
+"looks": [
+{
+"cam_dist": 0.5779,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.5927,
+"pred": [
+"Swapan\n28mg",
+"Buprone\n28mg"
+]
+},
+{
+"cam_dist": 0.4334,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.1549,
+"pred": [
+"Bupropion\n28 mg",
+"Bueprone\n25 mg"
+]
+},
+{
+"cam_dist": 0.3178,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.0969,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n26 mg"
+]
+},
+{
+"cam_dist": 0.2427,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.0559,
+"pred": [
+"Bupropion\n25 mg",
+"Buspirone\n25 mg"
+]
+}
+]
+},
+{
+"i": 157,
+"split": "",
+"target_side": 1,
+"target": "Morphine 75 mg",
+"looks": [
+{
+"cam_dist": 0.5872,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.1192,
+"pred": [
+"Magrune\nTfng",
+"Morphine\nTil resp"
+]
+},
+{
+"cam_dist": 0.4404,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2871,
+"pred": [
+"Morphine\n18 mg",
+"Morphine\n78 mg"
+]
+},
+{
+"cam_dist": 0.323,
+"text_px": 5.8,
+"side": -1,
+"conf": -0.1644,
+"pred": [
+"Morphine\n15 mg",
+"Morphine\n76 mg"
+]
+},
+{
+"cam_dist": 0.2466,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.1241,
+"pred": [
+"Morphine\n15 mg",
+"Morphine\n75 mg"
+]
+}
+]
+},
+{
+"i": 158,
+"split": "",
+"target_side": 0,
+"target": "Glyburide 5 mg",
+"looks": [
+{
+"cam_dist": 0.6093,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.6502,
+"pred": [
+"Hybrid\n1kg",
+"capacitance\nC=Q/V"
+]
+},
+{
+"cam_dist": 0.457,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.5441,
+"pred": [
+"Glyburida\n5 mg",
+"clipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.3351,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.3616,
+"pred": [
+"Glyburide\n5 mg",
+"Glicpizide\n5 ng"
+]
+},
+{
+"cam_dist": 0.2559,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0432,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 159,
+"split": "",
+"target_side": 0,
+"target": "Guanfacine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6195,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.63,
+"pred": [
+"Quarantine\n780 mg",
+"Glucosamine\n780 mg"
+]
+},
+{
+"cam_dist": 0.4646,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.458,
+"pred": [
+"Quantacine\n250 ng",
+"Quaienesin\n250 mg"
+]
+},
+{
+"cam_dist": 0.3407,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.1523,
+"pred": [
+"Guanaxine\n250 mg",
+"Gualifenesin\n250 mg"
+]
+},
+{
+"cam_dist": 0.2602,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0889,
+"pred": [
+"Guanfacine\n250 mg",
+"Guaifenesin\n250 mg"
+]
+}
+]
+},
+{
+"i": 160,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 50 mg",
+"looks": [
+{
+"cam_dist": 0.6247,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.0967,
+"pred": [
+"Arndtspelle\n8+1g",
+"Антидиперине\nАнтидиперин"
+]
+},
+{
+"cam_dist": 0.4685,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.2865,
+"pred": [
+"Amiodipine\n5 mg",
+"Amiodipine\n60mg"
+]
+},
+{
+"cam_dist": 0.3436,
+"text_px": 5.5,
+"side": -1,
+"conf": -0.1591,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n60 mg"
+]
+},
+{
+"cam_dist": 0.2624,
+"text_px": 7.1,
+"side": 1,
+"conf": -0.044,
+"pred": [
+"Amlodipine\n5 mg",
+"Amlodipine\n50 mg"
+]
+}
+]
+},
+{
+"i": 161,
+"split": "",
+"target_side": 0,
+"target": "Erythromycin 10 mg",
+"looks": [
+{
+"cam_dist": 0.5948,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.01,
+"pred": [
+"mycraconium\n10mg",
+"A. B. C. D. E. F. G. H. I. J. K. L. M. N. O. P."
+]
+},
+{
+"cam_dist": 0.4461,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2374,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10mg"
+]
+},
+{
+"cam_dist": 0.3271,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0488,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2498,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0432,
+"pred": [
+"Erythromycin\n10 mg",
+"Azithromycin\n10 mg"
+]
+}
+]
+},
+{
+"i": 162,
+"split": "",
+"target_side": 0,
+"target": "Clomiphene 25 mg",
+"looks": [
+{
+"cam_dist": 0.6103,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.607,
+"pred": [
+"clastphere\n78 mg",
+"Ustropatier'\n27cups"
+]
+},
+{
+"cam_dist": 0.4577,
+"text_px": 4.1,
+"side": -1,
+"conf": -0.288,
+"pred": [
+"Claniphere\n28 mg",
+"Clomipamine\n25mg"
+]
+},
+{
+"cam_dist": 0.3357,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1738,
+"pred": [
+"Clamiphene\n25 mg",
+"Clomipramine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2563,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.1113,
+"pred": [
+"Clomiphene\n25 mg",
+"Clomipramine\n25 mg"
+]
+}
+]
+},
+{
+"i": 163,
+"split": "",
+"target_side": 1,
+"target": "Glipizide 5 mg",
+"looks": [
+{
+"cam_dist": 0.6054,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.1496,
+"pred": [
+"wayguide\nFrg",
+"Lipoxin\n8 = kg"
+]
+},
+{
+"cam_dist": 0.4541,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3517,
+"pred": [
+"Glyburide\n5mg",
+"Gilpizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.333,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0748,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.2543,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0397,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 164,
+"split": "",
+"target_side": 1,
+"target": "Amlodipine 25 mg",
+"looks": [
+{
+"cam_dist": 0.6076,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.1162,
+"pred": [
+"Aftalade\n28mg",
+"Андропия 78 нг"
+]
+},
+{
+"cam_dist": 0.4557,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.3251,
+"pred": [
+"Amiloride\n25 mg",
+"Anlodipine\n28mg"
+]
+},
+{
+"cam_dist": 0.3342,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1261,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2552,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0519,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+}
+]
+},
+{
+"i": 165,
+"split": "",
+"target_side": 1,
+"target": "Glipizide 5 mg",
+"looks": [
+{
+"cam_dist": 0.5784,
+"text_px": 3.2,
+"side": -1,
+"conf": -0.7724,
+"pred": [
+"Hybicide\n1+g",
+"capsaicin\n5 mg"
+]
+},
+{
+"cam_dist": 0.4338,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.209,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.3181,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.052,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+},
+{
+"cam_dist": 0.2429,
+"text_px": 7.7,
+"side": 1,
+"conf": -0.0362,
+"pred": [
+"Glyburide\n5 mg",
+"Glipizide\n5 mg"
+]
+}
+]
+},
+{
+"i": 166,
+"split": "",
+"target_side": 1,
+"target": "Fluoxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6135,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9562,
+"pred": [
+"1924014\n187 mg",
+"Pharmacology\n1200 mg"
+]
+},
+{
+"cam_dist": 0.4601,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2748,
+"pred": [
+"Paxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3374,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1436,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2577,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.092,
+"pred": [
+"Paroxetine\n100 mg",
+"Fluoxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 167,
+"split": "",
+"target_side": 1,
+"target": "Dopamine 250 mg",
+"looks": [
+{
+"cam_dist": 0.6076,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.7669,
+"pred": [
+"D0000000000000000000000000000000",
+"20067000\n180-kg"
+]
+},
+{
+"cam_dist": 0.4557,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.2347,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3342,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0387,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2552,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0368,
+"pred": [
+"Dobutamine\n250 mg",
+"Dopamine\n250 mg"
+]
+}
+]
+},
+{
+"i": 168,
+"split": "",
+"target_side": 1,
+"target": "Oxycodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.6102,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9436,
+"pred": [
+"Hydrocarbons\n1800",
+"Oxydation\n18mg"
+]
+},
+{
+"cam_dist": 0.4577,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.1453,
+"pred": [
+"Hydrocodone\n10mg",
+"Oxycodone\n10mg"
+]
+},
+{
+"cam_dist": 0.3356,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1328,
+"pred": [
+"Hydrocodone\n10 mg",
+"Oxycodone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2563,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0783,
+"pred": [
+"Hydrocodone\n10 mg",
+"Oxycodone\n10 mg"
+]
+}
+]
+},
+{
+"i": 169,
+"split": "",
+"target_side": 1,
+"target": "Oxcarbazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6154,
+"text_px": 3.0,
+"side": 1,
+"conf": -1.295,
+"pred": [
+"Ultraseptin\nU-10",
+"Uricaseprte\n5+g"
+]
+},
+{
+"cam_dist": 0.4615,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.5686,
+"pred": [
+"Cabergamine\n5 mg",
+"Ocecarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3385,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.1541,
+"pred": [
+"Carbamazapine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2585,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.1811,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 170,
+"split": "",
+"target_side": 0,
+"target": "Lamivudine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5938,
+"text_px": 3.2,
+"side": 0,
+"conf": -1.0048,
+"pred": [
+"Last weekine\n5 mg",
+"LANCASHIRE\n5=kg"
+]
+},
+{
+"cam_dist": 0.4454,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.2019,
+"pred": [
+"Lamivudina\n5 mg",
+"Lamotrigina\n5 mg"
+]
+},
+{
+"cam_dist": 0.3266,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0559,
+"pred": [
+"Lamivudine\n5 mg",
+"Lamotrigine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2494,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0365,
+"pred": [
+"Lamivudine\n5 mg",
+"Lamotrigine\n5 mg"
+]
+}
+]
+},
+{
+"i": 171,
+"split": "",
+"target_side": 0,
+"target": "Vinblastine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5704,
+"text_px": 3.3,
+"side": 1,
+"conf": -1.0219,
+"pred": [
+"MIGRATION\n1980-1982",
+"Vincilate\n180 mg"
+]
+},
+{
+"cam_dist": 0.4278,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.1406,
+"pred": [
+"Vinblastina\n100 mg",
+"Vincristine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3137,
+"text_px": 6.0,
+"side": 0,
+"conf": -0.0595,
+"pred": [
+"Vinblastine\n100 mg",
+"Vincristine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2396,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0871,
+"pred": [
+"Vinblastine\n100 mg",
+"Vincristine\n100 mg"
+]
+}
+]
+},
+{
+"i": 172,
+"split": "",
+"target_side": 0,
+"target": "Carbamazepine 5 mg",
+"looks": [
+{
+"cam_dist": 0.5971,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.911,
+"pred": [
+"Gabapentin\n5+10",
+"Uricaseperine\n5mg"
+]
+},
+{
+"cam_dist": 0.4478,
+"text_px": 4.2,
+"side": -1,
+"conf": -0.6634,
+"pred": [
+"Calcenazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3284,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.1215,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2508,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.1036,
+"pred": [
+"Carbamazepine\n5 mg",
+"Oxcarbazepine\n5 mg"
+]
+}
+]
+},
+{
+"i": 173,
+"split": "",
+"target_side": 0,
+"target": "Nifedipine 500 mg",
+"looks": [
+{
+"cam_dist": 0.6076,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.0409,
+"pred": [
+"Medicine\nPAB",
+"ПЕЧАТНАЯ"
+]
+},
+{
+"cam_dist": 0.4557,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.1621,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 ng"
+]
+},
+{
+"cam_dist": 0.3342,
+"text_px": 5.6,
+"side": 0,
+"conf": -0.1283,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+},
+{
+"cam_dist": 0.2552,
+"text_px": 7.3,
+"side": 0,
+"conf": -0.0393,
+"pred": [
+"Nifedipine\n500 mg",
+"Nicardipine\n500 mg"
+]
+}
+]
+},
+{
+"i": 174,
+"split": "",
+"target_side": 1,
+"target": "Vinblastine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5751,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.7638,
+"pred": [
+"УСЛЕДОВИЕ\n180 мг",
+"wyciągnięte\n180 mg"
+]
+},
+{
+"cam_dist": 0.4313,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.2009,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3163,
+"text_px": 5.9,
+"side": 1,
+"conf": -0.1022,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2415,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0571,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+}
+]
+},
+{
+"i": 175,
+"split": "",
+"target_side": 0,
+"target": "Vincristine 100 mg",
+"looks": [
+{
+"cam_dist": 0.5755,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.7901,
+"pred": [
+"YONGMEI\n130 mg",
+"Vinblastine\n130 mg"
+]
+},
+{
+"cam_dist": 0.4316,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1282,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3165,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0719,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2417,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0425,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+}
+]
+},
+{
+"i": 176,
+"split": "",
+"target_side": 0,
+"target": "Cefixime 10 mg",
+"looks": [
+{
+"cam_dist": 0.5971,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.8906,
+"pred": [
+"Ushura\n16x16",
+"calculated 18mp"
+]
+},
+{
+"cam_dist": 0.4478,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.5194,
+"pred": [
+"Ceisina\n10mg",
+"Cefuroxime\n10mg"
+]
+},
+{
+"cam_dist": 0.3284,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0416,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+},
+{
+"cam_dist": 0.2508,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0311,
+"pred": [
+"Cefixime\n10 mg",
+"Cefuroxime\n10 mg"
+]
+}
+]
+},
+{
+"i": 177,
+"split": "",
+"target_side": 0,
+"target": "Clomipramine 25 mg",
+"looks": [
+{
+"cam_dist": 0.6226,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.7331,
+"pred": [
+"Спортивные\n78 кг",
+"Chlorophyll\n28 mg"
+]
+},
+{
+"cam_dist": 0.467,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.4066,
+"pred": [
+"Clonipamine\n25mg",
+"Clamiphene\n28 mg"
+]
+},
+{
+"cam_dist": 0.3424,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.1496,
+"pred": [
+"Clomipramine\n25 mg",
+"Clomiphene\n25 mg"
+]
+},
+{
+"cam_dist": 0.2615,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.1024,
+"pred": [
+"Clomipramine\n25 mg",
+"Clomiphene\n25 mg"
+]
+}
+]
+},
+{
+"i": 178,
+"split": "",
+"target_side": 1,
+"target": "Trazodone 10 mg",
+"looks": [
+{
+"cam_dist": 0.5888,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.0481,
+"pred": [
+"Tianma304\n18mp",
+"Tibodane\nTibep"
+]
+},
+{
+"cam_dist": 0.4416,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.1937,
+"pred": [
+"Tiamedol\n10mg",
+"Trazodone\n10mg"
+]
+},
+{
+"cam_dist": 0.3238,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0737,
+"pred": [
+"Tramedol\n10 mg",
+"Trazodone\n10 mg"
+]
+},
+{
+"cam_dist": 0.2473,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0512,
+"pred": [
+"Tramadol\n10 mg",
+"Trazodone\n10 mg"
+]
+}
+]
+},
+{
+"i": 179,
+"split": "",
+"target_side": 0,
+"target": "Furosemide 20 mg",
+"looks": [
+{
+"cam_dist": 0.5843,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.6308,
+"pred": [
+"Furadene\n25mg",
+"Kuroshide\n380mg"
+]
+},
+{
+"cam_dist": 0.4382,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.1909,
+"pred": [
+"Furosemide\n20 mg",
+"Furosemide\n200 ng"
+]
+},
+{
+"cam_dist": 0.3214,
+"text_px": 5.8,
+"side": -1,
+"conf": -0.2758,
+"pred": [
+"Furcosemide\n20 mg",
+"Furosemide\n200 mg"
+]
+},
+{
+"cam_dist": 0.2454,
+"text_px": 7.6,
+"side": 0,
+"conf": -0.0294,
+"pred": [
+"Furosemide\n20 mg",
+"Furosemide\n200 mg"
+]
+}
+]
+},
+{
+"i": 180,
+"split": "",
+"target_side": 0,
+"target": "Lamivudine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6003,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.1108,
+"pred": [
+"Last Wednesday\n5:00",
+"L'Allegre\nN=19"
+]
+},
+{
+"cam_dist": 0.4502,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.4949,
+"pred": [
+"Larrivadina\n5 mg",
+"Lamotrigine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3302,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0426,
+"pred": [
+"Lamivudine\n5 mg",
+"Lamotrigine\n5 mg"
+]
+},
+{
+"cam_dist": 0.2521,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0414,
+"pred": [
+"Lamivudine\n5 mg",
+"Lamotrigine\n5 mg"
+]
+}
+]
+},
+{
+"i": 181,
+"split": "",
+"target_side": 1,
+"target": "Levofloxacin 10 mg",
+"looks": [
+{
+"cam_dist": 0.605,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.3367,
+"pred": [
+"Lubricant 1000",
+"landoxaan\nffrp"
+]
+},
+{
+"cam_dist": 0.4537,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.4063,
+"pred": [
+"Levetiracetam\n10mg",
+"Levothioxacin\n10mg"
+]
+},
+{
+"cam_dist": 0.3327,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0835,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+},
+{
+"cam_dist": 0.2541,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.0561,
+"pred": [
+"Levetiracetam\n10 mg",
+"Levofloxacin\n10 mg"
+]
+}
+]
+},
+{
+"i": 182,
+"split": "",
+"target_side": 1,
+"target": "Dobutamine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5707,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.7099,
+"pred": [
+"ОДНОКРАТНО\n250 мг",
+"200mg/100ml\n280mg"
+]
+},
+{
+"cam_dist": 0.428,
+"text_px": 4.4,
+"side": 1,
+"conf": -0.0999,
+"pred": [
+"Dopamine\n250 ng",
+"Dobutamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3139,
+"text_px": 6.0,
+"side": 1,
+"conf": -0.0384,
+"pred": [
+"Dopamine\n250 mg",
+"Dobutamine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2397,
+"text_px": 7.8,
+"side": 1,
+"conf": -0.0307,
+"pred": [
+"Dopamine\n250 mg",
+"Dobutamine\n250 mg"
+]
+}
+]
+},
+{
+"i": 183,
+"split": "",
+"target_side": 0,
+"target": "Amiloride 25 mg",
+"looks": [
+{
+"cam_dist": 0.5778,
+"text_px": 3.2,
+"side": 0,
+"conf": -0.8398,
+"pred": [
+"Anadara\n25mg",
+"Arachidism\n20mg"
+]
+},
+{
+"cam_dist": 0.4334,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.39,
+"pred": [
+"Amiloride\n25 mg",
+"Amiodipine\n20 mg"
+]
+},
+{
+"cam_dist": 0.3178,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1152,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+},
+{
+"cam_dist": 0.2427,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0717,
+"pred": [
+"Amiloride\n25 mg",
+"Amlodipine\n25 mg"
+]
+}
+]
+},
+{
+"i": 184,
+"split": "",
+"target_side": 0,
+"target": "Amlodipine 25 mg",
+"looks": [
+{
+"cam_dist": 0.5747,
+"text_px": 3.3,
+"side": 0,
+"conf": -0.555,
+"pred": [
+"Arachidae\n28mg",
+"Atorvastatin\n70 mg"
+]
+},
+{
+"cam_dist": 0.431,
+"text_px": 4.4,
+"side": 0,
+"conf": -0.2977,
+"pred": [
+"Ankodipine\n25 mg",
+"Amiloride\n28 mg"
+]
+},
+{
+"cam_dist": 0.3161,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0988,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n26 mg"
+]
+},
+{
+"cam_dist": 0.2414,
+"text_px": 7.8,
+"side": 0,
+"conf": -0.0565,
+"pred": [
+"Amlodipine\n25 mg",
+"Amiloride\n25 mg"
+]
+}
+]
+},
+{
+"i": 185,
+"split": "",
+"target_side": 1,
+"target": "Sulfasalazine 250 mg",
+"looks": [
+{
+"cam_dist": 0.5843,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.4759,
+"pred": [
+"З.АВИАЦИОН",
+"250 mg"
+]
+},
+{
+"cam_dist": 0.4382,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.3629,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sufesalane\n250 ng"
+]
+},
+{
+"cam_dist": 0.3214,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.1102,
+"pred": [
+"Sulfaciazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2454,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0313,
+"pred": [
+"Sulfadiazine\n250 mg",
+"Sulfasalazine\n250 mg"
+]
+}
+]
+},
+{
+"i": 186,
+"split": "",
+"target_side": 1,
+"target": "Propranolol 5 mg",
+"looks": [
+{
+"cam_dist": 0.6005,
+"text_px": 3.1,
+"side": 1,
+"conf": -0.9337,
+"pred": [
+"Pigalene\n5+g",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.4504,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.4139,
+"pred": [
+"Proparenone\n5 mg",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.3303,
+"text_px": 5.7,
+"side": 1,
+"conf": -0.1431,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+},
+{
+"cam_dist": 0.2522,
+"text_px": 7.4,
+"side": 1,
+"conf": -0.1073,
+"pred": [
+"Propafenone\n5 mg",
+"Propranolol\n5 mg"
+]
+}
+]
+},
+{
+"i": 187,
+"split": "",
+"target_side": 1,
+"target": "Paroxetine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6113,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.6196,
+"pred": [
+"П-Басков",
+"Paracetamol\n130mg"
+]
+},
+{
+"cam_dist": 0.4585,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.155,
+"pred": [
+"Fluoxetine\n100 mg",
+"Peroxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3362,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.1045,
+"pred": [
+"Fluoxetine\n100 mg",
+"Paroxetine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2567,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0945,
+"pred": [
+"Fluoxetine\n100 mg",
+"Paroxetine\n100 mg"
+]
+}
+]
+},
+{
+"i": 188,
+"split": "",
+"target_side": 1,
+"target": "Lamivudine 5 mg",
+"looks": [
+{
+"cam_dist": 0.6143,
+"text_px": 3.1,
+"side": 0,
+"conf": -1.2673,
+"pred": [
+"Lascigne\n5 mg",
+"Lastewine\nRing"
+]
+},
+{
+"cam_dist": 0.4607,
+"text_px": 4.1,
+"side": 1,
+"conf": -0.5936,
+"pred": [
+"Lamotrigine\n5 mg",
+"Laminudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.3379,
+"text_px": 5.6,
+"side": 1,
+"conf": -0.0634,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+},
+{
+"cam_dist": 0.258,
+"text_px": 7.3,
+"side": 1,
+"conf": -0.0526,
+"pred": [
+"Lamotrigine\n5 mg",
+"Lamivudine\n5 mg"
+]
+}
+]
+},
+{
+"i": 189,
+"split": "",
+"target_side": 1,
+"target": "Metformin 500 mg",
+"looks": [
+{
+"cam_dist": 0.5921,
+"text_px": 3.2,
+"side": 1,
+"conf": -1.3122,
+"pred": [
+"MHECarnot\nHEcog",
+"amiodarone\n100 mg"
+]
+},
+{
+"cam_dist": 0.4441,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.3238,
+"pred": [
+"Metocinin\n50 mg",
+"Metformin 500 mg"
+]
+},
+{
+"cam_dist": 0.3257,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.1407,
+"pred": [
+"Metiormin\n50 mg",
+"Metformin\n500 mg"
+]
+},
+{
+"cam_dist": 0.2487,
+"text_px": 7.5,
+"side": 1,
+"conf": -0.0414,
+"pred": [
+"Metformin\n50 mg",
+"Metformin\n500 mg"
+]
+}
+]
+},
+{
+"i": 190,
+"split": "",
+"target_side": 1,
+"target": "Losartan 500 mg",
+"looks": [
+{
+"cam_dist": 0.6232,
+"text_px": 3.0,
+"side": 1,
+"conf": -0.9801,
+"pred": [
+"TELEMETRY\nN/A-N/A",
+"(200mg)\n(100mg)"
+]
+},
+{
+"cam_dist": 0.4674,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.3783,
+"pred": [
+"Valium\n500 mg",
+"LOGARITHM\n500 mg"
+]
+},
+{
+"cam_dist": 0.3428,
+"text_px": 5.5,
+"side": 1,
+"conf": -0.0401,
+"pred": [
+"Valsartan\n500 mg",
+"Losartan\n500 mg"
+]
+},
+{
+"cam_dist": 0.2617,
+"text_px": 7.2,
+"side": 1,
+"conf": -0.0302,
+"pred": [
+"Valsartan\n500 mg",
+"Losartan\n500 mg"
+]
+}
+]
+},
+{
+"i": 191,
+"split": "",
+"target_side": 0,
+"target": "Furosemide 200 mg",
+"looks": [
+{
+"cam_dist": 0.6163,
+"text_px": 3.0,
+"side": 0,
+"conf": -1.1393,
+"pred": [
+"Furosemide\n250 mg",
+"Fujikawa\n2kg"
+]
+},
+{
+"cam_dist": 0.4622,
+"text_px": 4.1,
+"side": 0,
+"conf": -0.2588,
+"pred": [
+"Furosemide\n200 mg",
+"Furosemide\n20mg"
+]
+},
+{
+"cam_dist": 0.339,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.2413,
+"pred": [
+"Furosemide\n200 mg",
+"Furcsemide\n20 mg"
+]
+},
+{
+"cam_dist": 0.2588,
+"text_px": 7.2,
+"side": -1,
+"conf": -0.0366,
+"pred": [
+"Furcsemide\n200 mg",
+"Furosemide\n20 mg"
+]
+}
+]
+},
+{
+"i": 192,
+"split": "",
+"target_side": 0,
+"target": "Guaifenesin 250 mg",
+"looks": [
+{
+"cam_dist": 0.5766,
+"text_px": 3.3,
+"side": 1,
+"conf": -0.7223,
+"pred": [
+"gladurabell\n380 mg",
+"QUANTACINE\n350 mg"
+]
+},
+{
+"cam_dist": 0.4325,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.4066,
+"pred": [
+"Quatfenasin\n250 ng",
+"Quarfacine\n250 ng"
+]
+},
+{
+"cam_dist": 0.3171,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1023,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2422,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.1007,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+}
+]
+},
+{
+"i": 193,
+"split": "",
+"target_side": 0,
+"target": "Vincristine 100 mg",
+"looks": [
+{
+"cam_dist": 0.6224,
+"text_px": 3.0,
+"side": 0,
+"conf": -0.8775,
+"pred": [
+"VITAMIN B6\n100 mg",
+"wiedzie\n130 mg"
+]
+},
+{
+"cam_dist": 0.4668,
+"text_px": 4.0,
+"side": 0,
+"conf": -0.3538,
+"pred": [
+"Vincristine\n150 mg",
+"Uribastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.3423,
+"text_px": 5.5,
+"side": 0,
+"conf": -0.0575,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+},
+{
+"cam_dist": 0.2614,
+"text_px": 7.2,
+"side": 0,
+"conf": -0.0826,
+"pred": [
+"Vincristine\n100 mg",
+"Vinblastine\n100 mg"
+]
+}
+]
+},
+{
+"i": 194,
+"split": "",
+"target_side": 1,
+"target": "Prednisolone 100 mg",
+"looks": [
+{
+"cam_dist": 0.5844,
+"text_px": 3.2,
+"side": 1,
+"conf": -0.4538,
+"pred": [
+"Prednisone\n130 mg",
+"Prednisolone\n130 mg"
+]
+},
+{
+"cam_dist": 0.4383,
+"text_px": 4.3,
+"side": 1,
+"conf": -0.0694,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.3214,
+"text_px": 5.8,
+"side": 1,
+"conf": -0.0264,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2454,
+"text_px": 7.6,
+"side": 1,
+"conf": -0.0216,
+"pred": [
+"Prednisone\n100 mg",
+"Prednisolone\n100 mg"
+]
+}
+]
+},
+{
+"i": 195,
+"split": "",
+"target_side": 0,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.5779,
+"text_px": 3.2,
+"side": 0,
+"conf": -2.1174,
+"pred": [
+"caravan\nMing",
+"Dishwasher\nWashing"
+]
+},
+{
+"cam_dist": 0.4334,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.2667,
+"pred": [
+"Daunorubicin\n60 mg",
+"Doxorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.3178,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.1136,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n60 mg"
+]
+},
+{
+"cam_dist": 0.2427,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.0727,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 196,
+"split": "",
+"target_side": 0,
+"target": "Daunorubicin 50 mg",
+"looks": [
+{
+"cam_dist": 0.6288,
+"text_px": 3.0,
+"side": 0,
+"conf": -0.6644,
+"pred": [
+"Generation\nAlling",
+"10000000000000000000000000000000"
+]
+},
+{
+"cam_dist": 0.4716,
+"text_px": 4.0,
+"side": 1,
+"conf": -0.6257,
+"pred": [
+"Ostaurubicin\n60mg",
+"Doxorubicin\n60mg"
+]
+},
+{
+"cam_dist": 0.3458,
+"text_px": 5.4,
+"side": 0,
+"conf": -0.1485,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n50 mg"
+]
+},
+{
+"cam_dist": 0.2641,
+"text_px": 7.1,
+"side": 0,
+"conf": -0.059,
+"pred": [
+"Daunorubicin\n50 mg",
+"Doxorubicin\n50 mg"
+]
+}
+]
+},
+{
+"i": 197,
+"split": "",
+"target_side": 0,
+"target": "Prednisone 10 mg",
+"looks": [
+{
+"cam_dist": 0.6018,
+"text_px": 3.1,
+"side": 1,
+"conf": -1.4355,
+"pred": [
+"Przedstawie",
+"Predicatib\n1.87 mg/d"
+]
+},
+{
+"cam_dist": 0.4514,
+"text_px": 4.2,
+"side": 1,
+"conf": -0.1351,
+"pred": [
+"Prednisone\n10mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.331,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.0477,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+},
+{
+"cam_dist": 0.2528,
+"text_px": 7.4,
+"side": 0,
+"conf": -0.0279,
+"pred": [
+"Prednisone\n10 mg",
+"Prednisone\n100 mg"
+]
+}
+]
+},
+{
+"i": 198,
+"split": "",
+"target_side": 0,
+"target": "Guaifenesin 250 mg",
+"looks": [
+{
+"cam_dist": 0.5991,
+"text_px": 3.1,
+"side": 0,
+"conf": -0.849,
+"pred": [
+"quadruped\n370 mg",
+"Quartec800\n380mg"
+]
+},
+{
+"cam_dist": 0.4493,
+"text_px": 4.2,
+"side": 0,
+"conf": -0.4963,
+"pred": [
+"Guafenesin\n250 mg",
+"Quantecine\n250 mg"
+]
+},
+{
+"cam_dist": 0.3295,
+"text_px": 5.7,
+"side": 0,
+"conf": -0.2725,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfecine\n250 mg"
+]
+},
+{
+"cam_dist": 0.2516,
+"text_px": 7.5,
+"side": 0,
+"conf": -0.0838,
+"pred": [
+"Guaifenesin\n250 mg",
+"Guanfacine\n250 mg"
+]
+}
+]
+},
+{
+"i": 199,
+"split": "",
+"target_side": 0,
+"target": "Captopril 50 mg",
+"looks": [
+{
+"cam_dist": 0.5792,
+"text_px": 3.2,
+"side": -1,
+"conf": -1.2798,
+"pred": [
+"Chapelle\nRENG",
+"Chivalry\nRE:ng"
+]
+},
+{
+"cam_dist": 0.4344,
+"text_px": 4.3,
+"side": 0,
+"conf": -0.6171,
+"pred": [
+"Capisopril\n50mg",
+"Carvedilol\n60 mg"
+]
+},
+{
+"cam_dist": 0.3186,
+"text_px": 5.9,
+"side": 0,
+"conf": -0.0798,
+"pred": [
+"Captopril\n50 mg",
+"Carvedilol\n50 mg"
+]
+},
+{
+"cam_dist": 0.2433,
+"text_px": 7.7,
+"side": 0,
+"conf": -0.09,
+"pred": [
+"Captopril\n50 mg",
+"Carvedilol\n50 mg"
+]
+}
+]
+}
+]
+}
