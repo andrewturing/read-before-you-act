@@ -37,6 +37,7 @@ def main():
     ap.add_argument("--mode", choices=["text", "pointer"], required=True)
     ap.add_argument("--pointer", default="oracle")
     ap.add_argument("--replan", type=int, default=10, help="actions executed before the policy looks again")
+    ap.add_argument("--crops", action="store_true", help="also give the policy a close-up of each label")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--out", required=True)
     ap.add_argument("--name", default="")
@@ -78,6 +79,8 @@ def main():
                 from PIL import Image
                 Image.fromarray(image).save(os.path.join(args.save_frames, f"{args.name or args.mode}_{i}.png"))
             obs = {"observation.images.camera1": image, "observation.state": env.pos()}
+            if args.crops:
+                obs["observation.images.camera2"], obs["observation.images.camera3"] = env.label_views(frame)
             action = predict_action(obs, policy, device, pre, post, use_amp=False, task=task,
                                     robot_type="kinematic_gripper")
             env.step(np.asarray(action.detach().cpu(), dtype=np.float64).reshape(-1)[:3])
@@ -101,7 +104,7 @@ def main():
         lo, hi = wilson(counts["correct"], n)
         summary[split] = dict(n=n, **counts, correct_rate=round(counts["correct"] / n, 4), low=round(lo, 4), high=round(hi, 4),
                               wrong_among_reached=round(counts["wrong"] / acted, 4) if acted else None)
-    out = dict(name=args.name, policy=args.policy, mode=args.mode, pointer=args.pointer, specs=args.specs,
+    out = dict(name=args.name, policy=args.policy, mode=args.mode, pointer=args.pointer, specs=args.specs, crops=args.crops,
                replan=args.replan, seconds=round(time.time() - t0), summary=summary, episodes=rows)
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     json.dump(out, open(args.out, "w"), indent=1)

@@ -24,12 +24,33 @@ SmolVLA fine-tuned from `lerobot/smolvla_base` on 600 scripted demonstrations pe
 
 Brackets are 95% Wilson intervals. Everything is in `results/`: per-episode outcomes in `results/eval`, the reader's transcriptions in `results/reads_*.json`, the threshold search in `results/decisions_*/report.json`, and training logs in `results/logs`.
 
+## Cannot see, or does not learn?
+
+The runs above cannot tell whether the policy fails because the text is too small in its input or because it does not learn to use it. So we gave it, besides the usual camera view, a close-up of each label as two extra camera inputs, with the text about 33 pixels tall instead of 4. Everything else is unchanged: 6 mm print, camera at 0.60 m, 6,000 steps, 200 test episodes.
+
+![What the policy sees: the camera view and the two label close-ups](results/inputs/preview_text_crops.png)
+
+| Names on the two cartons | Close-ups | Demonstrations | Correct | Seen pairs | Held-out pairs |
+|---|---|---|---|---|---|
+| Look-alike | no | 600 | 54.5% [48–61] | 56% | 53% |
+| Look-alike | yes | 600 | 60% [53–67] | 66% | 54% |
+| Look-alike | yes | 1,500 | 52.5% [46–59] | 53% | 52% |
+| Look-alike, backbone also trained | yes | 600 | 52.5% [46–59] | 52% | 53% |
+| Clearly different | no | 600 | 60.5% [54–67] | 67% | 54% |
+| Clearly different | yes | 600 | **84% [78–88]** | **97%** | **71%** |
+
+- **Seeing the text is necessary.** With clearly different names (for example Tramadol and Daunorubicin), the close-ups take the policy from 60.5% to 84%, and to 97% on names it trained on.
+- **It is not sufficient.** With look-alike names (for example Prednisone and Prednisolone) the same, perfectly legible close-ups leave the policy at chance on pairs it has not seen. 2.5 times the demonstrations does not help, and neither does training the vision-language backbone.
+- **So the policy learns to use text, but not to read closely.** Imitation from up to 1,500 demonstrations does not teach it the one- or two-letter differences that matter. That is the case for a separate reader.
+
+The backbone-trained run used batch 12 (batch 16 runs out of memory with three cameras on a 24 GB L4), so it saw 72K samples instead of 192K. At a matched 64K samples the frozen-backbone run is also at chance (49.5%, `results/eval/text_crops_step2000.json`). Clearly different names pair the first line of two unrelated look-alike pairs, so their test set is separate (`results/inputs/test_specs_far_distinct.json`). The run script is `run_see_vs_learn.sh`.
+
 ## What this does not show
 
-- One policy, 600 demonstrations per condition, 6,000 training steps.
+- One policy, at most 1,500 demonstrations per condition, 6,000 training steps.
 - A kinematic end-effector with no contact or grasping.
-- Label locations are given to the reader.
-- These runs cannot separate "the policy cannot see the text" from "it does not learn to use it". A higher-resolution policy and more data would.
+- Label locations are given to the reader, and to the policy's close-ups.
+- Whether an auxiliary objective (for example, asking the policy to transcribe the target label) or ten times the data would teach a policy look-alikes.
 - Simulation only.
 
 ## Run it
@@ -78,6 +99,12 @@ bash run_eval.sh
 
 `run_all.sh` generates the demonstrations, applies `patch_lerobot_image_query.py` (a speed fix for LeRobot 0.4.4 when frames are stored as images; it returns the same values) and trains the four policies on four GPUs. `run_eval.sh` expects the reader's decision files in `results/decisions_small` and `results/decisions_small_a10` (the second from `decide --alpha 0.10`).
 
+The see-or-learn runs are separate and also need four GPUs, about five hours on L4s:
+
+```bash
+bash run_see_vs_learn.sh 6000
+```
+
 ## Files
 
 | File | Purpose |
@@ -87,5 +114,6 @@ bash run_eval.sh
 | `run_all.sh` | Data generation and the four training runs |
 | `reader_decide.py` | The reader's looks at each distance, and the calibrated stop-when-confident rule |
 | `eval_policy.py` | Closed-loop evaluation of a trained policy |
-| `run_eval.sh` | All evaluations in the table above |
+| `run_eval.sh` | All evaluations in the first table |
+| `run_see_vs_learn.sh` | The see-or-learn runs: label close-ups, distinct names, more data, trained backbone |
 | `patch_lerobot_image_query.py` | Data-loading speed fix for LeRobot 0.4.4 |

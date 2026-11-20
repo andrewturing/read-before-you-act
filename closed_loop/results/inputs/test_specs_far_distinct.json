@@ -1,0 +1,4802 @@
+[
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6113,
+"yaws": [
+9.9,
+5.74
+],
+"light": [
+0.247,
+-0.831,
+1.271
+],
+"shade": 0.021,
+"start": [
+-0.0007,
+-0.1147,
+0.2233
+],
+"split": "seen"
+},
+{
+"pair": 0,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6277,
+"yaws": [
+4.59,
+2.57
+],
+"light": [
+-0.33,
+-0.603,
+1.689
+],
+"shade": 0.01,
+"start": [
+0.0104,
+-0.1109,
+0.2263
+],
+"split": "seen"
+},
+{
+"pair": 32,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5921,
+"yaws": [
+1.93,
+10.7
+],
+"light": [
+0.189,
+-0.82,
+1.201
+],
+"shade": -0.026,
+"start": [
+-0.0171,
+-0.0805,
+0.2355
+],
+"split": "seen"
+},
+{
+"pair": 37,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6125,
+"yaws": [
+-4.88,
+-0.44
+],
+"light": [
+-0.567,
+-0.864,
+1.202
+],
+"shade": -0.048,
+"start": [
+0.0252,
+-0.1161,
+0.2325
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5991,
+"yaws": [
+11.9,
+11.68
+],
+"light": [
+0.101,
+-0.583,
+1.567
+],
+"shade": -0.025,
+"start": [
+0.003,
+-0.0961,
+0.2158
+],
+"split": "seen"
+},
+{
+"pair": 34,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.615,
+"yaws": [
+-10.45,
+-1.32
+],
+"light": [
+-0.729,
+-0.683,
+1.698
+],
+"shade": 0.005,
+"start": [
+0.0039,
+-0.0951,
+0.2092
+],
+"split": "seen"
+},
+{
+"pair": 16,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6088,
+"yaws": [
+-2.88,
+-0.54
+],
+"light": [
+-0.271,
+-0.757,
+1.541
+],
+"shade": -0.021,
+"start": [
+0.0111,
+-0.086,
+0.2215
+],
+"split": "seen"
+},
+{
+"pair": 18,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6252,
+"yaws": [
+-7.63,
+-3.28
+],
+"light": [
+0.507,
+-1.174,
+1.492
+],
+"shade": 0.045,
+"start": [
+0.0266,
+-0.0927,
+0.2138
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6073,
+"yaws": [
+-2.78,
+5.62
+],
+"light": [
+-0.143,
+-0.54,
+1.617
+],
+"shade": 0.037,
+"start": [
+0.0058,
+-0.0833,
+0.2216
+],
+"split": "seen"
+},
+{
+"pair": 17,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6013,
+"yaws": [
+-2.41,
+2.26
+],
+"light": [
+-0.275,
+-0.564,
+1.336
+],
+"shade": -0.044,
+"start": [
+0.0165,
+-0.0842,
+0.2272
+],
+"split": "seen"
+},
+{
+"pair": 22,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5993,
+"yaws": [
+-11.54,
+-4.0
+],
+"light": [
+-0.413,
+-0.831,
+1.542
+],
+"shade": 0.043,
+"start": [
+-0.0144,
+-0.1195,
+0.24
+],
+"split": "seen"
+},
+{
+"pair": 33,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5782,
+"yaws": [
+-8.52,
+-3.58
+],
+"light": [
+0.482,
+-1.161,
+1.705
+],
+"shade": 0.007,
+"start": [
+0.0116,
+-0.1099,
+0.2395
+],
+"split": "seen"
+},
+{
+"pair": 2,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6048,
+"yaws": [
+-0.56,
+-7.34
+],
+"light": [
+0.267,
+-0.677,
+1.412
+],
+"shade": 0.027,
+"start": [
+0.0288,
+-0.0823,
+0.2043
+],
+"split": "seen"
+},
+{
+"pair": 12,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6258,
+"yaws": [
+-0.94,
+6.37
+],
+"light": [
+-0.716,
+-0.977,
+1.018
+],
+"shade": 0.035,
+"start": [
+0.0013,
+-0.0819,
+0.2243
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6098,
+"yaws": [
+-4.11,
+-9.0
+],
+"light": [
+-0.693,
+-0.424,
+1.611
+],
+"shade": 0.039,
+"start": [
+0.0255,
+-0.1141,
+0.2351
+],
+"split": "seen"
+},
+{
+"pair": 37,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5759,
+"yaws": [
+-2.41,
+-9.36
+],
+"light": [
+0.272,
+-0.962,
+1.772
+],
+"shade": -0.002,
+"start": [
+0.0097,
+-0.099,
+0.2328
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6121,
+"yaws": [
+-0.23,
+-8.14
+],
+"light": [
+-0.776,
+-0.985,
+1.714
+],
+"shade": 0.034,
+"start": [
+0.0251,
+-0.0944,
+0.2141
+],
+"split": "seen"
+},
+{
+"pair": 17,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5912,
+"yaws": [
+5.29,
+4.57
+],
+"light": [
+0.081,
+-0.416,
+1.539
+],
+"shade": 0.041,
+"start": [
+0.0299,
+-0.1123,
+0.2114
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6226,
+"yaws": [
+5.41,
+7.64
+],
+"light": [
+-0.369,
+-0.666,
+1.158
+],
+"shade": -0.024,
+"start": [
+0.0274,
+-0.1115,
+0.2117
+],
+"split": "seen"
+},
+{
+"pair": 8,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.625,
+"yaws": [
+6.65,
+-4.81
+],
+"light": [
+-0.422,
+-0.77,
+1.357
+],
+"shade": 0.035,
+"start": [
+0.0091,
+-0.0903,
+0.2241
+],
+"split": "seen"
+},
+{
+"pair": 10,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.584,
+"yaws": [
+-9.17,
+-1.25
+],
+"light": [
+0.15,
+-0.618,
+1.379
+],
+"shade": 0.005,
+"start": [
+-0.0247,
+-0.1181,
+0.2049
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5786,
+"yaws": [
+-3.88,
+-3.92
+],
+"light": [
+0.519,
+-0.452,
+1.795
+],
+"shade": 0.028,
+"start": [
+-0.0293,
+-0.1105,
+0.24
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6215,
+"yaws": [
+-9.51,
+4.97
+],
+"light": [
+-0.123,
+-0.703,
+1.481
+],
+"shade": 0.015,
+"start": [
+0.0213,
+-0.1179,
+0.2151
+],
+"split": "seen"
+},
+{
+"pair": 26,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.596,
+"yaws": [
+-3.14,
+3.13
+],
+"light": [
+-0.155,
+-0.559,
+1.22
+],
+"shade": 0.027,
+"start": [
+-0.0297,
+-0.1141,
+0.2319
+],
+"split": "seen"
+},
+{
+"pair": 36,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6278,
+"yaws": [
+4.61,
+-11.58
+],
+"light": [
+0.468,
+-0.652,
+1.399
+],
+"shade": -0.057,
+"start": [
+0.002,
+-0.1181,
+0.2294
+],
+"split": "seen"
+},
+{
+"pair": 24,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5713,
+"yaws": [
+-3.96,
+0.44
+],
+"light": [
+-0.372,
+-0.522,
+1.304
+],
+"shade": -0.001,
+"start": [
+0.0276,
+-0.099,
+0.2238
+],
+"split": "seen"
+},
+{
+"pair": 2,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6181,
+"yaws": [
+-6.39,
+9.42
+],
+"light": [
+-0.739,
+-0.643,
+1.506
+],
+"shade": 0.044,
+"start": [
+0.0245,
+-0.0907,
+0.2337
+],
+"split": "seen"
+},
+{
+"pair": 18,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6108,
+"yaws": [
+10.98,
+-1.61
+],
+"light": [
+-0.725,
+-0.5,
+1.536
+],
+"shade": -0.022,
+"start": [
+0.0049,
+-0.0837,
+0.236
+],
+"split": "seen"
+},
+{
+"pair": 9,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6064,
+"yaws": [
+2.59,
+10.01
+],
+"light": [
+-0.188,
+-0.496,
+1.664
+],
+"shade": 0.026,
+"start": [
+-0.0238,
+-0.0923,
+0.2364
+],
+"split": "seen"
+},
+{
+"pair": 14,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6193,
+"yaws": [
+2.84,
+-2.97
+],
+"light": [
+0.709,
+-0.464,
+1.652
+],
+"shade": 0.015,
+"start": [
+0.0123,
+-0.0861,
+0.2376
+],
+"split": "seen"
+},
+{
+"pair": 6,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6057,
+"yaws": [
+-2.76,
+8.35
+],
+"light": [
+-0.06,
+-0.494,
+1.035
+],
+"shade": -0.029,
+"start": [
+-0.0192,
+-0.081,
+0.2025
+],
+"split": "seen"
+},
+{
+"pair": 0,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6048,
+"yaws": [
+-3.08,
+3.25
+],
+"light": [
+-0.564,
+-0.454,
+1.202
+],
+"shade": -0.045,
+"start": [
+-0.0076,
+-0.1074,
+0.2126
+],
+"split": "seen"
+},
+{
+"pair": 1,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5826,
+"yaws": [
+11.13,
+10.69
+],
+"light": [
+-0.08,
+-1.078,
+1.529
+],
+"shade": 0.023,
+"start": [
+-0.0227,
+-0.0983,
+0.2327
+],
+"split": "seen"
+},
+{
+"pair": 10,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5962,
+"yaws": [
+8.52,
+-3.58
+],
+"light": [
+-0.065,
+-0.568,
+1.346
+],
+"shade": -0.036,
+"start": [
+0.0201,
+-0.0892,
+0.2295
+],
+"split": "seen"
+},
+{
+"pair": 17,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6208,
+"yaws": [
+3.43,
+-2.39
+],
+"light": [
+0.503,
+-1.061,
+1.712
+],
+"shade": 0.043,
+"start": [
+-0.0015,
+-0.1155,
+0.2179
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6024,
+"yaws": [
+-3.31,
+3.12
+],
+"light": [
+-0.123,
+-1.14,
+1.113
+],
+"shade": 0.045,
+"start": [
+-0.0083,
+-0.1172,
+0.234
+],
+"split": "seen"
+},
+{
+"pair": 21,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5998,
+"yaws": [
+3.24,
+-6.68
+],
+"light": [
+-0.608,
+-0.538,
+1.599
+],
+"shade": 0.02,
+"start": [
+0.0086,
+-0.1038,
+0.2211
+],
+"split": "seen"
+},
+{
+"pair": 24,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6159,
+"yaws": [
+-4.12,
+6.2
+],
+"light": [
+0.299,
+-0.788,
+1.384
+],
+"shade": -0.044,
+"start": [
+0.0002,
+-0.1131,
+0.2322
+],
+"split": "seen"
+},
+{
+"pair": 6,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6101,
+"yaws": [
+0.43,
+-5.43
+],
+"light": [
+0.492,
+-1.025,
+1.52
+],
+"shade": 0.027,
+"start": [
+-0.0213,
+-0.0849,
+0.2042
+],
+"split": "seen"
+},
+{
+"pair": 12,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6074,
+"yaws": [
+1.73,
+-6.54
+],
+"light": [
+0.454,
+-1.057,
+1.091
+],
+"shade": -0.057,
+"start": [
+0.0097,
+-0.1179,
+0.2246
+],
+"split": "seen"
+},
+{
+"pair": 28,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6135,
+"yaws": [
+2.14,
+0.68
+],
+"light": [
+0.562,
+-0.677,
+1.403
+],
+"shade": 0.047,
+"start": [
+-0.0152,
+-0.1157,
+0.2203
+],
+"split": "seen"
+},
+{
+"pair": 10,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6074,
+"yaws": [
+-11.45,
+-9.79
+],
+"light": [
+-0.364,
+-1.159,
+1.603
+],
+"shade": 0.057,
+"start": [
+0.0009,
+-0.1067,
+0.217
+],
+"split": "seen"
+},
+{
+"pair": 37,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6286,
+"yaws": [
+-4.13,
+4.48
+],
+"light": [
+0.498,
+-0.745,
+1.581
+],
+"shade": 0.009,
+"start": [
+0.0025,
+-0.0812,
+0.2328
+],
+"split": "seen"
+},
+{
+"pair": 30,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5972,
+"yaws": [
+-8.23,
+-2.79
+],
+"light": [
+-0.441,
+-0.911,
+1.056
+],
+"shade": 0.056,
+"start": [
+-0.0049,
+-0.1163,
+0.2051
+],
+"split": "seen"
+},
+{
+"pair": 18,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6103,
+"yaws": [
+-4.64,
+3.37
+],
+"light": [
+-0.256,
+-0.889,
+1.706
+],
+"shade": -0.005,
+"start": [
+0.0248,
+-0.093,
+0.2299
+],
+"split": "seen"
+},
+{
+"pair": 30,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5722,
+"yaws": [
+-6.06,
+7.32
+],
+"light": [
+0.551,
+-1.183,
+1.626
+],
+"shade": -0.006,
+"start": [
+-0.0173,
+-0.0833,
+0.2231
+],
+"split": "seen"
+},
+{
+"pair": 9,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5984,
+"yaws": [
+-4.8,
+-6.72
+],
+"light": [
+0.416,
+-0.8,
+1.022
+],
+"shade": 0.023,
+"start": [
+0.0137,
+-0.0884,
+0.219
+],
+"split": "seen"
+},
+{
+"pair": 28,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5749,
+"yaws": [
+-11.96,
+-9.56
+],
+"light": [
+-0.022,
+-1.169,
+1.78
+],
+"shade": 0.018,
+"start": [
+-0.0095,
+-0.1042,
+0.2182
+],
+"split": "seen"
+},
+{
+"pair": 2,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5873,
+"yaws": [
+-10.98,
+-4.28
+],
+"light": [
+0.691,
+-1.136,
+1.73
+],
+"shade": 0.027,
+"start": [
+0.0279,
+-0.0807,
+0.2071
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5954,
+"yaws": [
+-0.08,
+7.35
+],
+"light": [
+-0.766,
+-0.63,
+1.545
+],
+"shade": 0.019,
+"start": [
+0.0115,
+-0.0973,
+0.2333
+],
+"split": "seen"
+},
+{
+"pair": 25,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.597,
+"yaws": [
+4.87,
+8.8
+],
+"light": [
+0.394,
+-0.681,
+1.163
+],
+"shade": -0.012,
+"start": [
+0.0243,
+-0.0814,
+0.2324
+],
+"split": "seen"
+},
+{
+"pair": 32,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6232,
+"yaws": [
+1.02,
+-2.23
+],
+"light": [
+0.0,
+-0.975,
+1.222
+],
+"shade": 0.005,
+"start": [
+-0.0101,
+-0.0834,
+0.2198
+],
+"split": "seen"
+},
+{
+"pair": 2,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6026,
+"yaws": [
+-0.42,
+-10.38
+],
+"light": [
+0.09,
+-0.816,
+1.661
+],
+"shade": 0.049,
+"start": [
+-0.0221,
+-0.0837,
+0.2158
+],
+"split": "seen"
+},
+{
+"pair": 0,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5722,
+"yaws": [
+11.23,
+8.67
+],
+"light": [
+-0.675,
+-0.874,
+1.092
+],
+"shade": -0.053,
+"start": [
+-0.0278,
+-0.1148,
+0.2214
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5837,
+"yaws": [
+-10.47,
+5.1
+],
+"light": [
+-0.747,
+-1.183,
+1.522
+],
+"shade": -0.0,
+"start": [
+0.0296,
+-0.1145,
+0.2213
+],
+"split": "seen"
+},
+{
+"pair": 8,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6131,
+"yaws": [
+-5.84,
+-3.06
+],
+"light": [
+0.594,
+-0.553,
+1.503
+],
+"shade": -0.021,
+"start": [
+0.0236,
+-0.1102,
+0.206
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6271,
+"yaws": [
+2.8,
+3.14
+],
+"light": [
+-0.796,
+-0.926,
+1.618
+],
+"shade": -0.042,
+"start": [
+-0.0289,
+-0.1084,
+0.2056
+],
+"split": "seen"
+},
+{
+"pair": 24,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6193,
+"yaws": [
+6.75,
+-2.96
+],
+"light": [
+0.665,
+-0.503,
+1.751
+],
+"shade": 0.055,
+"start": [
+0.0237,
+-0.0824,
+0.2184
+],
+"split": "seen"
+},
+{
+"pair": 34,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6096,
+"yaws": [
+-11.58,
+11.87
+],
+"light": [
+0.289,
+-1.16,
+1.771
+],
+"shade": 0.016,
+"start": [
+-0.006,
+-0.1002,
+0.2385
+],
+"split": "seen"
+},
+{
+"pair": 38,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5745,
+"yaws": [
+3.6,
+1.66
+],
+"light": [
+0.325,
+-0.653,
+1.046
+],
+"shade": -0.049,
+"start": [
+0.0186,
+-0.0977,
+0.2281
+],
+"split": "seen"
+},
+{
+"pair": 37,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6161,
+"yaws": [
+4.03,
+-8.26
+],
+"light": [
+0.056,
+-1.162,
+1.7
+],
+"shade": 0.029,
+"start": [
+-0.0119,
+-0.1069,
+0.2132
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6253,
+"yaws": [
+-4.34,
+-7.93
+],
+"light": [
+-0.667,
+-1.016,
+1.685
+],
+"shade": -0.018,
+"start": [
+0.0247,
+-0.088,
+0.2244
+],
+"split": "seen"
+},
+{
+"pair": 36,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5974,
+"yaws": [
+6.1,
+2.03
+],
+"light": [
+-0.105,
+-0.805,
+1.366
+],
+"shade": 0.001,
+"start": [
+-0.0088,
+-0.0986,
+0.2042
+],
+"split": "seen"
+},
+{
+"pair": 21,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6289,
+"yaws": [
+-11.41,
+4.51
+],
+"light": [
+-0.488,
+-0.742,
+1.735
+],
+"shade": 0.052,
+"start": [
+0.0274,
+-0.0967,
+0.2062
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5906,
+"yaws": [
+6.91,
+-3.21
+],
+"light": [
+0.291,
+-0.931,
+1.487
+],
+"shade": 0.018,
+"start": [
+-0.0005,
+-0.1087,
+0.2035
+],
+"split": "seen"
+},
+{
+"pair": 6,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5738,
+"yaws": [
+4.85,
+-10.03
+],
+"light": [
+-0.567,
+-0.494,
+1.335
+],
+"shade": -0.011,
+"start": [
+0.0087,
+-0.1005,
+0.2129
+],
+"split": "seen"
+},
+{
+"pair": 20,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6139,
+"yaws": [
+3.16,
+8.26
+],
+"light": [
+0.486,
+-0.726,
+1.381
+],
+"shade": -0.012,
+"start": [
+-0.0235,
+-0.1032,
+0.2153
+],
+"split": "seen"
+},
+{
+"pair": 12,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6137,
+"yaws": [
+-3.34,
+8.83
+],
+"light": [
+0.221,
+-0.781,
+1.32
+],
+"shade": -0.01,
+"start": [
+0.0085,
+-0.098,
+0.223
+],
+"split": "seen"
+},
+{
+"pair": 32,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6072,
+"yaws": [
+-8.09,
+7.33
+],
+"light": [
+-0.186,
+-0.902,
+1.644
+],
+"shade": -0.041,
+"start": [
+-0.0011,
+-0.1149,
+0.2147
+],
+"split": "seen"
+},
+{
+"pair": 14,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6153,
+"yaws": [
+-6.97,
+-8.64
+],
+"light": [
+-0.532,
+-0.846,
+1.527
+],
+"shade": 0.049,
+"start": [
+-0.0007,
+-0.1139,
+0.2032
+],
+"split": "seen"
+},
+{
+"pair": 24,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6084,
+"yaws": [
+-7.78,
+3.32
+],
+"light": [
+0.023,
+-1.178,
+1.666
+],
+"shade": 0.025,
+"start": [
+-0.0171,
+-0.0802,
+0.2025
+],
+"split": "seen"
+},
+{
+"pair": 8,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6085,
+"yaws": [
+-8.29,
+1.53
+],
+"light": [
+0.024,
+-0.659,
+1.218
+],
+"shade": -0.042,
+"start": [
+-0.0181,
+-0.0946,
+0.2352
+],
+"split": "seen"
+},
+{
+"pair": 22,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6127,
+"yaws": [
+7.46,
+8.41
+],
+"light": [
+0.61,
+-1.079,
+1.462
+],
+"shade": 0.033,
+"start": [
+0.0049,
+-0.1162,
+0.217
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5886,
+"yaws": [
+1.35,
+-7.66
+],
+"light": [
+0.011,
+-1.18,
+1.222
+],
+"shade": 0.043,
+"start": [
+0.0008,
+-0.0946,
+0.2112
+],
+"split": "seen"
+},
+{
+"pair": 5,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6219,
+"yaws": [
+-7.44,
+0.16
+],
+"light": [
+-0.428,
+-0.966,
+1.574
+],
+"shade": -0.041,
+"start": [
+-0.0194,
+-0.0898,
+0.2227
+],
+"split": "seen"
+},
+{
+"pair": 26,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5872,
+"yaws": [
+-10.29,
+-0.41
+],
+"light": [
+-0.763,
+-0.461,
+1.408
+],
+"shade": 0.039,
+"start": [
+0.0216,
+-0.0832,
+0.2121
+],
+"split": "seen"
+},
+{
+"pair": 26,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6026,
+"yaws": [
+-10.33,
+7.22
+],
+"light": [
+-0.738,
+-0.861,
+1.234
+],
+"shade": -0.008,
+"start": [
+0.0233,
+-0.0817,
+0.2357
+],
+"split": "seen"
+},
+{
+"pair": 34,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.605,
+"yaws": [
+-5.82,
+1.42
+],
+"light": [
+-0.166,
+-0.963,
+1.509
+],
+"shade": 0.002,
+"start": [
+0.0053,
+-0.0936,
+0.2209
+],
+"split": "seen"
+},
+{
+"pair": 14,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6129,
+"yaws": [
+-5.67,
+5.48
+],
+"light": [
+-0.373,
+-0.605,
+1.514
+],
+"shade": 0.044,
+"start": [
+-0.021,
+-0.0949,
+0.2293
+],
+"split": "seen"
+},
+{
+"pair": 9,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5891,
+"yaws": [
+5.0,
+8.98
+],
+"light": [
+0.503,
+-0.52,
+1.379
+],
+"shade": 0.025,
+"start": [
+0.0101,
+-0.1071,
+0.2099
+],
+"split": "seen"
+},
+{
+"pair": 6,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6166,
+"yaws": [
+8.08,
+-3.34
+],
+"light": [
+0.013,
+-0.541,
+1.595
+],
+"shade": -0.043,
+"start": [
+0.0009,
+-0.1045,
+0.2247
+],
+"split": "seen"
+},
+{
+"pair": 10,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6031,
+"yaws": [
+2.94,
+4.28
+],
+"light": [
+-0.245,
+-0.992,
+1.067
+],
+"shade": 0.018,
+"start": [
+0.0224,
+-0.1114,
+0.2148
+],
+"split": "seen"
+},
+{
+"pair": 5,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6268,
+"yaws": [
+-0.34,
+-5.61
+],
+"light": [
+0.016,
+-0.938,
+1.297
+],
+"shade": 0.03,
+"start": [
+0.0021,
+-0.1123,
+0.2132
+],
+"split": "seen"
+},
+{
+"pair": 33,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6215,
+"yaws": [
+6.92,
+-10.94
+],
+"light": [
+-0.301,
+-0.642,
+1.3
+],
+"shade": -0.005,
+"start": [
+0.0135,
+-0.1097,
+0.2023
+],
+"split": "seen"
+},
+{
+"pair": 8,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5853,
+"yaws": [
+3.43,
+0.79
+],
+"light": [
+-0.264,
+-0.445,
+1.537
+],
+"shade": -0.004,
+"start": [
+0.0275,
+-0.1181,
+0.2293
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6283,
+"yaws": [
+-5.29,
+-3.67
+],
+"light": [
+-0.041,
+-1.036,
+1.355
+],
+"shade": -0.0,
+"start": [
+-0.009,
+-0.0871,
+0.2089
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6294,
+"yaws": [
+-11.45,
+-3.57
+],
+"light": [
+-0.023,
+-0.616,
+1.177
+],
+"shade": 0.035,
+"start": [
+-0.0196,
+-0.1106,
+0.2367
+],
+"split": "seen"
+},
+{
+"pair": 28,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5867,
+"yaws": [
+8.32,
+0.62
+],
+"light": [
+-0.795,
+-0.49,
+1.485
+],
+"shade": 0.057,
+"start": [
+-0.0027,
+-0.0866,
+0.2386
+],
+"split": "seen"
+},
+{
+"pair": 20,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.622,
+"yaws": [
+-5.18,
+-5.58
+],
+"light": [
+0.581,
+-0.525,
+1.51
+],
+"shade": 0.015,
+"start": [
+-0.0162,
+-0.0802,
+0.233
+],
+"split": "seen"
+},
+{
+"pair": 36,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6005,
+"yaws": [
+-10.0,
+1.29
+],
+"light": [
+-0.533,
+-0.476,
+1.772
+],
+"shade": 0.058,
+"start": [
+0.0297,
+-0.1173,
+0.2184
+],
+"split": "seen"
+},
+{
+"pair": 34,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6109,
+"yaws": [
+-3.84,
+-9.55
+],
+"light": [
+-0.456,
+-0.886,
+1.086
+],
+"shade": 0.045,
+"start": [
+0.0193,
+-0.0972,
+0.2073
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6185,
+"yaws": [
+6.62,
+7.62
+],
+"light": [
+-0.508,
+-0.726,
+1.337
+],
+"shade": -0.041,
+"start": [
+0.0076,
+-0.0872,
+0.2283
+],
+"split": "seen"
+},
+{
+"pair": 4,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6252,
+"yaws": [
+-9.49,
+-1.53
+],
+"light": [
+-0.418,
+-1.065,
+1.638
+],
+"shade": -0.047,
+"start": [
+0.0196,
+-0.105,
+0.225
+],
+"split": "seen"
+},
+{
+"pair": 10,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6167,
+"yaws": [
+2.21,
+9.23
+],
+"light": [
+-0.122,
+-1.033,
+1.035
+],
+"shade": 0.01,
+"start": [
+0.0099,
+-0.0962,
+0.2001
+],
+"split": "seen"
+},
+{
+"pair": 29,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5904,
+"yaws": [
+-1.88,
+-4.81
+],
+"light": [
+-0.581,
+-0.595,
+1.175
+],
+"shade": -0.026,
+"start": [
+0.0101,
+-0.1003,
+0.2084
+],
+"split": "seen"
+},
+{
+"pair": 13,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5891,
+"yaws": [
+5.32,
+6.17
+],
+"light": [
+-0.401,
+-1.036,
+1.374
+],
+"shade": 0.021,
+"start": [
+0.0075,
+-0.1164,
+0.2179
+],
+"split": "seen"
+},
+{
+"pair": 0,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5816,
+"yaws": [
+-7.91,
+-5.98
+],
+"light": [
+-0.223,
+-1.084,
+1.203
+],
+"shade": 0.001,
+"start": [
+0.0011,
+-0.0857,
+0.2369
+],
+"split": "seen"
+},
+{
+"pair": 12,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6179,
+"yaws": [
+-6.87,
+-6.68
+],
+"light": [
+-0.545,
+-1.135,
+1.689
+],
+"shade": 0.055,
+"start": [
+0.0104,
+-0.1042,
+0.222
+],
+"split": "seen"
+},
+{
+"pair": 8,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6288,
+"yaws": [
+7.8,
+-5.48
+],
+"light": [
+0.601,
+-0.79,
+1.304
+],
+"shade": 0.01,
+"start": [
+0.0291,
+-0.0905,
+0.2174
+],
+"split": "seen"
+},
+{
+"pair": 21,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.617,
+"yaws": [
+-4.77,
+6.77
+],
+"light": [
+-0.351,
+-0.652,
+1.388
+],
+"shade": 0.042,
+"start": [
+0.0063,
+-0.0966,
+0.2076
+],
+"split": "seen"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5856,
+"yaws": [
+8.44,
+9.5
+],
+"light": [
+0.106,
+-0.722,
+1.672
+],
+"shade": 0.057,
+"start": [
+0.0232,
+-0.0875,
+0.2204
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6201,
+"yaws": [
+7.28,
+-1.89
+],
+"light": [
+0.255,
+-0.746,
+1.524
+],
+"shade": -0.03,
+"start": [
+-0.017,
+-0.1061,
+0.2335
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6113,
+"yaws": [
+8.98,
+9.18
+],
+"light": [
+-0.003,
+-0.411,
+1.033
+],
+"shade": -0.04,
+"start": [
+-0.0201,
+-0.1032,
+0.2303
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6213,
+"yaws": [
+-7.79,
+2.0
+],
+"light": [
+0.383,
+-0.761,
+1.776
+],
+"shade": -0.046,
+"start": [
+0.0128,
+-0.1015,
+0.2168
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5963,
+"yaws": [
+-0.51,
+-6.18
+],
+"light": [
+0.554,
+-0.662,
+1.211
+],
+"shade": 0.003,
+"start": [
+0.0131,
+-0.1146,
+0.2127
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5771,
+"yaws": [
+-10.76,
+-1.91
+],
+"light": [
+0.171,
+-0.556,
+1.33
+],
+"shade": 0.042,
+"start": [
+-0.0151,
+-0.1063,
+0.2049
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6135,
+"yaws": [
+7.39,
+6.59
+],
+"light": [
+-0.364,
+-1.109,
+1.591
+],
+"shade": -0.005,
+"start": [
+0.0143,
+-0.0802,
+0.2068
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6272,
+"yaws": [
+8.32,
+8.61
+],
+"light": [
+-0.45,
+-0.671,
+1.001
+],
+"shade": 0.024,
+"start": [
+-0.0238,
+-0.1116,
+0.2213
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5875,
+"yaws": [
+-5.29,
+-0.85
+],
+"light": [
+-0.587,
+-1.102,
+1.468
+],
+"shade": -0.006,
+"start": [
+0.0168,
+-0.0828,
+0.2005
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.621,
+"yaws": [
+-11.32,
+10.97
+],
+"light": [
+0.1,
+-0.431,
+1.582
+],
+"shade": -0.042,
+"start": [
+-0.0174,
+-0.0801,
+0.2315
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6198,
+"yaws": [
+-1.11,
+-7.72
+],
+"light": [
+0.599,
+-0.736,
+1.449
+],
+"shade": -0.033,
+"start": [
+0.001,
+-0.0943,
+0.2063
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6154,
+"yaws": [
+11.46,
+10.22
+],
+"light": [
+-0.647,
+-1.055,
+1.214
+],
+"shade": -0.049,
+"start": [
+0.0085,
+-0.0835,
+0.226
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5845,
+"yaws": [
+2.97,
+0.22
+],
+"light": [
+0.262,
+-0.965,
+1.762
+],
+"shade": 0.054,
+"start": [
+-0.0254,
+-0.1113,
+0.2113
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5822,
+"yaws": [
+4.36,
+-10.98
+],
+"light": [
+-0.126,
+-1.058,
+1.024
+],
+"shade": -0.044,
+"start": [
+-0.0127,
+-0.09,
+0.2005
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5881,
+"yaws": [
+9.04,
+11.01
+],
+"light": [
+-0.751,
+-0.954,
+1.144
+],
+"shade": 0.027,
+"start": [
+0.007,
+-0.0923,
+0.2183
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6012,
+"yaws": [
+0.61,
+2.65
+],
+"light": [
+-0.276,
+-1.033,
+1.508
+],
+"shade": 0.052,
+"start": [
+-0.0104,
+-0.0867,
+0.2241
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5833,
+"yaws": [
+6.8,
+6.92
+],
+"light": [
+0.569,
+-0.936,
+1.63
+],
+"shade": -0.012,
+"start": [
+-0.0132,
+-0.0903,
+0.2171
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5738,
+"yaws": [
+-6.01,
+-9.27
+],
+"light": [
+-0.081,
+-0.643,
+1.008
+],
+"shade": -0.006,
+"start": [
+-0.0002,
+-0.11,
+0.2206
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6028,
+"yaws": [
+-2.85,
+8.74
+],
+"light": [
+0.757,
+-0.829,
+1.662
+],
+"shade": 0.052,
+"start": [
+0.0147,
+-0.0865,
+0.2241
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5877,
+"yaws": [
+-2.56,
+0.99
+],
+"light": [
+-0.362,
+-0.788,
+1.417
+],
+"shade": -0.032,
+"start": [
+-0.0044,
+-0.0837,
+0.2273
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6283,
+"yaws": [
+10.01,
+-8.1
+],
+"light": [
+0.07,
+-0.91,
+1.748
+],
+"shade": -0.016,
+"start": [
+0.0175,
+-0.0834,
+0.2166
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6176,
+"yaws": [
+-6.61,
+0.06
+],
+"light": [
+0.54,
+-1.04,
+1.554
+],
+"shade": -0.047,
+"start": [
+0.0003,
+-0.1066,
+0.2382
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.602,
+"yaws": [
+5.71,
+2.32
+],
+"light": [
+0.76,
+-0.912,
+1.188
+],
+"shade": -0.032,
+"start": [
+-0.0196,
+-0.0906,
+0.2281
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5716,
+"yaws": [
+3.68,
+1.05
+],
+"light": [
+-0.217,
+-0.569,
+1.792
+],
+"shade": 0.009,
+"start": [
+-0.0299,
+-0.0918,
+0.2342
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5774,
+"yaws": [
+0.38,
+-5.86
+],
+"light": [
+-0.444,
+-1.016,
+1.632
+],
+"shade": 0.001,
+"start": [
+-0.0272,
+-0.0813,
+0.2312
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5815,
+"yaws": [
+8.9,
+10.8
+],
+"light": [
+0.458,
+-1.155,
+1.166
+],
+"shade": -0.023,
+"start": [
+-0.0042,
+-0.0852,
+0.2124
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6132,
+"yaws": [
+-4.26,
+6.13
+],
+"light": [
+0.367,
+-0.656,
+1.311
+],
+"shade": -0.056,
+"start": [
+-0.003,
+-0.0882,
+0.2356
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6114,
+"yaws": [
+-8.85,
+-9.6
+],
+"light": [
+0.75,
+-0.575,
+1.432
+],
+"shade": 0.038,
+"start": [
+0.0232,
+-0.1043,
+0.2028
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6174,
+"yaws": [
+-7.64,
+6.63
+],
+"light": [
+-0.083,
+-0.826,
+1.336
+],
+"shade": 0.047,
+"start": [
+0.0098,
+-0.105,
+0.2118
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5911,
+"yaws": [
+-9.27,
+-8.38
+],
+"light": [
+0.423,
+-1.178,
+1.7
+],
+"shade": 0.008,
+"start": [
+0.029,
+-0.1131,
+0.2276
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5765,
+"yaws": [
+-4.59,
+4.18
+],
+"light": [
+-0.455,
+-0.78,
+1.728
+],
+"shade": 0.032,
+"start": [
+0.0072,
+-0.1135,
+0.2184
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5763,
+"yaws": [
+0.75,
+5.97
+],
+"light": [
+0.641,
+-0.986,
+1.722
+],
+"shade": -0.004,
+"start": [
+0.0068,
+-0.0878,
+0.2052
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5764,
+"yaws": [
+-2.66,
+-9.09
+],
+"light": [
+0.207,
+-0.587,
+1.401
+],
+"shade": -0.051,
+"start": [
+-0.0271,
+-0.0973,
+0.2195
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6266,
+"yaws": [
+1.49,
+-0.25
+],
+"light": [
+-0.68,
+-0.983,
+1.266
+],
+"shade": 0.032,
+"start": [
+0.0195,
+-0.1056,
+0.2383
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5801,
+"yaws": [
+3.76,
+-7.04
+],
+"light": [
+0.658,
+-1.083,
+1.313
+],
+"shade": -0.048,
+"start": [
+0.0287,
+-0.1045,
+0.2322
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6182,
+"yaws": [
+11.18,
+4.5
+],
+"light": [
+0.741,
+-0.465,
+1.736
+],
+"shade": 0.042,
+"start": [
+-0.0193,
+-0.089,
+0.2268
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6056,
+"yaws": [
+-11.18,
+-5.93
+],
+"light": [
+-0.214,
+-1.08,
+1.267
+],
+"shade": -0.053,
+"start": [
+0.0149,
+-0.1076,
+0.2171
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5946,
+"yaws": [
+-11.23,
+-8.33
+],
+"light": [
+0.633,
+-0.888,
+1.457
+],
+"shade": -0.025,
+"start": [
+0.0013,
+-0.1116,
+0.2364
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6001,
+"yaws": [
+7.55,
+-7.61
+],
+"light": [
+0.466,
+-0.589,
+1.634
+],
+"shade": 0.049,
+"start": [
+-0.0135,
+-0.0816,
+0.2308
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5927,
+"yaws": [
+-1.0,
+4.29
+],
+"light": [
+0.019,
+-0.995,
+1.048
+],
+"shade": 0.03,
+"start": [
+0.0255,
+-0.111,
+0.2154
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.573,
+"yaws": [
+-11.07,
+-8.33
+],
+"light": [
+0.339,
+-0.641,
+1.239
+],
+"shade": -0.008,
+"start": [
+0.023,
+-0.1125,
+0.2026
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5742,
+"yaws": [
+11.81,
+8.34
+],
+"light": [
+-0.451,
+-0.779,
+1.645
+],
+"shade": -0.008,
+"start": [
+0.0068,
+-0.1129,
+0.2031
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6038,
+"yaws": [
+1.29,
+-6.07
+],
+"light": [
+-0.295,
+-0.58,
+1.114
+],
+"shade": 0.057,
+"start": [
+0.008,
+-0.0855,
+0.2257
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5977,
+"yaws": [
+5.38,
+-3.39
+],
+"light": [
+0.48,
+-0.645,
+1.378
+],
+"shade": -0.008,
+"start": [
+0.0214,
+-0.1005,
+0.2387
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6061,
+"yaws": [
+1.57,
+-9.04
+],
+"light": [
+0.372,
+-0.895,
+1.033
+],
+"shade": -0.006,
+"start": [
+-0.0212,
+-0.081,
+0.2044
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.613,
+"yaws": [
+3.38,
+9.29
+],
+"light": [
+0.189,
+-0.548,
+1.185
+],
+"shade": 0.004,
+"start": [
+-0.0126,
+-0.11,
+0.2339
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5796,
+"yaws": [
+-8.53,
+5.11
+],
+"light": [
+0.284,
+-0.703,
+1.43
+],
+"shade": 0.012,
+"start": [
+-0.0193,
+-0.0901,
+0.2303
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5807,
+"yaws": [
+3.11,
+1.85
+],
+"light": [
+-0.438,
+-0.562,
+1.275
+],
+"shade": 0.004,
+"start": [
+-0.0013,
+-0.1087,
+0.2098
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5978,
+"yaws": [
+2.26,
+-11.64
+],
+"light": [
+0.555,
+-0.622,
+1.088
+],
+"shade": 0.003,
+"start": [
+-0.0033,
+-0.1125,
+0.2304
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6294,
+"yaws": [
+2.93,
+3.44
+],
+"light": [
+-0.194,
+-1.143,
+1.334
+],
+"shade": -0.039,
+"start": [
+0.0172,
+-0.1198,
+0.2122
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6163,
+"yaws": [
+-10.36,
+8.99
+],
+"light": [
+-0.007,
+-1.173,
+1.409
+],
+"shade": 0.001,
+"start": [
+-0.0089,
+-0.0893,
+0.2311
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6226,
+"yaws": [
+-10.75,
+3.29
+],
+"light": [
+0.113,
+-0.431,
+1.156
+],
+"shade": 0.046,
+"start": [
+0.0234,
+-0.109,
+0.231
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5996,
+"yaws": [
+-6.36,
+7.97
+],
+"light": [
+-0.444,
+-0.5,
+1.723
+],
+"shade": -0.044,
+"start": [
+-0.0143,
+-0.1077,
+0.2218
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5852,
+"yaws": [
+3.58,
+4.4
+],
+"light": [
+0.141,
+-0.554,
+1.34
+],
+"shade": 0.021,
+"start": [
+-0.03,
+-0.0802,
+0.2227
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6175,
+"yaws": [
+2.86,
+3.31
+],
+"light": [
+-0.361,
+-1.149,
+1.443
+],
+"shade": -0.01,
+"start": [
+0.0282,
+-0.0831,
+0.2206
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5763,
+"yaws": [
+-8.99,
+10.76
+],
+"light": [
+-0.232,
+-0.776,
+1.267
+],
+"shade": -0.024,
+"start": [
+0.0184,
+-0.0949,
+0.2178
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5784,
+"yaws": [
+10.08,
+6.59
+],
+"light": [
+-0.246,
+-0.602,
+1.1
+],
+"shade": 0.052,
+"start": [
+0.0219,
+-0.101,
+0.2029
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5755,
+"yaws": [
+-1.7,
+-0.17
+],
+"light": [
+0.046,
+-0.642,
+1.687
+],
+"shade": -0.008,
+"start": [
+0.0201,
+-0.0899,
+0.2338
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5751,
+"yaws": [
+10.65,
+2.93
+],
+"light": [
+-0.466,
+-0.687,
+1.257
+],
+"shade": 0.023,
+"start": [
+0.0119,
+-0.0872,
+0.2346
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6232,
+"yaws": [
+5.05,
+1.68
+],
+"light": [
+-0.274,
+-1.056,
+1.206
+],
+"shade": 0.044,
+"start": [
+-0.0295,
+-0.0801,
+0.209
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5842,
+"yaws": [
+8.2,
+10.72
+],
+"light": [
+0.5,
+-1.112,
+1.791
+],
+"shade": 0.031,
+"start": [
+0.025,
+-0.0957,
+0.2058
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6018,
+"yaws": [
+0.91,
+4.63
+],
+"light": [
+-0.794,
+-1.175,
+1.533
+],
+"shade": -0.025,
+"start": [
+-0.0278,
+-0.083,
+0.2383
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6044,
+"yaws": [
+11.16,
+-1.72
+],
+"light": [
+-0.667,
+-0.76,
+1.192
+],
+"shade": -0.033,
+"start": [
+-0.0239,
+-0.0804,
+0.2047
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5811,
+"yaws": [
+11.96,
+11.81
+],
+"light": [
+-0.014,
+-0.844,
+1.138
+],
+"shade": -0.034,
+"start": [
+-0.0034,
+-0.1098,
+0.2269
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6155,
+"yaws": [
+-6.55,
+1.94
+],
+"light": [
+0.378,
+-1.138,
+1.755
+],
+"shade": -0.033,
+"start": [
+-0.0153,
+-0.0894,
+0.2333
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5841,
+"yaws": [
+-9.37,
+-6.75
+],
+"light": [
+0.666,
+-0.823,
+1.181
+],
+"shade": -0.05,
+"start": [
+0.0039,
+-0.0879,
+0.2297
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.593,
+"yaws": [
+1.21,
+-3.24
+],
+"light": [
+0.112,
+-1.013,
+1.444
+],
+"shade": -0.023,
+"start": [
+0.0192,
+-0.1114,
+0.2311
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.583,
+"yaws": [
+2.96,
+10.09
+],
+"light": [
+0.016,
+-0.475,
+1.446
+],
+"shade": 0.009,
+"start": [
+-0.0007,
+-0.0827,
+0.2093
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6243,
+"yaws": [
+-6.69,
+7.31
+],
+"light": [
+-0.693,
+-0.423,
+1.21
+],
+"shade": -0.047,
+"start": [
+0.0018,
+-0.1041,
+0.2241
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.584,
+"yaws": [
+-1.28,
+-9.21
+],
+"light": [
+0.611,
+-0.954,
+1.509
+],
+"shade": 0.004,
+"start": [
+-0.0072,
+-0.0958,
+0.2234
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6236,
+"yaws": [
+-6.2,
+5.18
+],
+"light": [
+0.038,
+-0.697,
+1.653
+],
+"shade": -0.013,
+"start": [
+0.0009,
+-0.1066,
+0.2224
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6115,
+"yaws": [
+-11.24,
+-8.97
+],
+"light": [
+-0.525,
+-0.626,
+1.431
+],
+"shade": -0.019,
+"start": [
+-0.0251,
+-0.092,
+0.2219
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6186,
+"yaws": [
+-3.81,
+10.06
+],
+"light": [
+-0.031,
+-1.079,
+1.118
+],
+"shade": -0.005,
+"start": [
+-0.0208,
+-0.0995,
+0.2196
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6058,
+"yaws": [
+-8.79,
+-8.46
+],
+"light": [
+0.768,
+-0.573,
+1.784
+],
+"shade": 0.018,
+"start": [
+0.0016,
+-0.1141,
+0.2057
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5851,
+"yaws": [
+8.37,
+-7.9
+],
+"light": [
+0.222,
+-0.85,
+1.403
+],
+"shade": 0.03,
+"start": [
+0.0226,
+-0.0909,
+0.2226
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6029,
+"yaws": [
+-9.02,
+-9.63
+],
+"light": [
+0.042,
+-0.718,
+1.015
+],
+"shade": 0.04,
+"start": [
+-0.0072,
+-0.1197,
+0.2056
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.5909,
+"yaws": [
+-11.79,
+5.52
+],
+"light": [
+-0.697,
+-0.519,
+1.612
+],
+"shade": -0.005,
+"start": [
+0.0092,
+-0.0851,
+0.2353
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6042,
+"yaws": [
+-3.87,
+-1.35
+],
+"light": [
+0.171,
+-0.917,
+1.476
+],
+"shade": 0.009,
+"start": [
+0.0171,
+-0.0843,
+0.237
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 1,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6025,
+"yaws": [
+-4.0,
+3.93
+],
+"light": [
+0.392,
+-0.984,
+1.12
+],
+"shade": -0.012,
+"start": [
+-0.0165,
+-0.1146,
+0.218
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6011,
+"yaws": [
+5.8,
+-1.29
+],
+"light": [
+-0.639,
+-0.822,
+1.129
+],
+"shade": -0.007,
+"start": [
+0.0166,
+-0.1042,
+0.229
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6287,
+"yaws": [
+-2.47,
+-2.63
+],
+"light": [
+-0.71,
+-1.012,
+1.26
+],
+"shade": -0.022,
+"start": [
+0.0136,
+-0.0905,
+0.2122
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6234,
+"yaws": [
+-1.99,
+4.35
+],
+"light": [
+-0.352,
+-1.185,
+1.634
+],
+"shade": -0.009,
+"start": [
+0.0008,
+-0.108,
+0.2311
+],
+"split": "held_out"
+},
+{
+"pair": 7,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6225,
+"yaws": [
+2.44,
+11.42
+],
+"light": [
+0.587,
+-0.602,
+1.192
+],
+"shade": -0.016,
+"start": [
+-0.0108,
+-0.0955,
+0.227
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6046,
+"yaws": [
+9.1,
+8.61
+],
+"light": [
+-0.115,
+-0.65,
+1.301
+],
+"shade": -0.024,
+"start": [
+0.0164,
+-0.1158,
+0.22
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6209,
+"yaws": [
+-5.71,
+10.58
+],
+"light": [
+-0.351,
+-1.188,
+1.637
+],
+"shade": 0.007,
+"start": [
+0.0037,
+-0.0822,
+0.234
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6294,
+"yaws": [
+5.67,
+11.92
+],
+"light": [
+-0.59,
+-0.495,
+1.452
+],
+"shade": 0.033,
+"start": [
+0.0078,
+-0.0935,
+0.2292
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5704,
+"yaws": [
+11.59,
+6.47
+],
+"light": [
+-0.563,
+-1.189,
+1.429
+],
+"shade": 0.009,
+"start": [
+0.006,
+-0.1,
+0.2051
+],
+"split": "held_out"
+},
+{
+"pair": 15,
+"pairing": "distinct",
+"order": 0,
+"target_side": 1,
+"view": "far",
+"cam_dist": 0.6249,
+"yaws": [
+6.5,
+-11.3
+],
+"light": [
+-0.715,
+-0.717,
+1.308
+],
+"shade": -0.043,
+"start": [
+-0.0096,
+-0.0817,
+0.2142
+],
+"split": "held_out"
+},
+{
+"pair": 23,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6006,
+"yaws": [
+-7.46,
+-9.12
+],
+"light": [
+-0.694,
+-1.061,
+1.5
+],
+"shade": 0.012,
+"start": [
+-0.0081,
+-0.1026,
+0.2123
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5714,
+"yaws": [
+-5.26,
+1.35
+],
+"light": [
+-0.224,
+-0.614,
+1.568
+],
+"shade": 0.002,
+"start": [
+-0.0142,
+-0.1093,
+0.2004
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6238,
+"yaws": [
+-6.63,
+2.07
+],
+"light": [
+0.695,
+-0.711,
+1.03
+],
+"shade": -0.057,
+"start": [
+0.0295,
+-0.0842,
+0.2177
+],
+"split": "held_out"
+},
+{
+"pair": 35,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6296,
+"yaws": [
+1.87,
+-7.79
+],
+"light": [
+-0.73,
+-0.788,
+1.094
+],
+"shade": 0.054,
+"start": [
+0.0079,
+-0.0946,
+0.2117
+],
+"split": "held_out"
+},
+{
+"pair": 27,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5814,
+"yaws": [
+-7.2,
+-6.39
+],
+"light": [
+-0.251,
+-1.07,
+1.45
+],
+"shade": 0.028,
+"start": [
+-0.0262,
+-0.1099,
+0.2204
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.5962,
+"yaws": [
+0.69,
+-10.85
+],
+"light": [
+-0.184,
+-1.187,
+1.401
+],
+"shade": 0.011,
+"start": [
+-0.0129,
+-0.1158,
+0.2089
+],
+"split": "held_out"
+},
+{
+"pair": 11,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6049,
+"yaws": [
+-3.8,
+10.19
+],
+"light": [
+0.785,
+-0.496,
+1.075
+],
+"shade": 0.0,
+"start": [
+-0.0103,
+-0.0898,
+0.2377
+],
+"split": "held_out"
+},
+{
+"pair": 31,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6052,
+"yaws": [
+-10.56,
+-2.28
+],
+"light": [
+0.709,
+-0.81,
+1.412
+],
+"shade": 0.045,
+"start": [
+-0.0112,
+-0.1053,
+0.2307
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6198,
+"yaws": [
+0.05,
+9.12
+],
+"light": [
+-0.275,
+-0.742,
+1.306
+],
+"shade": -0.047,
+"start": [
+0.007,
+-0.0919,
+0.2211
+],
+"split": "held_out"
+},
+{
+"pair": 3,
+"pairing": "distinct",
+"order": 0,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6102,
+"yaws": [
+-8.67,
+2.55
+],
+"light": [
+0.515,
+-0.492,
+1.766
+],
+"shade": 0.032,
+"start": [
+0.0242,
+-0.1184,
+0.225
+],
+"split": "held_out"
+},
+{
+"pair": 19,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6134,
+"yaws": [
+-0.38,
+1.78
+],
+"light": [
+0.66,
+-0.732,
+1.241
+],
+"shade": 0.04,
+"start": [
+0.0197,
+-0.0828,
+0.2326
+],
+"split": "held_out"
+},
+{
+"pair": 39,
+"pairing": "distinct",
+"order": 1,
+"target_side": 0,
+"view": "far",
+"cam_dist": 0.6209,
+"yaws": [
+-0.46,
+-1.24
+],
+"light": [
+0.632,
+-0.689,
+1.531
+],
+"shade": -0.019,
+"start": [
+0.0078,
+-0.1186,
+0.2281
+],
+"split": "held_out"
+}
+]

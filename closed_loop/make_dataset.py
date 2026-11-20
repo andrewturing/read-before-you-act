@@ -18,7 +18,16 @@ import numpy as np
 from reach_env import (EPISODE_STEPS, FPS, OBS_H, OBS_W, POINTER_TASK, TEST_PAIRS, TRAIN_PAIRS, ReachEnv, expert_path,
                        make_specs, text_task)
 
-SEEDS = {"text_far": 11, "text_near": 12, "pointer_far": 13}
+# condition: (camera, pointer, label close-ups as extra cameras, pairing, seed)
+CONDS = {
+    "text_far": ("far", False, False, "lookalike", 11),
+    "text_near": ("near", False, False, "lookalike", 12),
+    "pointer_far": ("far", True, False, "lookalike", 13),
+    "text_crops": ("far", False, True, "lookalike", 14),
+    "text_crops_distinct": ("far", False, True, "distinct", 15),
+    "text_crops_more": ("far", False, True, "lookalike", 16),
+    "text_far_distinct": ("far", False, False, "distinct", 15),  # text_crops_distinct without the close-ups
+}
 
 
 def write_test_specs(folder):
@@ -38,6 +47,10 @@ def write_test_specs(folder):
         specs = [dict(s, cap_m=0.002) for s in json.load(open(os.path.join(folder, name + ".json")))]
         json.dump(specs, open(os.path.join(folder, name + "_small.json"), "w"), indent=0)
     print("wrote the small-print copies")
+    specs = [dict(s, split="seen") for s in make_specs(100, TRAIN_PAIRS, "far", 103, "distinct")]
+    specs += [dict(s, split="held_out") for s in make_specs(100, TEST_PAIRS, "far", 153, "distinct")]
+    json.dump(specs, open(os.path.join(folder, "test_specs_far_distinct.json"), "w"), indent=0)
+    print("wrote the distinct-name test episodes")
     # A second, independent small-print calibration set (see results notes: the first one was used
     # to find a flaw in the threshold search and is not used for the reported threshold).
     cal2 = [dict(s, cap_m=0.002) for s in make_specs(400, TRAIN_PAIRS + TEST_PAIRS, "far", 302)]
@@ -46,7 +59,7 @@ def write_test_specs(folder):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--cond", choices=list(SEEDS))
+    ap.add_argument("--cond", choices=list(CONDS))
     ap.add_argument("--episodes", type=int, default=600)
     ap.add_argument("--out")
     ap.add_argument("--test-specs", metavar="FOLDER")
@@ -57,34 +70,47 @@ def main():
         return
     from lerobot.datasets.lerobot_dataset import LeRobotDataset
 
-    view = "near" if args.cond.endswith("near") else "far"
-    pointer = args.cond.startswith("pointer")
+    view, pointer, crops, pairing, seed = CONDS[args.cond]
     features = {
         "observation.images.camera1": {"dtype": "image", "shape": (OBS_H, OBS_W, 3), "names": ["height", "width", "channels"]},
         "observation.state": {"dtype": "float32", "shape": (3,), "names": ["x", "y", "z"]},
         "action": {"dtype": "float32", "shape": (3,), "names": ["x", "y", "z"]},
     }
+    if crops:  # close-ups of the left and right label as two more cameras
+        for cam in ("camera2", "camera3"):
+            features[f"observation.images.{cam}"] = {"dtype": "image", "shape": (OBS_H, OBS_W, 3),
+                                                     "names": ["height", "width", "channels"]}
     ds = LeRobotDataset.create(repo_id=f"local/reach_{args.cond}", fps=FPS, features=features, root=args.out,
                                robot_type="kinematic_gripper", use_videos=False, image_writer_threads=8)
     env = ReachEnv(os.path.join(os.path.dirname(os.path.abspath(args.out)), "_tex"))
-    for ep, spec in enumerate(make_specs(args.episodes, TRAIN_PAIRS, view, SEEDS[args.cond])):
+    for ep, spec in enumerate(make_specs(args.episodes, TRAIN_PAIRS, view, seed, pairing)):
         env.reset(spec)
         path = expert_path(spec)
         task = POINTER_TASK if pointer else text_task(env.target_text(spec))
         for t in range(EPISODE_STEPS):
-            image = env.observation(env.render(), spec["target_side"] if pointer else None)
-            if ep == 0 and t == 0 and args.preview:
+            frame = env.render()
+            image = env.observation(frame, spec["target_side"] if pointer else None)
+            item = {"observation.images.camera1": image, "observation.state": env.pos(), "action": path[t + 1],
+                    "task": task}
+            if crops:
+                item["observation.images.camera2"], item["observation.images.camera3"] = env.label_views(frame)
+            if ep == 0 and t == 0 and args.preview:  # exactly what the policy is given, side by side
                 from PIL import Image
-                Image.fromarray(image).save(args.preview)  # exactly what the policy is given
-            ds.add_frame({"observation.images.camera1": image, "observation.state": env.pos(), "action": path[t + 1],
-                          "task": task})
+                imgs = [Image.fromarray(v) for k, v in item.items() if k.startswith("observation.images")]
+                sheet = Image.new("RGB", (OBS_W * len(imgs), OBS_H), "white")
+                for i, im in enumerate(imgs):
+                    sheet.paste(im, (i * OBS_W, 0))
+                sheet.save(args.preview)
+            ds.add_frame(item)
             env.step(path[t + 1])
         ds.save_episode()
         if (ep + 1) % 50 == 0:
             print(f"{args.cond}: {ep + 1}/{args.episodes} episodes", flush=True)
     ds.finalize()
     env.close()
-    print(f"wrote {args.episodes} episodes to {args.out}; text is about {env.text_px():.0f} px tall on the sensor")
+    extra = f" and {env.text_px_in_label_view():.0f} px in each label close-up" if crops else ""
+    print(f"wrote {args.episodes} episodes to {args.out}; text is about {env.text_px():.0f} px tall on the sensor, "
+          f"{env.text_px_in_input():.0f} px in the policy's main view{extra}")
 
 
 if __name__ == "__main__":

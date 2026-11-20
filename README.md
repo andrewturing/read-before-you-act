@@ -125,7 +125,16 @@ Does a trained robot policy read? We fine-tuned [SmolVLA](https://arxiv.org/abs/
 | A green outline on the right carton | **100%** |
 | An outline placed by a 2B reader that moves the camera closer until it is sure (2 mm print) | **96.5%**, with 2.5% wrong among the picks it made against a certified 5% |
 
-Told the text, the policy goes left or right about equally often: it acts without reading. Told by a pointer, with the same data and training, it never misses. A small reader that looks at the full-resolution camera image, moves closer when unsure, and hands its choice to the policy closes the gap. Details, limits and the commands to reproduce it are in [closed_loop/README.md](closed_loop/README.md).
+Told the text, the policy goes left or right about equally often: it acts without reading. Told by a pointer, with the same data and training, it never misses. A small reader that looks at the full-resolution camera image, moves closer when unsure, and hands its choice to the policy closes the gap.
+
+**Is it that the policy cannot see the text, or that it does not learn to read it? Both.** We gave the policy a sharp close-up of each label as two extra cameras, with the text 33 pixels tall instead of 4:
+
+| Names on the two cartons | Main view only | Plus label close-ups |
+|---|---|---|
+| Clearly different (Tramadol / Daunorubicin) | 60.5% | **84%** (97% on names it trained on) |
+| Look-alike (Prednisone / Prednisolone) | 54.5% | 60%, and at chance on new pairs |
+
+Seeing the text lets it learn clearly different names. Look-alikes stay out of reach even when the text is perfectly legible, with 2.5 times the demonstrations (52.5%) or with its backbone trained as well (52.5%). Details, limits and the commands to reproduce all of this are in [closed_loop/README.md](closed_loop/README.md).
 
 ## Also in this repository
 
@@ -141,7 +150,7 @@ Full tables are in [results/summary.md](results/summary.md) and [results/look_cl
 ## Limits
 
 - The reading test is a best case, as described above. Treat its numbers as an upper bound on what a model reads in the world.
-- Nothing has been tested on a real camera or robot. The closed-loop study uses one policy, a kinematic end-effector with no contact, and 600 demonstrations per setting, and it cannot yet separate "the policy cannot see the text" from "it does not learn to use it".
+- Nothing has been tested on a real camera or robot. The closed-loop study uses one policy, a kinematic end-effector with no contact, and at most 1,500 demonstrations per setting.
 - A model's own image processor matters. Some models enlarge or tile a small input before encoding it, which is counted as part of the model here.
 - 4-bit results use bitsandbytes NF4 on every linear layer, a stand-in for on-device formats.
 - Forty pairs give intervals of roughly ±10 points near 90%.
@@ -150,10 +159,11 @@ Full tables are in [results/summary.md](results/summary.md) and [results/look_cl
 
 1. ~~Run an open compact robot policy in closed loop on the pick-by-label scenes.~~ Done, see above.
 2. ~~Give the stop-when-confident rule a finite-sample bound on wrong picks.~~ Done for one reader, see above.
-3. More policies (π0, a higher-resolution policy) and ten times the demonstrations, to tell "cannot see" from "does not learn".
-4. Harder charts: rotation, glare, handwriting, and Vietnamese and Chinese labels.
-5. A screen-reading test, where zooming plays the role of moving closer.
-6. A small reader fine-tuned for Vietnamese handwriting that says when it cannot read.
+3. ~~Tell "cannot see" from "does not learn".~~ Both, see above.
+4. Find what, if anything, teaches an end-to-end policy look-alike names: more policies (π0, a higher-resolution policy), ten times the demonstrations, and an auxiliary objective that makes the policy transcribe the target label.
+5. Harder charts: rotation, glare, handwriting, and Vietnamese and Chinese labels.
+6. A screen-reading test, where zooming plays the role of moving closer.
+7. A small reader fine-tuned for Vietnamese handwriting that says when it cannot read.
 
 ## Data and models
 

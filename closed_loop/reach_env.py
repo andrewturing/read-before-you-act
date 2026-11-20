@@ -36,16 +36,26 @@ POINTER_TASK = "reach the box marked in green"
 PAIRS = chart_pairs()
 TEST_PAIRS = [i for i in range(len(PAIRS)) if i % 4 == 3]  # ten pairs never shown in training
 TRAIN_PAIRS = [i for i in range(len(PAIRS)) if i % 4 != 3]
+# "distinct" pairings put the first label of pair p beside the first label of an unrelated pair,
+# so the two names differ in most letters (a control: can the policy use text at all?).
+DISTINCT_OFFSET = 16
+
+
+def pair_lines(pair, pairing="lookalike"):
+    """The two label texts (each a list of lines) for a pair under a pairing."""
+    if pairing == "distinct":
+        return [PAIRS[pair]["lines"][0], PAIRS[(pair + DISTINCT_OFFSET) % len(PAIRS)]["lines"][0]]
+    return PAIRS[pair]["lines"]
 
 
 def text_task(target):
     return f'reach the box labelled "{target}"'
 
 
-def sample_spec(rng, pair_ids, view):
+def sample_spec(rng, pair_ids, view, pairing="lookalike"):
     """Everything that defines one episode, as plain numbers so it can be saved and replayed."""
     return dict(
-        pair=rng.choice(pair_ids), order=rng.randrange(2), target_side=rng.randrange(2), view=view,
+        pair=rng.choice(pair_ids), pairing=pairing, order=rng.randrange(2), target_side=rng.randrange(2), view=view,
         cam_dist=round(CAM_DIST[view] * rng.uniform(0.95, 1.05), 4),
         yaws=[round(rng.uniform(-12, 12), 2) for _ in range(2)],
         light=[round(rng.uniform(-0.8, 0.8), 3), round(rng.uniform(-1.2, -0.4), 3), round(rng.uniform(1.0, 1.8), 3)],
@@ -80,15 +90,15 @@ class ReachEnv:
         os.makedirs(self.tex_dir, exist_ok=True)
         self.renderer = None
 
-    def _texture(self, pair, which):
-        path = os.path.join(self.tex_dir, f"label_{pair}_{which}.png")
+    def _texture(self, pair, which, pairing="lookalike"):
+        path = os.path.join(self.tex_dir, f"label_{pairing}_{pair}_{which}.png")
         if not os.path.exists(path):
-            draw_label(PAIRS[pair]["lines"][which], MASTER_CAP).save(path)
+            draw_label(pair_lines(pair, pairing)[which], MASTER_CAP).save(path)
         return path
 
     def texts(self, spec):
         """Label text on the left and on the right carton."""
-        lines = PAIRS[spec["pair"]]["lines"]
+        lines = pair_lines(spec["pair"], spec.get("pairing", "lookalike"))
         idx = [0, 1] if spec["order"] == 0 else [1, 0]
         return [" ".join(lines[i]) for i in idx]
 
@@ -110,7 +120,7 @@ class ReachEnv:
             normal, ex, ez = np.array([s, -c, 0.0]), np.array([c, s, 0.0]), np.array([0.0, 0.0, 1.0])
             face = bx + normal * BOX_HALF[1]
             lc = bx + normal * (BOX_HALF[1] + 0.0004)
-            tex = self._texture(spec["pair"], order[i])
+            tex = self._texture(spec["pair"], order[i], spec.get("pairing", "lookalike"))
             assets.append(f'<texture name="t{i}" type="2d" file="{tex}"/>'
                           f'<material name="m{i}" texture="t{i}" texrepeat="1 1" texuniform="false" specular="0" shininess="0"/>')
             geoms.append(f'<geom type="box" size="{BOX_HALF[0]} {BOX_HALF[1]} {BOX_HALF[2]}" pos="{bx[0]} {bx[1]} {bx[2]}" '
@@ -182,12 +192,49 @@ class ReachEnv:
         """The two labels cut from the camera frame at sensor resolution, for a reader."""
         return [frame.crop(tuple(int(round(v)) for v in self._bbox(c, 0.06))) for c in self.label_corners]
 
-    def observation(self, frame, pointer_side=None):
-        """What the policy receives: the frame at 640x360, with a green outline on one carton if asked."""
+    def zoom_box(self):
+        """A 16:9 region of the frame around both cartons, used for the zoomed policy input."""
+        boxes = [self._bbox(c, 0.0) for c in self.face_corners]
+        x0, y0 = min(b[0] for b in boxes), min(b[1] for b in boxes)
+        x1, y1 = max(b[2] for b in boxes), max(b[3] for b in boxes)
+        cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
+        w = max((x1 - x0) * 1.25, (y1 - y0) * 1.25 * 16 / 9)
+        h = w * 9 / 16
+        x0, y0 = min(max(0, cx - w / 2), W - w), min(max(0, cy - h / 2), H - h)
+        return (x0, y0, x0 + w, y0 + h)
+
+    def observation(self, frame, pointer_side=None, zoom=False):
+        """What the policy receives: the frame at 640x360, with a green outline on one carton if asked.
+        With zoom=True the frame is first cropped to the cartons, so the label text is larger."""
         if pointer_side is not None:
             frame = frame.copy()
             ImageDraw.Draw(frame).rectangle(self._bbox(self.face_corners[pointer_side], 0.05), outline=(0, 200, 60), width=10)
+        if zoom:
+            frame = frame.crop(tuple(int(round(v)) for v in self.zoom_box()))
         return np.asarray(frame.resize((OBS_W, OBS_H), Image.LANCZOS), dtype=np.uint8)
+
+    def label_views(self, frame):
+        """Two extra camera inputs: a close-up of each label, as a zoom or wrist camera would give.
+        Each label crop is scaled to fill a 640x360 image (aspect kept, grey padding)."""
+        views = []
+        for crop in self.label_crops(frame):
+            s = min(OBS_W / crop.width, OBS_H / crop.height)
+            small = crop.resize((max(1, round(crop.width * s)), max(1, round(crop.height * s))), Image.LANCZOS)
+            canvas = Image.new("RGB", (OBS_W, OBS_H), (128, 128, 128))
+            canvas.paste(small, ((OBS_W - small.width) // 2, (OBS_H - small.height) // 2))
+            views.append(np.asarray(canvas, dtype=np.uint8))
+        return views
+
+    def text_px_in_label_view(self, policy_width=512):
+        """Height of a capital letter in a label close-up after the policy's resize to 512."""
+        crop_w = self._bbox(self.label_corners[0], 0.06)
+        s = min(OBS_W / (crop_w[2] - crop_w[0]), OBS_H / (crop_w[3] - crop_w[1]))
+        return self.text_px() * s * policy_width / OBS_W
+
+    def text_px_in_input(self, zoom=False, policy_width=512):
+        """Height of a capital letter in the image the policy finally sees (after its resize to 512)."""
+        width = (self.zoom_box()[2] - self.zoom_box()[0]) if zoom else W
+        return self.text_px() * policy_width / width
 
     def text_px(self):
         """Height of a capital letter on the sensor, in pixels."""
@@ -199,6 +246,6 @@ class ReachEnv:
             self.renderer = None
 
 
-def make_specs(n, pair_ids, view, seed):
+def make_specs(n, pair_ids, view, seed, pairing="lookalike"):
     rng = random.Random(seed)
-    return [sample_spec(rng, pair_ids, view) for _ in range(n)]
+    return [sample_spec(rng, pair_ids, view, pairing) for _ in range(n)]
